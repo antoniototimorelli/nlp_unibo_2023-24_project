@@ -1,0 +1,39 @@
+aq_classification_report =               precision    recall  f1-score   support
+
+           0       0.06      1.00      0.11         1
+           1       0.82      0.79      0.81        73
+           2       0.50      0.25      0.33        20
+           3       1.00      0.17      0.29         6
+
+    accuracy                           0.65       100
+   macro avg       0.59      0.55      0.38       100
+weighted avg       0.76      0.65      0.67       100
+
+arguments_quantifier_accuracy = 0.65
+arguments_quantifier_f1_score = 0.3824665831244779
+clf_report =               precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95      3961
+           1       0.54      0.66      0.60       359
+           2       0.62      0.52      0.56        60
+
+    accuracy                           0.92      4380
+   macro avg       0.71      0.71      0.71      4380
+weighted avg       0.92      0.92      0.92      4380
+
+clf_report_ov75 =               precision    recall  f1-score   support
+
+           0       0.97      0.95      0.96      2869
+           1       0.57      0.72      0.64       270
+           2       0.61      0.57      0.59        47
+
+    accuracy                           0.92      3186
+   macro avg       0.72      0.75      0.73      3186
+weighted avg       0.93      0.92      0.92      3186
+
+eval_f1_macro = 0.7050993371100386
+eval_f1_macro_filtered = 0.7758308238468761
+eval_f1_macro_ov75 = 0.7292241225241031
+eval_f1_micro = 0.917351598173516
+eval_f1_micro_filtered = 0.921849710982659
+eval_f1_micro_ov75 = 0.9205900816070306

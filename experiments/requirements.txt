@@ -1,0 +1,9 @@
+setuptools==75.1.0
+wheel==0.44.0
+torch
+torchtext
+scikit-learn
+numpy
+pandas
+matplotlib
+transformers

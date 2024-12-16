@@ -1,0 +1,1815 @@
+Premise
+the overall success rates were 87 % for the 350 - mm2 group and 70 % for the 500 - mm2 group ( p = 0 . 05 ) .
+
+Premise
+the life - table success rates declined over time for both implant groups , from a high of 98 % for the 350 - mm2 group and 92 % for the 500 - mm2 group at 1 year to a cumulative success rate of 79 % for the 350 - mm2 group and 66 % for the 500 - mm2 group at 5 years .
+
+Premise
+visual acuities were better or remained the same in 50 % of the patients in the 350 - mm2 group and 46 % of those in the 500 - mm2 group .
+
+Claim
+the longer term results show that the 350 - mm2 baerveldt implant is more successful than the 500 - mm2 implant for overall iop control .
+
+Premise
+clinical success was 71 % ( 75 / 106 ) with brimonidine and 70 % ( 73 / 105 ) with timolol as initial treatment .
+
+Premise
+the overall mean decrease in iop was 6 . 5 mm hg with brimonidine and 6 . 2 mm hg with timolol .
+
+Premise
+few patients reported a specific adverse event
+
+Premise
+with the exception of a slightly higher rate of ocular burning and stinging in the brimonidine group , there were no significant between - group differences .
+
+Premise
+no significant chronotropic effects on the heart were seen with brimonidine
+
+Premise
+small but significant mean decreases in heart rate were seen at months 1 and 4 with timolol .
+
+Premise
+mean systolic and diastolic blood pressure remained relatively stable in both groups .
+
+Premise
+quality of life remained stable , with no significant between - group differences .
+
+Claim
+as a first - line agent for the treatment of glaucoma and ocular hypertension , brimonidine has clinical effectiveness equivalent to timolol , but with less chronotropic effect on the heart .
+
+Claim
+brimonidine is a viable alternative to timolol for first - line therapy in glaucoma and ocular hypertension .
+
+Premise
+survival was statistically significantly better in the paclitaxel plus supportive care arm than in the supportive care alone arm ( two - sided p = . 037 ) ( median survival = 6 . 8 months versus 4 . 8 months ) .
+
+Premise
+cox multivariate analysis showed paclitaxel plus supportive care to be statistically significantly associated with improved survival ( two - sided p = . 048 ) .
+
+Premise
+qol was similar for both treatment arms ,
+
+Premise
+except for the functional activity score of the rotterdam symptom checklist , where qol data statistically significantly favored the paclitaxel plus supportive care arm ( two - sided p = . 043 ) .
+
+Claim
+the addition of paclitaxel to best supportive care significantly improved survival and time to disease progression compared with best supportive care in patients with advanced nsclc and may improve some aspects of qol .
+
+Premise
+patients in the pcde arm had a statistically significant higher frequency of combined complete plus partial responses compared with those in the ep arm ( 21 % plus 55 % versus 13 % plus 48 % , respectively ; p = . 02 for difference in combined objective responses ) .
+
+Premise
+patients in the pcde arm survived longer than those in the ep arm ( 1 - year survival rate : 40 % and 29 % , respectively ; median survival : 10 . 5 and 9 . 3 months , respectively ; log - rank p = . 0067 ) .
+
+Premise
+in the cox model , the relative risk of death for patients in the pcde arm compared with those in the ep arm was 0 . 70 ( 95 % confidence interval = 0 . 51 to 0 . 95 ) ;
+
+Premise
+the disease also progressed more slowly in patients in the pcde arm .
+
+Premise
+hematologic toxicity was higher in the pcde arm ( 22 % with documented infections compared with 8 % in the ep arm ; p = . 0038 ) ,
+
+Premise
+the toxicity - related death rate was 9 % in the pcde arm versus 5 . 5 % in the ep arm ( p = . 22 ) .
+
+Claim
+compared with the ep regimen , the pcde regimen yielded higher response rates and better survival rates in patients with extensive sclc without affecting the quality of life of the patients during chemotherapy .
+
+Premise
+epoetin alfa , compared with placebo , significantly decreased transfusion requirements ( p = . 0057 ) and increased hemoglobin ( p < . 001 ) .
+
+Premise
+improvement of all primary cancer - and anemia - specific qol domains , including energy level , ability to do daily activities , and fatigue , was significantly ( p < . 01 ) greater for epoetin alfa versus placebo patients .
+
+Premise
+kaplan - meier estimates showed a trend in overall survival favoring epoetin alfa ( p = . 13 , log - rank test ) ,
+
+Premise
+cox regression analysis showed an estimated hazards ratio of 1 . 309 ( p = . 052 ) favoring epoetin alfa .
+
+Premise
+adverse events were comparable between groups .
+
+Claim
+epoetin alfa safely and effectively ameliorates anemia and significantly improves qol in cancer patients receiving nonplatinum chemotherapy .
+
+Claim
+encouraging results regarding increased survival warrant another trial designed to confirm these findings .
+
+Premise
+the intraocular pressure was lowered an additional - 5 . 7 to - 7 . 2 mm hg and - 5 . 1 to - 6 . 7 mm hg in the travoprost 0 . 004 % and 0 . 0015 % concentrations , respectively .
+
+Premise
+these changes were significantly ( p < or = . 0001 ) different from the vehicle group ( - 1 . 3 to - 2 . 8 mm hg ) .
+
+Premise
+the intraocular pressure range on treatment at all visit times over the 6 - month treatment period ranged from 17 . 9 to 19 . 2 mm hg for travoprost 0 . 004 % and 18 . 3 to 20 . 1 mm hg for travoprost 0 . 0015 % compared with 22 . 4 to 24 . 1 mm hg for vehicle .
+
+Premise
+average hyperemia scores ranged from trace to mild ( mean 0 . 5 on a scale of 0 = none / trace ; 1 = mild ; 2 = moderate ; 3 = severe ) for all treatment groups .
+
+Premise
+no iris pigmentation changes were observed in any patient during this study .
+
+Premise
+there were no clinically or statistically significant changes from baseline in visual acuity , ocular cells and flare , fundus parameter , cup - to - disk ratio and visual field between the treatment groups .
+
+Premise
+there were no serious adverse events reported for any treatment group .
+
+Claim
+travoprost produced clinically relevant and statistically significant additional intraocular pressure reductions from baseline when used adjunctively with timolol in subjects with open - angle glaucoma or ocular hypertension .
+
+Premise
+composite fact - g and most individual subscale scores ( physical , social / family , emotional , and functional well being ) in documented responders ( n = 21 ) gradually increased during the study period , generally reaching statistical significance ( p < 0 . 05 ) by cycle 3 , and were significantly ( p < or = 0 . 041 ) higher than the scores of nonresponders at endpoint .
+
+Premise
+additionally for responders , assessments of skin severity and pruritus severity showed significant ( p < or = 0 . 05 ) improvements at study endpoint compared with baseline .
+
+Premise
+adverse transfusion - related events ( eg , hypersensitivity reactions , flu - like syndrome ) were common during cycles 1 and 2 , and vascular - leak syndrome occurred in 25 % of patients .
+
+Claim
+denileukin diftitox was not associated with any clinically significant myelosuppression .
+
+Claim
+heavily pretreated patients with advanced and / or recurrent ctcl who responded to denileukin diftitox therapy showed significant improvements in self - rated overall qol , skin appearance , and pruritus severity .
+
+Premise
+transfusion - free ( p = . 0012 ) survival and transfusion - and severe anemia - free survival ( p = . 0001 ) were significantly greater in the epoetin beta group versus placebo ( wald chi ( 2 ) test ) , giving a relative risk reduction of 43 % and 51 % , respectively .
+
+Premise
+the response rate was 67 % and 27 % in the epoetin beta versus the placebo group , respectively ( p < . 0001 ) .
+
+Premise
+after 12 and 16 weeks of treatment , qol significantly improved in the epoetin beta group compared with placebo ( p < . 05 ) ;
+
+Premise
+this improvement correlated with an increase in hb concentration ( > or = 2 g / dl ) .
+
+Claim
+many severely anemic and transfusion - dependent patients with advanced mm , nhl , and cll and a low performance status benefited from epoetin therapy , with elimination of severe anemia and transfusion need , and improvement in qol .
+
+Premise
+for the de gramont , lokich , and raltitrexed groups , respectively , median survival was 294 , 302 , and 266 days .
+
+Premise
+the hazard ratios for overall survival were 0 . 88 ( 95 % ci 0 . 70 - 1 . 12 , p = 0 . 17 ) for de gramont versus lokich , and 0 . 99 ( 0 . 79 - 1 . 25 , p = 0 . 94 ) for de gramont versus raltitrexed .
+
+Premise
+an increase in treatment - related deaths was seen on raltitrexed ( de gramont one , lokich two , raltitrexed 18 ) due to combined gastrointestinal and haematological toxicity .
+
+Premise
+patients ' assessment of quality of life showed that raltitrexed was inferior to the fluorouracil - based regimens , especially in terms of palliation and functioning .
+
+Claim
+the degramont and lokich regimens were similar in terms of survival , quality of life , and response rates .
+
+Claim
+the lokich regimen was associated with more central line complications and hand - foot syndrome .
+
+Claim
+raltitrexed showed similar response rates and overall survival to the de gramont regimen and was easier to administer ,
+
+Claim
+but resulted in greater toxicity and inferior quality of life .
+
+Claim
+at higher doses , however , tmx inhibits hcc through er - independent mechanisms .
+
+Premise
+three - month survival rates for the p , tmx60 , and tmx120 groups were 44 % , 41 % , and 35 % , respectively , with a statistically significant trend difference in survival across the 3 treatment regimens ( p = . 011 ) .
+
+Premise
+there was a significantly higher risk of death in the tmx120 group compared with the p group ( hazard ratio , 1 . 39 ; 95 % confidence interval , 1 . 07 - 1 . 81 ) .
+
+Premise
+adverse drug reactions were reported in 3 % ( 9 patients ) ,
+
+Premise
+8 patients were lost to follow - up .
+
+Claim
+tmx does not prolong survival in patients with inoperable hcc and has an increasingly negative impact with increasing dose .
+
+Claim
+no appreciable advantage to qol with tmx was observed .
+
+Premise
+among the patients receiving treatment 3 times weekly , 16 of 49 patients ( 32 . 7 % ) achieved a clinical response at the end of the third treatment cycle ( no crs , 1 pr , and 15 sds ) .
+
+Premise
+concomitant or prior use of protease inhibitors did not appear to affect the patient ' s response to treatment ( p = 0 . 183 ) .
+
+Claim
+a three - times - per - week dosing schedule was noted to be more effective compared with a once - a - week schedule without any significant difference in toxicity reported .
+
+Claim
+radiotherapy is an effective palliative treatment for cancer patients with painful bone metastases .
+
+Premise
+comparing the single - and multiple - fraction radiotherapy schedules , no differences were found in life expectancy ( 43 . 0 versus 40 . 4 weeks , p = . 20 ) or quality - adjusted life expectancy ( 17 . 7 versus 16 . 0 weeks , p = . 21 ) .
+
+Premise
+the estimated cost of radiotherapy , including retreatments and nonmedical costs , was statistically significantly lower for the single - fraction schedule than for the multiple - fraction schedule ( $ 2438 versus $ 3311 , difference = $ 873 , 95 % confidence interval [ ci ] on the difference = $ 449 to $ 1297 ; p < . 001 ) .
+
+Premise
+the estimated difference in total societal costs was larger , also in favor of the single - fraction schedule ,
+
+Premise
+but it was not statistically significant ( $ 4700 versus $ 6453 , difference = $ 1753 , 95 % ci on the difference = - $ 99 to $ 3604 ; p = . 06 ) .
+
+Premise
+for willingness - to - pay between $ 5000 and $ 40 000 per quality - adjusted life year , the single - fraction schedule was statistically significantly more cost - effective than the multiple - fraction schedule ( p < or = . 05 ) .
+
+Claim
+compared with multiple - fraction radiotherapy , single - fraction radiotherapy provides equal palliation and quality of life and has lower medical and societal costs , at least in the netherlands .
+
+Claim
+therefore , single - fraction radiotherapy should be considered as the palliative treatment of choice for cancer patients with painful bone metastases .
+
+Premise
+median survival was 16 . 9 months ( 95 % confidence interval [ ci ] , 10 . 5 to 21 . 2 months ) in the tee arm and 23 . 4 months ( 95 % ci , 12 . 9 to 30 . 6 months ) for patients treated with ka / ve .
+
+Premise
+many patients ( 24 % ) failed to complete at least 6 weeks of therapy , including five ( 8 % ) treatment - related early deaths .
+
+Claim
+each of these regimens produced clinically significant responses ,
+
+Claim
+the observed median survival ( 18 . 9 months for all 71 patients ) compares favorably with previously published results , especially in the community setting .
+
+Premise
+sixteen ( 13 . 2 % ) of 121 patients in the placebo group converted to glaucoma , compared with 12 ( 9 . 0 % ) of 134 patients in the betaxolol group .
+
+Premise
+the intent - to - treat analysis demonstrated no evidence of any difference in conversion rates between the betaxolol and placebo groups after 3 years .
+
+Premise
+visual field survival analysis demonstrated no significant difference between the betaxolol and placebo groups .
+
+Premise
+the betaxolol - treated group had significantly lower post - treatment iop values .
+
+Premise
+converters had significantly higher pre - and post - treatment iop values than non - converters .
+
+Premise
+at 09 . 00 hours ( presumed trough ) on day 60 , mean reductions from baseline in intraocular pressure were 6 . 32 + / - 2 . 87 and 5 . 67 + / - 3 . 30 mmhg for the alginate carteolol and standard groups , respectively .
+
+Premise
+at 11 . 00 hours ( presumed peak ) , mean reductions were 6 . 70 + / - 2 . 81 and 6 . 55 + / - 3 . 35 mmhg , respectively .
+
+Premise
+at each evaluation time , the two unilateral t tests were highly significant ( p < 0 . 005 ) ,
+
+Premise
+safety - slight decreases in heart rate and blood pressure means were observed in both groups at follow - up visits with no significant difference between groups .
+
+Premise
+subjective tolerance upon instillation was judged good or very good at day 60 by 100 % of alginate patients and by 98 . 7 % of standard patients .
+
+Premise
+transient discomfort ( mainly stinging or burning sensation ) was reported by approximately 4 % - 6 % of patients in each treatment group at each visit .
+
+Premise
+a blurred vision sensation was reported by 2 out of 74 patients of the alginate group .
+
+Premise
+among the 17 reported adverse events , three were assessed as drug - related : one vertigo , one superficial punctate keratitis in the alginate group and one decrease in blood pressure in the standard group .
+
+Premise
+no serious adverse events were reported .
+
+Claim
+the new alginate formulation of long - acting carteolol 1 % given once daily is as effective as standard 1 % carteolol given twice daily , with no meaningful differences regarding safety .
+
+Claim
+the new alginate formulation of long - acting carteolol 1 % given once a day is effective and well tolerated by glaucoma patients who require chronic treatment .
+
+Premise
+both patients with objective response and disease stabilisation had clearly better symptom control than those with disease progression .
+
+Premise
+symptom control in both arms was similar for ' disease - specific ' symptoms such as cough , dyspnea , pain or haemoptysis .
+
+Premise
+compared to pv , a significantly larger number of gem - patients had better scores for ' constitutional ' items such as anorexia ( p = 0 . 007 ) , ability to carry on with daily activities ( p = 0 . 04 ) and overall impression of quality - of - life ( p = 0 . 008 ) .
+
+Premise
+symptom control was very similar in younger ( < 65 years ) versus older ( > / = 65 years ) patients , and only slightly better in those with a karnofsky ps > / = 80 % compared to those < 80 % .
+
+Premise
+most of the symptom improvement occurred in the first 3 cycles , with some further symptom improvement in the following cycles in the gem - arm only .
+
+Claim
+both gem and pv yield a symptom control rate much higher than expected by the objective tumour rr .
+
+Claim
+gem is equally effective in controlling ' disease - specific ' symptoms , but superior in controlling ' constitutional ' symptoms .
+
+Premise
+most of the symptom control was achieved during the first 3 cycles of treatment , with some further improvement thereafter in the gem - arm only .
+
+Premise
+the iop readings after treatment were significantly lower than their baseline levels in both groups at all visits ( p < 0 . 001 ) .
+
+Premise
+at peak , the mean decreases from the baseline iop ranged from 5 . 22 + / - 0 . 30 mmhg to 6 . 96 + / - 0 . 33 mmhg for brimonidine and from 4 . 55 + / - 0 . 49 mmhg to 6 . 64 + / - 0 . 53 mmhg for timolol .
+
+Premise
+at trough , the mean decreases from baseline ranged from 3 . 72 + / - 0 . 32 mmhg to 4 . 55 + / - 0 . 32 mmhg for brimonidine and 3 . 82 + / - 0 . 52 mmhg to 4 . 27 + / - 0 . 51 mmhg for timolol .
+
+Premise
+the clinical success rate was 86 . 2 % in the brimonidine group and 81 . 8 % in the timolol group , making no statistically significant difference between them ( p = 0 . 817 ) .
+
+Premise
+17 . 2 % of patients in brimonidine group and 9 . 0 % patients in timolol group reported mild adverse events .
+
+Premise
+ocular allergy occurred in 10 . 3 % of patients in brimonidine group .
+
+Premise
+no significant changes in visual acuity , biomicroscopy or ophthalmoscopy were observed in both groups .
+
+Premise
+mean systolic and diastolic blood pressure remained relatively stable in both groups
+
+Premise
+except in week 2 ( p = 0 . 016 ) when brimonidine had lower systolic blood pressure .
+
+Premise
+the mean heart rate in the brimonidine group was relatively unchanged over the study period .
+
+Premise
+patients receiving timolol experienced statistically significant mean heart rate decreases from baseline ( p = 0 . 020 ) in week 4 .
+
+Claim
+topically applied twice daily for one month , brimonidine tartrate 0 . 2 % has clinical effectiveness equivalent to timolol 0 . 5 % in taiwanese patients with glaucoma .
+
+Claim
+it has a safe systemic profile with minimum effect on the heart .
+
+Premise
+with a median follow - up of more than 3 years , survival did not differ among the treatment groups ( median fu + lv , 11 . 1 months [ 95 % ci , 10 . 2 to 15 . 0 months ] ; fu24h , 13 . 0 months [ 95 % ci , 10 . 4 to 15 . 4 months ] ; fu24h + lv , 13 . 7 months [ 95 % ci , 12 . 0 to 16 . 4 months ] ; p = . 724 ) .
+
+Premise
+progression - free survival ( pfs ) was significantly longer for fu24h + lv ( median fu + lv , 4 . 0 months [ 95 % ci , 3 . 4 to 4 . 9 ] ; fu24h , 4 . 1 months [ 95 % ci , 3 . 4 to 5 . 0 ] ; fu24h + lv 5 . 6 months [ 95 % ci , 4 . 4 to 6 . 7 ] ; p = . 029 ) .
+
+Premise
+the response rates in the subgroup of patients with measurable disease were 12 % , 10 % , and 17 % for fu + lv , fu24h , and fu24h + lv , respectively ( not significant ) .
+
+Premise
+occurrence of grade 3 and 4 diarrhea was higher in the fu24h + lv arm ( 22 % ) compared with the fu24h ( 6 % ) or fu + lv ( 9 % ) arms ;
+
+Premise
+however , stomatitis ( 11 % in fu + lv v 3 % in fu24h v 5 % in fu24h + lv arms ) and hematologic toxicity were higher in the bolus fu + lv arm .
+
+Claim
+neither fu24h + lv nor fu24h prolong survival , relative to bolus fu + lv .
+
+Claim
+leucovorin increases pfs if added to fu24h , but increases toxicity .
+
+Premise
+at the 8 am measurements , bimatoprost lowered mean iop 6 . 8 mmhg to 7 . 6 mmhg from baseline , whereas combined timolol and dorzolamide lowered mean iop 4 . 4 to 5 . 0 mmhg from baseline ( p < 0 . 001 ) .
+
+Premise
+at the last follow - up , patients had better diurnal iop control with bimatoprost than combined timolol and dorzolamide .
+
+Premise
+at 8 am at the 3 - month visit , the percentages of patients achieving iops of < or = 13 mmhg , < or = 14 mmhg , < or = 15 mmhg , or < or = 16 mmhg were more than twice as high for bimatoprost than for combined timolol and dorzolamide ( all p < or = 0 . 008 ) .
+
+Premise
+taste perversion , ocular burning , and stinging with instillation were more common with combined timolol and dorzolamide , whereas conjunctival hyperemia was more common with bimatoprost .
+
+Claim
+in individuals with glaucoma or ocular hypertension , uncontrolled on a topical beta - blocker alone , bimatoprost lowered iop more consistently than did combined timolol and dorzolamide .
+
+Premise
+there were no statistically significant differences in hrqol between the two treatment groups .
+
+Premise
+in both groups , selected aspects of hrqol were impaired over time , with increased fatigue ,
+
+Premise
+although some clinically significant improvements in emotional functioning were seen , as well as a reduction in pain over time .
+
+Claim
+overall , global quality of life was maintained in both treatment groups .
+
+Claim
+this information is important when advising women patients of the expected hrqol consequences of treatment regimens and should help clinicians and their patients make informed treatment decisions .
+
+Premise
+the use of prophylactic tamsulosin resulted in a statistically lower dysuria severity score ( difference of 2 . 7 vs 4 . 2 , p < 0 . 005 ) at 1 month , with no discernible differences at 3 , 6 , 12 and 18 months .
+
+Premise
+patients with dysuria had a statistically higher ipss .
+
+Premise
+in multivariate analysis , prophylactic alpha - blockers resulted in statistically lower maximum dysuria scores ,
+
+Premise
+while the maximum ipss after implantation and isotope type ( but only at 6 months ) were the best predictors of the resolution of dysuria .
+
+Claim
+dysuria is common after brachytherapy but is typically mild .
+
+Claim
+prophylactic alpha - blockers gave significantly lower maximum dysuria scores
+
+Claim
+but did not affect the time to the resolution of dysuria .
+
+Premise
+with a median follow - up of 17 months , median pfs was 8 . 6 months for gemcitabine - carboplatin ( 95 % confidence interval [ ci ] 7 . 9 - 9 . 7 months ) and 5 . 8 months for carboplatin ( 95 % ci 5 . 2 - 7 . 1 months ; hazard ratio [ hr ] 0 . 72 [ 95 % ci 0 . 58 - 0 . 90 ; p = 0 . 0032 ] ) .
+
+Premise
+the response rate for the gemcitabine - carboplatin group was 47 . 2 % ( 95 % ci 39 . 9 - 54 . 5 % ) and 30 . 9 % for carboplatin group ( 95 % ci 24 . 1 - 37 . 7 % ; p = 0 . 0016 ) .
+
+Premise
+the hr for overall survival was 0 . 96 ( 95 % ci 0 . 75 - 1 . 23 ; p = 0 . 7349 ) .
+
+Claim
+gemcitabine - carboplatin treatment significantly improves the pfs of patients with platinum - sensitive recurrent ovarian cancer .
+
+Premise
+no differences were seen between groups in mean change scores from baseline for the sf - 36 physical and mental component summary scores at 6 , 12 , 24 , and 36 months .
+
+Premise
+small ( < 0 . 2 standard deviations ) but statistically significant differences in mean change scores from baseline were seen for the sf - 36 domains of physical functioning ( 12 months ) , bodily pain ( 6 months ) and vitality ( 6 and 12 months ) , and the menqol vasomotor ( 6 , 12 , and 24 months ) and sexual domains ( 12 and 24 months ) .
+
+Premise
+on the response analysis , a significant difference was seen between groups for the bodily pain domain ( percentage of patients reporting a worsening of qol , 47 % placebo v 51 % letrozole ; p = . 009 ) and the vasomotor domain ( 22 % placebo v 29 % letrozole ; p = . 001 ) .
+
+Claim
+letrozole did not have an adverse impact on overall qol .
+
+Claim
+patients receiving concomitant and maintenance temozolomide + radiotherapy had significantly improved overall survival .
+
+Premise
+the hazard ratio was 0 . 63 ( 95 % confidence interval , 0 . 52 - 0 . 75 ; log - rank , p < 0 . 0001 ) .
+
+Premise
+median survival was 14 . 6 months ( temozolomide + radiotherapy ) versus 12 . 1 months ( radiotherapy alone ) .
+
+Premise
+overall ( fact - g ) scores did not differ significantly between arms at the fourth assessment ( c = 70 . 3 ( 19 . 6 ) ; cp = 72 . 8 ( 17 . 4 ) ) .
+
+Premise
+scores were stable over time and considerably lower than the general population norms .
+
+Premise
+the bpi - sf revealed a decline in pain scores in both arms from the first to fourth assessments .
+
+Premise
+the cp arm produced a significantly higher response rate and progression - free survival ( pfs )
+
+Premise
+but not overall survival ( os ) .
+
+Premise
+greater myelosuppression was reported in the combination arm .
+
+Premise
+the rate of qol drop - out for any reason was higher for c ( 53 % ) compared to cp ( 38 % ) ( p < 0 . 05 ) .
+
+Claim
+combined with qol results , the significant increase in response and pfs in the cp arm and the higher drop - out rate in the c arm suggest a better outcome for the combination regimen despite its increased myelosuppression .
+
+Premise
+fat mass had significantly decreased by month 12 in the exemestane , but not in the tamoxifen group ;
+
+Premise
+the between - group difference was statistically significant ( p < 0 . 01 ) .
+
+Premise
+the ffm / fm ratio had significantly increased in the exemestane group , but not the tamoxifen group ;
+
+Premise
+the between - group difference was statistically significant ( p < 0 . 05 ) .
+
+Premise
+triglycerides and high - density lipoprotein cholesterol significantly decreased ( p < 0 . 01 ; p < 0 . 05 ) ,
+
+Premise
+low - density lipoprotein cholesterol significantly increased ( p < 0 . 01 ) in the exemestane group at the end of the 1 - year study period .
+
+Claim
+our findings suggest that switching patients to adjuvant exemestane treatment after at least 2 years of tamoxifen therapy may be associated with an advantage over continuing adjuvant tamoxifen treatment in terms of body composition .
+
+Premise
+combination treatment in the gemcis arm was associated with a prolonged median progression - free survival ( 5 . 3 months v 3 . 1 months ; hazard ratio [ hr ] = 0 . 75 ; p = . 053 ) .
+
+Premise
+also , median overall survival was superior for patients treated in the gemcis arm as compared with the gem arm ( 7 . 5 v 6 . 0 months ) ,
+
+Premise
+an advantage which did not , however , reach statistical significance ( hr = 0 . 80 ; p = . 15 ) .
+
+Premise
+tumor response rates were comparable between treatment arms ( 10 . 2 % v 8 . 2 % ) .
+
+Premise
+the rate of stable disease was , however , greater in the combination arm ( 60 . 2 % v 40 . 2 % ; p < . 001 )
+
+Premise
+grade 3 to 4 hematologic toxicity did not exceed 15 % in both treatment arms .
+
+Claim
+these results support the efficacy and safety of an every - 2 - weeks treatment with gemcitabine plus cisplatin .
+
+Premise
+although the difference did not attain statistical significance .
+
+Premise
+there was no significant difference in average score values between the
+
+Premise
+regard to the primary ( p = 0 . 34 ) or the secondary endpoint ( p = 0 . 94 ) ,
+
+Premise
+significant improvement in symptoms after treatment was found on day 5 ( p < 0 . 001 ) and on day 10 ( p = 0 . 0002 ) .
+
+Claim
+laying on of hands resulted in a significant improvement of cancer - or cancer - therapy - associated symptoms .
+
+Claim
+the efficacy and safety of uterine - artery embolization , as compared with standard surgical methods , for the treatment of symptomatic uterine fibroids remain uncertain .
+
+Premise
+there were no significant differences between groups in any of the eight components of the sf - 36 scores at 1 year .
+
+Premise
+the embolization group had a shorter median duration of hospitalization than the surgical group ( 1 day vs . 5 days , p < 0 . 001 ) and a shorter time before returning to work ( p < 0 . 001 ) .
+
+Premise
+at 1 year , symptom scores were better in the surgical group ( p = 0 . 03 ) .
+
+Premise
+during the first year of follow - up , there were 13 major adverse events in the embolization group ( 12 % ) and 10 in the surgical group ( 20 % ) ( p = 0 . 22 ) , mostly related to the intervention .
+
+Premise
+ten patients in the embolization group ( 9 % ) required repeated embolization or hysterectomy for inadequate symptom control .
+
+Premise
+after the first year of follow - up , 14 women in the embolization group ( 13 % ) required hospitalization , 3 of them for major adverse events and 11 for reintervention for treatment failure .
+
+Claim
+in women with symptomatic fibroids , the faster recovery after embolization must be weighed against the need for further treatment in a minority of patients .
+
+Premise
+kaplan - meier survival curves demonstrated better survival for the experimental group than the control group .
+
+Premise
+cox regression models that took tnm staging or the residual tumor classification and tumor site into account also found significant differences at 10 years .
+
+Premise
+secondary analyses found that differences in favor of the experimental group occurred in patients with stomach , pancreatic , primary liver , or colorectal cancer .
+
+Claim
+the results of this study indicate that patients with gastrointestinal cancer , who undergo surgery for stomach , pancreatic , primary liver , or colorectal cancer , benefit from a formal program of psychotherapeutic support during the inpatient hospital stay in terms of long - term survival .
+
+Claim
+therapy of patients with advanced gastric or gastroesophageal junction cancer should provide symptom relief and improve quality of life ( qol ) because most patients are symptomatic at baseline .
+
+Premise
+time to 5 % deterioration of global health status ( primary end point ) significantly favored dcf over cf ( log - rank test , p = . 01 ) .
+
+Claim
+in v325 , advanced gastric or gastroesophageal junction cancer patients receiving dcf not only had statistically improved overall survival and time to tumor - progression , but they also had better preservation of qol compared with patients receiving cf .
+
+Premise
+eighteen patients experienced brief and reversible adverse events during transfusion , including two patients with acute pulmonary edema .
+
+Premise
+kps was improved from baseline to post - chemotherapy in both arms .
+
+Premise
+qol data showed improvement in some symptom scores ,
+
+Premise
+but there was no difference in the qol scores between the two arms at baseline and all four cycles of treatment .
+
+Premise
+similar response rates were observed in both arms ( arm 1 , 30 % ; arm 2 , 35 % ) .
+
+Premise
+both arms showed similar chemotherapy duration ( 3 . 8 and 4 . 1 months , respectively ) , progression - free survival ( 4 . 0 and 4 . 1 months ) and overall survival ( 9 . 9 and 9 . 3 months ) .
+
+Claim
+red blood cell transfusion achieving hb level above 10 g / dl might contribute to the improvement of the kps and qol seen in patients with agc .
+
+Claim
+the observation of equivalent outcomes at the two target hb levels supports the feasibility of anemia correction to hb 10 g / dl , which merits further evaluation
+
+Claim
+cancer - related fatigue is the most disabling symptom experienced by breast cancer patients following the cancer treatment .
+
+Premise
+there was an improvement of muscle strength at the end of rehabilitation for both groups .
+
+Premise
+the increase from t1 to t2 was significantly higher for the training group .
+
+Premise
+the scores for global quality of life , physical well - being , and functionality increased from t1 to t2 ,
+
+Premise
+but further improvement in the follow - up ( t3 ) was only observed in the training group .
+
+Premise
+the cancer - related fatigue was significantly reduced in the training group from t1 to t3 , however , not in the control group .
+
+Claim
+structured physical training programs initiated during inpatient rehabilitation and continuously practiced in the time thereafter can improve symptoms of chronic fatigue and quality of life in breast cancer patients .
+
+Premise
+overall , patients assigned to receive stress management training did not report significantly less psychological distress on the medical outcomes study 36 - item short form ( sf - 36 ) mental component summary scale than did those assigned to usual care .
+
+Premise
+patients with above - average levels of psychological distress ( scores < or = 50 ) who were randomly assigned to the intervention condition reported significant improvement in their distress compared with those assigned to usual care only on the sf - 36 mental health subscale and the center for epidemiologic studies depression scale .
+
+Claim
+this study found that self - administered stress management training is effective only in those radiotherapy patients with initially higher levels of psychological distress .
+
+Claim
+additional research should examine the benefits of stress management training targeted specifically to patients experiencing heightened distress .
+
+Premise
+the overall probability of success of trabeculectomy and triple procedure was 0 . 613 and 0 . 733 at 15 years , respectively .
+
+Premise
+the success probability of trabeculectomy and triple procedure in reducing iop below 18 mm hg was 0 . 748 and 0 . 825 at 15 years , respectively .
+
+Claim
+in poag and cpacg patients , trabeculectomy and triple procedure were effective in reducing iop for up to 15 years after surgery .
+
+Premise
+true acupuncture was associated with 0 . 8 fewer hot flashes per day than sham at 6 weeks
+
+Premise
+but the difference did not reach statistical significance ( 95 % ci , - 0 . 7 to 2 . 4 ; p = . 3 ) .
+
+Premise
+when participants in the sham acupuncture group were crossed over to true acupuncture , a further reduction in the frequency of hot flashes was seen .
+
+Claim
+we can not exclude the possibility that a longer and more intense acupuncture intervention could produce a larger reduction of these symptoms .
+
+Premise
+the sf - 36 mcs and pcs , health utilities index mark 3 , euroqol 5d , and udi scores were improved significantly in both groups at 6 months and afterward ( p < . 05 ) .
+
+Premise
+at 24 - month follow - up , patients in the hysterectomy group were significantly more satisfied than those in the uae group ( p = . 02 ) .
+
+Claim
+both uae and hysterectomy improved hrqol .
+
+Claim
+conventional treatments have been only partially effective in diminishing these issues , and some have serious risks .
+
+Premise
+the total number of hot flushes decreased from a mean of 79 . 4 ( sd 37 . 4 ) per week before the procedure to a mean of 49 . 9 ( sd 39 . 9 ) per week during the first 2 weeks after the procedure ( p = 0 . 0002 ) .
+
+Premise
+the total number of hot flushes continued to decrease over the remaining follow - up period ( weeks 3 - 12 ) , and stabilised at a mean of 8 . 1 ( sd 5 . 6 ) per week ( p < 0 . 0001 ) .
+
+Premise
+the number of very severe hot flushes was decreased to near zero by the end of the follow - up period ( week 12 ; p < 0 . 0001 ) .
+
+Premise
+night awakenings decreased from a mean of 19 . 5 ( sd 14 . 8 ) per week before the procedure to a mean of 7 . 3 ( sd 7 . 1 ) per week during the first 2 weeks after the procedure ( p < 0 . 0001 ) .
+
+Premise
+the total number of night awakenings continued to decrease over the remaining follow - up period ( weeks 3 - 12 ) and stabilised at a mean of 1 . 4 ( sd 1 . 2 ) per week ( p < 0 . 0001 ) .
+
+Claim
+the findings of this study suggest that stellate - ganglion block can provide survivors of breast cancer with relief from hot flushes and sleep dysfunction with few or no side - effects .
+
+Claim
+long - term relief of symptoms has the potential to improve overall quality of life and increase compliance with anti - oestrogen medications for breast cancer .
+
+Premise
+alopecia , arthralgias / myalgias , and cardiac events were significantly less frequent with ppx / carboplatin , whereas grade > or = 3 neutropenia and grade 3 neuropathy showed a trend of worsening .
+
+Premise
+there was no significant difference in the incidence of hypersensitivity reactions despite the absence of routine premedication in the ppx arm .
+
+Premise
+overall survival was similar between treatment arms ( hazard ratio , 0 . 97 ; log rank p = 0 . 769 ) .
+
+Premise
+median and 1 - year survival rates were 7 . 9 months and 31 % , for ppx versus 8 months and 31 % for paclitaxel .
+
+Claim
+ppx / carboplatin failed to provide superior survival compared with paclitaxel / carboplatin in the first - line treatment of ps 2 patients with nsclc ,
+
+Claim
+but the results with respect to progression - free survival and overall survival were comparable and the ppx regimen was more convenient .
+
+Premise
+significantly higher number of eyes belonging to group a ( 14 eyes ) had shallower anterior chamber than group b ( 7 eyes ) on first post operative day ( p = 0 . 042 ) .
+
+Premise
+six eyes ( 30 % ) in group a had peripheral or central irido - corneal touch in early postoperative period as compared to only one in group b .
+
+Premise
+hypotony was noted in 3 eyes in each group .
+
+Premise
+there was no significant difference in the iop between the two groups after 6 weeks ( group a : 10 . 95 + / - 3 . 03 mmhg vs . group b : 12 . 29 + / - 4 . 67 mmhg ; p = 0 . 87 ) .
+
+Premise
+there was a significant drop in iop following removal of sutures ( 15 . 19 + / - 6 . 15 mmhg to 13 . 19 + / - 6 . 13 mmhg ; p = 006 ) in group b .
+
+Claim
+use of combination of permanent and releasable scleral flap sutures is a safe technique that significantly reduces the incidence of immediate postoperative shallow anterior chamber after trabeculectomy .
+
+Premise
+there was no difference in overall survival ( hr 1 . 01 , 95 % ci 0 . 77 to 1 . 32 ) .
+
+Premise
+median survival with gc and pe was 8 . 0 and 8 . 1 months , respectively .
+
+Premise
+median progression - free survival was 5 . 9 months with gc and 6 . 3 months with pe .
+
+Premise
+grade 3 or 4 myelosuppressions were more frequent with gc ( anaemia : 14 % gc vs 2 % pe ; leucopenia : 32 % gc vs 13 % pe ; thrombocytopenia : 22 % gc vs 4 % pe ) ,
+
+Premise
+but these were not associated with increased hospital admissions , infections or fatalities .
+
+Premise
+grade 2 - 3 alopecia ( 68 % pe vs 17 % gc ) and nausea ( 43 % pe vs 26 % gc ) were more frequent with pe .
+
+Premise
+in qol questionnaires , more patients receiving pe reported being upset by hair loss ( p = 0 . 004 ) and impaired cognitive functioning ( p = 0 . 04 ) .
+
+Claim
+gc is as effective as pe in terms of overall survival and progression - free survival and has a toxicity profile more acceptable to patients .
+
+Premise
+results indicated statistically significant differences for 4 of the 6 quality of life measures : anxiety ( p = . 03 ) , perception of hospitalization ( p = . 03 ) , relaxation ( p = . 001 ) , and stress ( p = . 001 ) .
+
+Premise
+no statistically significant differences were found for mood ( p > . 05 ) or pain ( p > . 05 ) levels .
+
+Claim
+this research study indicates that live music therapy using patient - preferred music can be beneficial in improving quality of life indicators such as anxiety , perception of the hospitalization or procedure , relaxation , and stress in patients undergoing surgical procedures of the brain .
+
+Premise
+there was a high rate of grade 3 / 4 neutropenia ( 97 % ) but not neutropenic fever ( 12 % ) during neoadjuvant chemotherapy .
+
+Premise
+no significant differences in rates of acute toxicities were observed between the two arms during crt .
+
+Premise
+dose intensities of concurrent cisplatin , late rt toxicities and quality of life scores were comparable in both arms .
+
+Premise
+the 3 - year progression - free survival for neoadjuvant versus control arm was 88 . 2 % and 59 . 5 % ( hazard ratio = 0 . 49 ; 95 % ci , 0 . 20 to 1 . 19 ; p = . 12 ) .
+
+Premise
+the 3 - year overall survival for neoadjuvant versus control arm was 94 . 1 % and 67 . 7 % ( hazard ratio = 0 . 24 ; 95 % ci , 0 . 078 to 0 . 73 ; p = . 012 ) .
+
+Claim
+neoadjuvant docetaxel - cisplatin followed by crt was well tolerated with a manageable toxicity profile that allowed subsequent delivery of full - dose crt .
+
+Claim
+preliminary results suggested a positive impact on survival .
+
+Premise
+at 4 years , 64 ( 18 % ) of 353 patients on combined therapy and 39 ( 12 % ) of 337 on endocrine - alone therapy had moderate to severe urinary bother ( p = 0 . 005 ) , and 16 ( 4 % ) of 355 on combined therapy and five ( 2 % ) of 338 on endocrine treatment alone had pain while urinating ( p = 0 . 024 ) .
+
+Premise
+37 ( 11 % ) of 350 in the combined group and 23 ( 7 % ) of 35 in the endocrine - only group had overall bother from all bowel symptoms ( p = 0 . 022 ) .
+
+Premise
+281 ( 85 % ) of 332 in the combined - treatment group and 227 ( 72 % ) of 313 in the endocrine - only group had erectile dysfunction ( p = 0 . 0002 ) .
+
+Premise
+quality of life at 4 years was similar , with the exception of decreased social function in patients receiving endocrine treatment plus radiotherapy .
+
+Claim
+the increase of symptoms seems acceptable and has little extra effect on quality of life after 4 years compared with endocrine treatment alone .
+
+Premise
+the incidences of postoperative complications were similar between groups ( p = 0 . 232 ) .
+
+Premise
+no additional iop - lowering surgical procedures were required in the combined group , while 13 ( 54 % ) eyes in the trabeculectomy group required either cataract extraction or further iop - lowering surgical procedures ( p < 0 . 001 ) .
+
+Claim
+in patients with pacg , the long - term iop - lowering effect and surgical complications of combined trabeculectomy and cataract extraction are comparable with those of trabeculectomy alone .
+
+Premise
+patients in the vbt group reported better social functioning ( p < . 002 ) and lower symptom scores for diarrhea , fecal leakage , the need to stay close to the toilet , and limitation in daily activities because of bowel symptoms ( p < . 001 ) .
+
+Premise
+sexual functioning and symptoms did not differ between the treatment groups .
+
+Premise
+patients who received ebrt reported significantly higher levels of diarrhea and bowel symptoms .
+
+Claim
+vaginal brachytherapy provides a better qol , and should be the preferred treatment from a qol perspective .
+
+Premise
+the operation time was significantly longer , and the leakage rate was higher in the transthoracic group ( student ' s t - test and fischer ' s exact test , respectively ) .
+
+Premise
+intraoperative blood loss and postoperative hospital stay were not significantly different ( student t - test ) .
+
+Premise
+the kaplan - meier survival curves of these two groups were not significantly different by log - rank test ( p = 0 . 286 ) .
+
+Premise
+the score on the quality of life of transhiatal patients was significantly higher than that of transthoracic patients in the third , sixth and twelfth month .
+
+Claim
+transhiatal esophagectomy is a safe and fast procedure .
+
+Claim
+the survival was similar to that of transthoracic approach .
+
+Claim
+its leakage rate was lower and quality of life was better .
+
+Premise
+at postintervention , aet was superior to uc for patient - rated physical functioning ( mean group difference , + 9 . 0 ; 95 % ci , 2 . 0 to 16 . 0 ; p = . 012 ) , overall qol ( p = . 021 ) , fatigue ( p = . 013 ) , happiness ( p = . 004 ) , depression ( p = . 005 ) , general health ( p < . 001 ) , cardiovascular fitness ( p < . 001 ) , and lean body mass ( p = . 008 ) .
+
+Premise
+at 6 - month follow - up , aet was still borderline or significantly superior to uc for overall qol ( p = . 054 ) , happiness ( p = . 034 ) , and depression ( p = . 009 ) without an increased risk of disease recurrence / progression .
+
+Claim
+aet significantly improved important patient - rated outcomes and objective physical functioning in lymphoma patients without interfering with medical treatments or response .
+
+Claim
+exercise training to improve cardiovascular fitness should be considered in the management of lymphoma patients .
+
+Premise
+adjusted for baseline score , disease , and demographic covariates , the intervention group showed an estimated improvement at six weeks for the primary outcome , fatigue , of - 6 . 6 points ( 95 % confidence interval - 12 . 3 to - 0 . 9 , p = 0 . 02 ; effect size = 0 . 33 , 0 . 04 to 0 . 61 ) .
+
+Premise
+significant effects were seen on vitality ( effect size 0 . 55 , 95 % ci 0 . 27 to 0 . 82 ) , physical functioning ( 0 . 37 , 0 . 09 to 0 . 65 ) , role physical ( 0 . 37 , 0 . 10 to 0 . 64 ) , role emotional ( 0 . 32 , 0 . 05 to 0 . 59 ) , and mental health ( 0 . 28 , 0 . 02 to 0 . 56 ) scores .
+
+Premise
+improvement was noted in physical capacity : estimated mean difference between groups for maximum oxygen consumption was 0 . 16 l / min ( 95 % ci 0 . 1 to 0 . 2 , p < 0 . 0001 ) and for muscular strength ( leg press ) was 29 . 7 kg ( 23 . 4 to 34 . 9 , p < 0 . 0001 ) .
+
+Premise
+no significant effect was seen on global health status / quality of life .
+
+Claim
+a supervised multimodal exercise intervention including high and low intensity components was feasible and could safely be used in patients with various cancers who were receiving adjuvant chemotherapy or treatment for advanced disease .
+
+Claim
+the intervention reduced fatigue and improved vitality , aerobic capacity , muscular strength , and physical and functional activity , and emotional wellbeing ,
+
+Claim
+but not quality of life .
+
+Premise
+gem - cap significantly improved objective response rate ( 19 . 1 % v 12 . 4 % ; p = . 034 ) and progression - free survival ( hazard ratio [ hr ] , 0 . 78 ; 95 % ci , 0 . 66 to 0 . 93 ; p = . 004 ) and was associated with a trend toward improved os ( hr , 0 . 86 ; 95 % ci , 0 . 72 to 1 . 02 ; p = . 08 ) compared with gem alone .
+
+Premise
+this trend for os benefit for gem - cap was consistent across different prognostic subgroups according to baseline stratification factors ( stage and performance status ) and remained after adjusting for these stratification factors ( p = . 077 ) .
+
+Premise
+the meta - analysis of two additional studies involving 935 patients showed a significant survival benefit in favor of gem - cap ( hr , 0 . 86 ; 95 % ci , 0 . 75 to 0 . 98 ; p = . 02 ) with no intertrial heterogeneity .
+
+Claim
+on the basis of our trial and the meta - analysis , gem - cap should be considered as one of the standard first - line options in locally advanced and metastatic pancreatic cancer .
+
+Premise
+the mean iop levels of latanoprost / timolol ( 13 . 83 , sd = 2 . 54 ) was significantly lower than of bimatoprost ( 16 . 16 , sd = 3 . 28 ; p < 0 . 0001 ) at week 8 .
+
+Premise
+the change in mean iop values was significantly higher in the latanoprost / timolol group at 10 : 00 am ( p = 0 . 013 ) and 12 : 00 pm ( p = 0 . 01 ) , but not at 8 : 00 am ( p = ns ) .
+
+Premise
+there was a significant decrease in mean heart rate in the latanoprost / timolol group
+
+Premise
+no significant changes in blood pressure and lung spirometry were observed in either groups .
+
+Claim
+the fixed combination of latanoprost / timolol was significantly superior to bimatoprost alone in reducing iop in patients with poag or oht .
+
+Claim
+further studies with large sample sizes should be taken to support the superior efficacy of latanoprost / timolol , as well as to better assess its profile of side effects .
+
+Premise
+food intake improved more rapidly after stent placement than after gjj ,
+
+Premise
+but long - term relief of obstructive symptoms was better after gjj .
+
+Premise
+more major complications ( p = 0 . 02 ) occurred and more reinterventions were performed ( p < 0 . 01 ) after stent placement than after gjj .
+
+Premise
+initial costs were higher for gjj compared to stent placement ( euro8315 vs . euro4820 , p < 0 . 001 ) .
+
+Premise
+we found no difference in follow - up costs .
+
+Premise
+total costs per patient were higher for gjj compared to stent placement ( euro12433 vs . euro8819 , p = 0 . 049 ) .
+
+Premise
+the incremental cost - effectiveness ratio of gjj compared to stent placement was euro164 per extra day with a gastric outlet obstruction scoring system ( gooss ) > or = 2 adjusted for survival .
+
+Claim
+since the cost difference between the two treatments was only small ,
+
+Claim
+cost should not play a predominant role when deciding on the type of treatment assigned to patients with malignant goo .
+
+Premise
+for intervention and control groups respectively , mean catheter duration was 11 . 74 d and 12 . 74 d ( p = 0 . 451 ) ; leakage on cystogram was present in six and eight cases ( p = 0 . 28 ) ; and incontinence ( any involuntary urine loss ) at 3 mo was 75 % and 69 % ( p = 0 . 391 ) and at 6 mo was 51 % and 43 % ( p = 0 . 686 ) .
+
+Premise
+urinary retention occurred only in one case ( control group ) .
+
+Premise
+the percentage of cases returning to baseline in all qol domains ( except insomnia ) was similar at 6 mo between the two groups .
+
+Premise
+short follow - up , lack of blinding , and probable small differences in our method of mfrr performed compared with other studies were identified as significant limitations .
+
+Premise
+no significant difference in any of the analysed outcome measures was observed .
+
+Claim
+posterior reconstruction of the musculofascial complex does not appear to improve early urinary incontinence after ralp .
+
+Premise
+both treatments had a substantial iop - lowering effect which persisted throughout the study ( - 7 . 1 mmhg for tafluprost and - 7 . 7 mmhg for latanoprost at 24 months ) .
+
+Premise
+this difference was clinically small and the noninferiority of tafluprost to latanoprost over all diurnal iop measurements was shown with anova and almost reached with ancova ( upper limits of the 95 % confidence intervals 1 . 38 and 1 . 52 for the overall period , respectively ) .
+
+Claim
+tafluprost is a new effective and well - tolerated treatment for glaucoma and ocular hypertension .
+
+Premise
+mean intraocular pressure ( iop ) changes from baseline were - 4 . 0 + / - 1 . 7 mmhg in tafluprost administered patients and - 1 . 4 + / - 1 . 8 mmhg in placebo administered patients at 4 weeks , with a statistically significant difference ( p < 0 . 001 ) .
+
+Premise
+iop change at 4 weeks , % iop reduction at 2 and 4 weeks were also significantly greater in tafluprost than in placebo .
+
+Premise
+a total of 51 . 0 % in tafluprost treated group and 8 . 9 % in placebo treated group reported adverse drug reactions .
+
+Claim
+these results indicate that tafluprost is clinically useful in the treatment of ntg .
+
+Premise
+treatment was associated with significant improvements in pain ( p = . 024 ) and swelling ( p < . 001 ) .
+
+Premise
+of the 36 patients who reported that pain interfered with their normal work or activities at baseline , 25 ( 69 % ) improved .
+
+Premise
+comparing the paclitaxel and pld arms revealed comparable response rates ( 56 % vs 46 % ; p = . 49 ) , median progression - free survival ( 17 . 5 months vs 12 . 2 months ; p = . 66 ) , and 2 - year survival rates ( 79 % vs 78 % ; p = . 75 ) ,
+
+Premise
+but somewhat more grade 3 to 5 toxicity for paclitaxel ( 84 % vs 66 % ; p = . 077 ) .
+
+Claim
+treatment with either paclitaxel or pld appears to produce significant improvements in pain and swelling in patients with advanced , symptomatic , hiv - associated ks treated in the haart era .
+
+Premise
+arm symptoms were significantly more bothersome for snad compared with snr patients at 6 months ( mean , 4 . 8 v 3 . 0 ; p < . 001 ) and at 12 months ( 3 . 6 v 2 . 5 ; p = . 006 ) .
+
+Premise
+longitudinally , snad patients were more likely to experience ipsilateral arm and breast symptoms , restricted work and social activity , and impaired qol ( p < or = . 002 all items ) .
+
+Premise
+from 12 to 36 months , fewer than 15 % of either snad or snr patients reported moderate or greater severity of any given symptom or activity limitation .
+
+Claim
+this study demonstrates that initial problems with either surgery resolve over time .
+
+Premise
+there was a trend towards improved global hrqol during the treatment period .
+
+Premise
+at 6 months after the end of rt , global hrqol was higher in the tpf arm than in the pf arm ,
+
+Premise
+swallowing and coughing problems decreased more in the tpf arm than in the pf arm at the end of cycle 2 ,
+
+Premise
+but to a limited extent .
+
+Claim
+induction chemotherapy with tpf before rt not only improves survival and reduces toxicity compared with pf but also seems to improve global hrqol in a more sustainable manner .
+
+Premise
+mean physical function at 12 months was 66 points ( 95 % ci 62 · 9 - 70 · 0 ) in the 90 mg group and 68 points ( 64 · 6 - 71 · 4 ) in the 30 mg group ( 95 % ci of difference - 6 · 6 to 3 · 3 ; p = 0 · 52 ) .
+
+Premise
+median time to first skeletal - related event in patients who had such an event was 9 · 2 months ( 8 · 1 - 10 · 7 ) in the 90 mg group and 10 · 2 months ( 7 · 3 - 14 · 0 ) in the 30 mg group ( p = 0 · 63 ) .
+
+Premise
+eight patients in the pamidronate 90 mg group developed osteonecrosis of the jaw compared with two patients in the 30 mg group .
+
+Claim
+monthly infusion of pamidronate 30 mg should be the recommended dose for prevention of bone disease in patients with multiple myeloma .
+
+Premise
+seventy - one percent of patients in the eds group and 76 % in the qw group achieved the target hemoglobin of ≥11 . 0 g / dl .
+
+Premise
+reported adverse events were similar between groups .
+
+Premise
+a slight increase in transfusions was reported in the qw group .
+
+Claim
+darbepoetin alfa , when administered synchronously with chemotherapy , on an eds appears to be similarly efficacious to darbepoetin alfa weekly dosing with no unexpected adverse events .
+
+Premise
+no significant longitudinal changes were detected in the global health status in both groups upon available follow - up .
+
+Premise
+surgery was associated with worsened physical functioning and fatigue symptoms up to 6 months after treatment ( p < 0 . 001 and p = 0 . 021 , respectively ) and these scales improved at 2 years .
+
+Premise
+in terms of pulmonary function , dyspnoic and coughing symptoms were significantly worsened 3 months after surgery ( p = 0 . 024 and p = 0 . 036 , respectively ) whereas symptoms in the crt group progressively deteriorated over time .
+
+Premise
+concerning the eating function , both groups had improvements in dysphagia but there were frequent need for endoscopic intervention .
+
+Claim
+anti - aromatase therapy is important in the treatment of breast cancer in postmenopausal women
+
+Claim
+cyclooxygenase - 2 ( cox - 2 ) inhibitors have been shown to be effective in chemoprevention in animal and clinical studies .
+
+Premise
+difference between groups ( p = 0 . 007 ) for bmd at femur was significant .
+
+Premise
+the changes of bmd in group b patients were significantly greater than patients in group a ( p = 0 . 011 , ci = 0 . 063 - 0 . 437 ) , and group c ( p = 0 . 003 , ci = 0 . 146 - 0 . 620 ) .
+
+Premise
+the mean bap increased from baseline in group b patients but decreased from baseline in group c patients at 3 months and 15 months .
+
+Premise
+no statistical significance was found in the fact - g scores and fact - b scores among different groups at baseline , week 4 , week 8 and week 12 after nht .
+
+Premise
+the breast cancer subscale scores in group a patients were significantly higher than that of group c patients ( p = 0 . 021 ) .
+
+Premise
+after 4 weeks of nht , negative changes of fact - b and fact - g scores were found in group b and c patients ,
+
+Premise
+but there were positive changes in group a patients .
+
+Premise
+significant differences of fact - b score ( p = 0 . 008 ) and fact - g score ( p = 0 . 019 ) were observed at that time point .
+
+Premise
+there was no significant difference in hrqol between nurse - led telephone and hospital follow - up at 12 months after treatment ( p = 0 . 42 ; 95 % confidence interval ( ci ) for difference : - 1 . 93 - 4 . 64 ) and neither between follow - up with or without egp ( p = 0 . 86 ; 95 % ci for difference : - 3 . 59 - 3 . 00 ) .
+
+Premise
+no differences between the intervention groups and their corresponding control groups were found in role and emotional functioning , and feelings of control and anxiety ( all p - values > 0 . 05 ) .
+
+Claim
+nurse - led telephone follow - up seems an appropriate way to reduce clinic visits and represents an accepted alternative strategy .
+
+Premise
+the 15 - year actuarial locoregional recurrence rates were 5 . 8 % for ebrt versus 15 . 5 % for nat ( p < . 001 ) , and 15 - year overall survival was 52 % versus 60 % ( p = . 14 ) .
+
+Premise
+patients treated with ebrt reported significant ( p < . 01 ) and clinically relevant higher rates of urinary incontinence , diarrhea , and fecal leakage leading to more limitations in daily activities .
+
+Premise
+increased symptoms were reflected by the frequent use of incontinence materials after ebrt ( day and night use , 42 . 9 % v 15 . 2 % for nat ; p < . 001 ) .
+
+Premise
+patients treated with ebrt reported lower scores on the sf - 36 scales physical functioning
+
+Premise
+= . 004 ) and role - physical
+
+Premise
+= . 003 ) .
+
+Claim
+ebrt for endometrial cancer is associated with long - term urinary and bowel symptoms and lower physical and role - physical functioning , even 15 years after treatment .
+
+Claim
+despite its efficacy in reducing locoregional recurrence , ebrt should be avoided in patients with low - and intermediate - risk ec .
+
+Premise
+fatigue at t2 was predicted by a significant interaction between self - reported cognitive functioning and cbt .
+
+Premise
+no interactions were found between other domains of quality of life , functioning , psychological distress and cbt .
+
+Premise
+at t3 , no significant difference on fatigue was found between cbt and usual care .
+
+Premise
+exploratory analyses showed that the difference nearly reached significance until 7 months postintervention .
+
+Premise
+after a year of follow - up , the effect of cbt for fatigue was no longer observed , and the effect on fatigue seemed to be diminished 7 months postintervention .
+
+Claim
+the implication is that cbt for fatigue should be offered to patients with cancer with the highest chance to benefit .
+
+Premise
+postoperatively , mean iops were 11 . 4 ± 4 . 9 and 13 . 6 ± 3 . 9 mmhg , respectively for tmmc and t5 - fu groups after 6 months .
+
+Premise
+statistical tests showed no difference in mean and median iop .
+
+Premise
+three cases of hypotonia ( iop < 6 mmhg ) and 1 case of epithelial keratitis were detected .
+
+Claim
+tmmc and t5 - fu appeared to have similar efficacy in lowering iop .
+
+Claim
+anemia is an expected consequence of intensive chemotherapy regimens administered to patients with acute leukemia .
+
+Premise
+a mean of 10 . 6 units of prbcs over 5 months were administered to those who received epoetin alpha compared with 13 units for those who did not receive epoetin ( p = . 04 ) .
+
+Claim
+epoetin alpha decreased the number of prbc transfusions and did not appear to have a negative impact on remission duration .
+
+Claim
+for men with localised prostate cancer , surgery provides a survival benefit compared with watchful waiting .
+
+Premise
+high self - assessed quality of life was reported by 62 ( 35 % ) of 179 men allocated radical prostatectomy , 55 ( 34 % ) of 160 men assigned to watchful waiting , and 93 ( 45 % ) of 208 men in the control group .
+
+Premise
+anxiety was higher in the spcg - 4 groups ( 77 [ 43 % ] of 178 and 69 [ 43 % ] of 161 men ) than in the control group ( 68 [ 33 % ] of 208 men ; relative risk 1 · 42 , 95 % ci 1 · 07 - 1 · 88 ) .
+
+Premise
+prevalence of erectile dysfunction was 84 % ( 146 of 173 men ) in the radical prostatectomy group , 80 % ( 122 of 153 ) in the watchful - waiting group , and 46 % ( 95 of 208 ) in the control group and prevalence of urinary leakage was 41 % ( 71 of 173 ) , 11 % ( 18 of 164 ) , and 3 % ( six of 209 ) , respectively .
+
+Premise
+distress caused by these symptoms was reported significantly more often by men allocated radical prostatectomy than by men assigned to watchful waiting .
+
+Premise
+in a longitudinal analysis of men in spcg - 4 who provided information at two follow - up points 9 years apart , 38 ( 45 % ) of 85 men allocated radical prostatectomy and 48 ( 60 % ) of 80 men allocated watchful waiting reported an increase in number of physical symptoms ; 50 ( 61 % ) of 82 and 47 ( 64 % ) of 74 men , respectively , reported a reduction in quality of life .
+
+Premise
+for men in spcg - 4 , negative side - effects were common and added more stress than was reported in the control population .
+
+Claim
+the number and severity of side - effects changes over time at a higher rate than is caused by normal ageing and a loss of sexual ability is a persistent psychological problem for both interventions .
+
+Premise
+only the dyspnea symptom scale showed superior results for r - y than for b - i ( b - i 13 . 6 ± 17 . 9 , r - y 8 . 6 ± 16 . 3 , p = 0 . 02 ) .
+
+Premise
+with respect to daugs 20 , the total score did not differ significantly between the r - y and b - i groups ( 24 . 8 vs . 23 . 6 , p = 0 . 41 ) .
+
+Premise
+only reflux symptoms were significantly worse for b - i than for r - y ( 0 . 7 ± 0 . 6 vs . 0 . 5 ± 0 . 6 , p = 0 . 01 ) .
+
+Claim
+the b - i and r - y techniques were generally equivalent in terms of postoperative qol and dysfunction .
+
+Claim
+both procedures seem acceptable as standard reconstructions after distal gastrectomy with regard to postoperative qol and dysfunction .
+
+Premise
+the ttp in the test group was prolonged for 23 days when compared with that of the control group , with insignificant difference ( 87 days vs 64 days , p = 0 . 063 ) .
+
+Premise
+the scores of domains in eortc qlq - lc43 were statistically significantly better in the test group than in the control group ( p < 0 . 05 )
+
+Premise
+except cognitive and social functions , the symptoms of dysphagia and pain in other parts .
+
+Claim
+the cm comprehensive regimen as mt had equivalent efficacy on ttp when compared with single - agent maintenance chemotherapy regimen .
+
+Claim
+it was advantageous over improving the qol .
+
+Claim
+it is necessary to enlarge the sample size to further confirm the therapeutic efficacy of cm comprehensive regimen as mt in treatment of patients with advanced nsclc .
+
+Premise
+as for the secondary efficacy endpoints , patient appetite increased , and ecog ps decreased significantly in both arms .
+
+Premise
+the inflammation and oxidative stress parameters il - 6 , tnf - α , crp , and ros decreased significantly in arm 1 , while no significant change was observed in arm 2 .
+
+Claim
+the combined treatment improved both immunometabolic alterations and patient qol .
+
+Claim
+multimodality therapies for cachexia ideally should be introduced within a context of best supportive care that includes optimal symptom management and careful psychosocial counseling .
+
+Premise
+a model measuring effectiveness of ccsp on qol ( total and subscale ) at 1 - year follow - up showed that the ccsp group ( n = 38 ) had significant improvement in overall qol ( p < 0 . 01 ) , health and functioning ( p < 0 . 05 ) , and socioeconomic ( p < 0 . 05 ) and psychological / spiritual well - being ( p < 0 . 01 ) compared with the control group ( n = 35 ) .
+
+Premise
+the ccsp patients frequently used the ccsp to manage psychological ( 51 % ) and sleep problems ( 60 % ) .
+
+Claim
+the ccsp as an effective coping intervention has potential as a self - management program for breast cancer survivors .
+
+Premise
+patients in the ig had significantly improved scores on the facit - fatigue scale at study completion , improved fatigue and pain scores , as well as overall physical functioning and mental health composite scores .
+
+Premise
+there were statistically significant improvements in outcome in the experimental group compared with control group at both 8 and 12 weeks ( except as indicated ) for poms total mood disturbance ( and its subscales of anxiety , depression [ 8 weeks only ] , anger [ 12 weeks only ] , vigor , fatigue , and confusion [ 8 weeks only ] ) , fact - b , fact - es , ( and functional assessment of cancer therapy subscales of physical , social [ 8 weeks only ] , emotional , and functional well - being ) , and who - 5 .
+
+Claim
+to our knowledge , this study provided novel evidence that mbsr can help alleviate long - term emotional and physical adverse effects of medical treatments , including endocrine treatments .
+
+Claim
+mbsr is recommended to support survivors of breast cancer .
+
+Premise
+intention - to - treat analyses indicated that aet resulted in a nonsignificant ( p = 0 . 16 ) improvement in global sleep quality compared with usual care [ mean group difference = - 0 . 64 ; 95 % confidence interval ( ci ) , - 1 . 56 to + 0 . 27 ] .
+
+Premise
+in planned subgroup analyses , statistically significant or borderline significant interactions were identified for type of lymphoma ( p ( interaction ) = 0 . 006 ) , current treatment status ( p ( interaction ) = 0 . 036 ) , time since diagnosis ( p ( interaction ) = 0 . 010 ) , body mass index ( p ( interaction ) = 0 . 075 ) , and baseline sleep quality ( p ( interaction ) = 0 . 041 ) .
+
+Premise
+aet improved global sleep quality in patients with lymphoma who had indolent non - hodgkin lymphoma ( p = 0 . 001 ) , were receiving chemotherapy ( p = 0 . 013 ) , were < 2 years post - diagnosis ( p = 0 . 005 ) , were obese ( p = 0 . 025 ) , and were poor sleepers at baseline ( p = 0 . 007 ) .
+
+Claim
+aet did not significantly improve sleep quality in this heterogeneous sample of patients with lymphoma ;
+
+Claim
+however , clinically identifiable subgroups appeared to benefit .
+
+Premise
+in this updated final analysis of all patients randomly assigned with strata ( n = 291 ) , lapatinib plus trastuzumab continued to show superiority to lapatinib monotherapy in pfs ( hazard ratio [ hr ] , 0 . 74 ; 95 % ci , 0 . 58 to 0 . 94 ; p = . 011 ) and offered significant os benefit ( hr , 0 . 74 ; 95 % ci , 0 . 57 to 0 . 97 ; p = . 026 ) .
+
+Premise
+improvements in absolute os rates were 10 % at 6 months and 15 % at 12 months in the combination arm compared with the monotherapy arm .
+
+Claim
+these data demonstrated a significant 4 . 5 - month median os advantage with the lapatinib and trastuzumab combination and support dual her2 blockade in patients with heavily pretreated her2 - positive mbc .
+
+Premise
+seventeen of 25 hbo - treated patients ( 68 % ) improved versus 8 of 21 controls ( 38 . 1 % ; p = . 043 , χ ( 2 ) test ) .
+
+Premise
+mean time to improvement was 39 . 7 weeks ( 95 % confidence interval [ ci ] , 22 . 4 to 57 . 0 weeks ) for hbo - treated patients versus 67 . 9 weeks ( 95 ci , 48 . 4 to 87 . 5 weeks ) for controls ( p = . 03 , log - rank test ) .
+
+Premise
+however , complete gingival healing occurred in only 14 of 25 hbo - treated patients ( 52 % ) versus 7 of 21 controls ( 33 . 3 % ; p = . 203 , χ ( 2 ) test ) , and time to healing was 59 weeks ( 95 % ci , 42 . 8 % to 75 . 8 % ) for hbo - treated patients versus 70 weeks ( 95 ci , 52 . 2 % to 88 . 36 % ) for controls ( p = . 32 , log - rank test ) .
+
+Premise
+pain decreased faster for hbo - treated subjects ( p < . 01 , linear regression ) .
+
+Premise
+quality - of - life scores for physical health ( p = . 002 ) and perceived health ( p = . 043 ) decreased at 6 months for control group but for not the hbo group .
+
+Claim
+however , it is treatable and even advanced presentations can improve with intensive multimodal therapy .
+
+Claim
+clinically , hbo appears to be a useful adjunct to onj treatment , particularly for more severe cases , although this study was underpowered to fully support this claim .
+
+Premise
+the incidence of adverse events was low in both groups through 24 months of follow - up .
+
+Premise
+at 24 months , the proportion of patients with an iop of 21 mm hg or lower without ocular hypotensive medications was significantly higher in the stent group than in the control group ( p = . 036 ) .
+
+Premise
+the mean iop was stable between 12 months and 24 months ( 17 . 0 mm hg ± 2 . 8 [ sd ] and 17 . 1 ± 2 . 9 mm hg , respectively ) in the stent group but increased ( 17 . 0 ± 3 . 1 mm hg to 17 . 8 ± 3 . 3 mm hg , respectively ) in the control group .
+
+Premise
+ocular hypotensive medication was statistically significantly lower in the stent group at 12 months ; it was also lower at 24 months , although the difference was no longer statistically significant .
+
+Claim
+both groups had a similar favorable long - term safety profile .
+
+Premise
+there was no significant difference in any of the subjects revealed by the questionnaire regarding subjective or objective symptoms , or by the sf - 8 between the daytime group and the nocturnal group after 3 months of treatment .
+
+Premise
+the daytime group showed a significant effect on general health , vitality , social functioning , mental health , and role emotional as revealed on the sf - 8 .
+
+Premise
+conversely , the nocturnal group exhibited a significant decrease in the occurrence of muscle cramps in the legs ( p = 0 . 014 ) and significantly improved fisher ' s ratio after 3 months ( p = 0 . 04 ) .
+
+Claim
+nocturnal administration of bcaa granules in patients with cirrhosis reduced the occurrence of muscle cramps in the leg but did not improve the patients ' qol .
+
+Premise
+of the patients in the one - stage group , 70 percent had revision surgery , mostly because of upper pole fullness and poor ptosis .
+
+Claim
+the permanent expander method failed significantly as a one - stage procedure .
+
+Claim
+the crescent two - stage method gave the most acceptable results both objectively and subjectively .
+
+Premise
+compared with the control group , the intervention groups had a significant decrease in levels of endocrine symptoms ( functional assessment of cancer therapy - endocrine symptoms ; p < . 001 ; effect size , 0 . 31 - 0 . 52 ) and urinary symptoms ( bristol female lower urinary tract symptoms questionnaire ; p = . 002 ; effect size , 0 . 29 - 0 . 33 ) , and they showed an improvement in physical functioning ( 36 - item short form health survey physical functioning subscale ; p = . 002 ; effect size , 0 . 37 - 0 . 46 ) .
+
+Premise
+the groups that included cbt also showed a significant decrease in the perceived burden of hot flashes and night sweats ( problem rating scale of the hot flush rating scale ; p < . 001 ; effect size , 0 . 39 - 0 . 56 ) and an increase in sexual activity ( sexual activity questionnaire habit subscale ; p = . 027 ; effect size , 0 . 65 ) .
+
+Claim
+cbt and pe can have salutary effects on endocrine symptoms and , to a lesser degree , on sexuality and physical functioning of patients with breast cancer experiencing treatment - induced menopause .
+
+Claim
+future work is needed to improve the design and the planning of these interventions to improve program adherence .
+
+Premise
+crf was significantly reduced in the intervention group , corresponding to a fatigue score reduction of 3 . 04 ( effect size of 0 . 44 , 95 % ci 0 . 17 - 0 . 72 ) ( p = . 002 ) , the fact - an score by 5 . 40 ( p = . 015 ) , the fact - an toi score by 5 . 22 ( p = . 009 ) and the anaemia - ans by 3 . 76 ( p = . 002 ) .
+
+Premise
+there was no statistically significant effect on the general quality of life score ( fact - g ) or on any of the individual wellbeing scores ; physical ( p = . 13 ) , emotional ( p = . 87 ) , social ( p = . 83 ) and functional ( p = . 26 ) .
+
+Claim
+in summary , this six - week supervised multimodal exercise intervention can lead to significant reduction in self - reported crf in cancer patients undergoing chemotherapy .
+
+Premise
+there were significant ( p < 0 . 05 ) interaction effects on qol , fitness and fatigue with differences being observed between the treatment groups and the uc group .
+
+Premise
+trends observed for the treatment groups were similar .
+
+Premise
+the treatment groups reported improved qol , fitness and fatigue over time and changes observed between baseline and post - intervention were clinically relevant .
+
+Premise
+in contrast , the uc group experienced no change , or worsening qol , fitness and fatigue , mid - intervention .
+
+Premise
+although improvements in the uc group occurred by 12 - months post - surgery ,
+
+Premise
+the change did not meet the clinically relevant threshold .
+
+Premise
+there were no differences in other treatment - related side effects between groups .
+
+Claim
+this translational intervention trial , delivered either ftf or tel , supports exercise as a form of adjuvant breast cancer therapy that can prevent declines in fitness and function during treatment and optimise recovery post - treatment .
+
+Premise
+median survival was : osc + wbrt 49 days ( 95 % confidence interval 39 - 61 ) , osc 51 days ( 95 % confidence interval 27 - 57 ) - hazard ratio 1 . 11 ( 95 % confidence interval 0 . 80 - 1 . 53 ) in favour of wbrt .
+
+Premise
+quality of life assessed using eq - 5d showed no evidence of a difference .
+
+Premise
+the estimated mean qalys was : osc + wbrt 31 days and osc 30 days , difference - 1 day ( 95 % confidence interval - 12 . 0 to + 13 . 2 days ) .
+
+Claim
+these interim data indicate no early evidence of detriment to quality of life , overall survival or qalys for patients allocated to osc alone .
+
+Premise
+the mean changes were - 4 . 7 + / - 2 . 1 ( s . d . ) in the timolol and - 4 . 0 + / - 2 . 0 mmhg in the brimonidine group ( p = 0 . 0138 ) .
+
+Premise
+the 95 % confidence interval of the inter - group difference was greater than the pre - determined criterion of non - inferiority of brimonidine to timolol .
+
+Premise
+when added to pg analogues , the iop - lowering effect of brimonidine ( - 2 . 9 + / - 1 . 8 mmhg ) was greater than that of the placebo ( - 2 . 1 + / - 1 . 8 mmhg ) ( p = 0 . 0010 ) .
+
+Claim
+topical brimonidine showed an additive iop - lowering effect to topical pg analogues ,
+
+Claim
+although its iop - lowering effect was inferior to topical timolol as monotherapy .
+
+Premise
+intervention increased sf36 score by 9 . 5 points ( p = 0 . 000006 ) , 4 . 6 ( p = 0 . 032 ) and 6 . 2 ( p = 0 . 028 ) respectively at 6 , 12 and 24 months .
+
+Premise
+effect size ( es ) was 0 . 63 [ 0 . 37 ; 0 . 90 ] , 0 . 29 [ 0 . 03 ; 0 . 55 ] and 0 . 41 [ 0 . 04 ; 0 . 78 ] .
+
+Premise
+anxiety score was shortly minored by intervention ( 6 - month es = - 0 . 24 [ - 0 . 42 ; - 0 . 05 ] ) and depression score more durably : es = - 0 . 45 [ - 0 . 72 ; - 0 . 18 ] , - 0 . 34 [ - 061 ; - 0 . 08 ] , and - 0 . 26 [ - 0 . 63 ; 0 . 11 ] at 6 , 12 and 24 months .
+
+Claim
+this 2 - week group intervention seemed to durably influence qol of breast cancer patients treated by chemotherapy .
+
+Premise
+treatment with eve + exe significantly improved median pfs versus pbo + exe among asian patients by 38 % ( hr = 0 . 62 ; 95 % ci , 0 . 41 - 0 . 94 ) .
+
+Premise
+median pfs was also improved among non - asian patients by 59 % ( hr = 0 . 41 ; 95 % ci , 0 . 33 - 0 . 50 ) .
+
+Premise
+median pfs duration among eve - treated asian patients was 8 . 48 versus 4 . 14 months for pbo + exe , and 7 . 33 versus 2 . 83 months , respectively , in non - asian patients .
+
+Premise
+the most common grade 3 / 4 adverse events ( stomatitis , anemia , elevated liver enzymes , hyperglycemia , and dyspnea ) occurred at similar frequencies in asian and non - asian patients .
+
+Premise
+grade 1 / 2 interstitial lung disease occurred more frequently in asian patients .
+
+Premise
+quality of life was similar between treatment arms in asian patients .
+
+Claim
+adding eve to exe provided substantial clinical benefit in both asian and non - asian patients with similar safety profiles .
+
+Claim
+this combination represents an improvement in the management of postmenopausal women with hr ( + ) / her2 ( - ) advanced breast cancer progressing on nonsteroidal aromatase inhibitors , regardless of ethnicity .
+
+Premise
+at week 4 postintervention , women in the intervention group had statistically significant improvement in their fact - g score , fact - g physical well - being subscale , lasa fatigue , poms total score , poms fatigue - inertia subscale , and poms confusion - bewilderment subscale ( p < 0 . 05 ) .
+
+Premise
+men receiving the intervention had a smaller decrease in fact - g score compared to controls ( p = 0 . 048 ) and also worsened on the lasa financial ( p = 0 . 02 ) .
+
+Premise
+at week 27 , the only gender difference was that intervention group men had more poms anger - hostility ( p = 0 . 009 ) .
+
+Premise
+by week 52 , there were no statistically significant gender differences in any of the qol measures .
+
+Claim
+gender - based differences appear to play a role in the early , but not late , response to a multidisciplinary intervention to improve qol for patients with advanced cancer ,
+
+Claim
+early interventions can be tailored for each gender .
+
+Premise
+relative to the control group , women in the tsm group performed better on the verbal memory test ( rey auditory verbal learning test trial 1 ) ( p = 0 . 06 ) and the short - term memory and processing speed task ( digit symbol ) ( p = 0 . 09 ) and reported improved cognitive function ( p = 0 . 06 ) , cognitive abilities ( p = 0 . 08 ) , mental health ( p = 0 . 04 ) , and spirituality ( p = 0 . 05 ) at the end of treatment but not 1 month later .
+
+Claim
+this randomized controlled trial revealed that tsm program appears to be a feasible and acceptable intervention and may be associated with short - term improvements in objective and subjective cognitive function as well as mental health and spirituality in breast cancer patients .
+
+Premise
+no statistically significant between - group differences were found in volume reduction ;
+
+Premise
+however , all groups had clinically and statistically significant reduction in volume .
+
+Premise
+no group differences were noted in psychological and physical symptoms or qol ;
+
+Premise
+however , treatment - related improvements were noted in symptom burden within all groups .
+
+Premise
+skin improvement was noted in each group that received lllt .
+
+Claim
+lllt with bandaging may offer a time - saving therapeutic option to conventional mld .
+
+Claim
+compression bandaging alone could account for the demonstrated volume reduction .
+
+Claim
+apns can effectively treat lymphedema .
+
+Claim
+lasers may provide effective , less burdensome treatment for lymphedema .
+
+Claim
+apns with lymphedema certification can effectively treat this patient population with the use of lllt .
+
+Claim
+bioelectrical impedance and tape measurements can be used to assess lymphedema .
+
+Claim
+analgesia and early quality of recovery may be improved by epidural analgesia .
+
+Premise
+more patients without epidural ( 34 % ) ceased opioid analgesia 3 - 5 days after surgery compared to patients who had an epidural ( 7 % ; p < 0 . 01 ) .
+
+Premise
+postoperative complications ( any grade ) occurred in 86 % of patients with and in 66 % of patients without an epidural ( p < 0 . 01 )
+
+Premise
+there was no difference in serious adverse events ( p = 0 . 19 ) .
+
+Premise
+epidural analgesia was associated with increased length of stay ( up to 48 days compared to up to 34 days in the non - epidural group ) .
+
+Claim
+epidural analgesia was associated with an increase in any , but not serious , postoperative complications and length of stay after abdominal hysterectomy .
+
+Claim
+randomised controlled trials are needed to examine the effect of epidural analgesia on surgical adverse events ,
+
+Claim
+the present data do not support a quality of life benefit with epidural analgesia .
+
+Claim
+the postoperative complications of ( campos ls , limberger lf , stein at , kalil an ) laparoscopic radical hysterectomy are similar to those in abdominal radical hysterectomy .
+
+Premise
+four patients ( 25 % ) in the lrh group and 5 patients ( 36 % ) in the arh group presented with transoperative or serious postoperative complications .
+
+Premise
+all of the transoperative complications occurred in the lrh group .
+
+Premise
+the relative risk of presenting with complications was 0 . 70 ; ci 95 % ( 0 . 23 - 2 . 11 ) ; p = 0 . 694 .
+
+Premise
+lrh group mean pain score was significantly lower than arh after 36 h of observation ( p = 0 . 044 ; mean difference score : 1 . 42 ; 95 % ci : 0 . 04 - 2 . 80 ) .
+
+Claim
+lrh provided lower pain scores after 36 h of observation in this series .
+
+Premise
+serum hbv dna < 15 iu / ml at week 48 , the primary efficacy endpoint , was achieved in 66 . 3 % in the tdf - tdf group and 68 . 0 % in the tdf / etv - tdf group ( p = 0 . 80 ) .
+
+Premise
+at week 144 , the proportion with hbv dna < 15 iu / ml increased to 74 . 5 % , which was significantly higher compared with that at week 48 ( p = 0 . 03 ) , without a significant difference between groups ( p = 0 . 46 ) .
+
+Premise
+transient virologic breakthrough occurred in 6 patients , which was due to poor drug adherence .
+
+Premise
+no patients developed additional resistance mutations throughout the study period .
+
+Claim
+tdf monotherapy was efficacious and safe for up to 144 weeks , providing an increasing rate of virologic response in heavily pretreated patients with multidrug - resistant hbv .
+
+Premise
+intra - ocular pressure ( iop ) change from baseline at 9 am / 11 am pooled over the 8 weeks was - 3 . 3 / - 3 . 3 mmhg in the btfc group and - 2 . 9 / - 3 . 4 mmhg in the dtfc group ,
+
+Premise
+ocular irritation was frequently seen in dtfc group .
+
+Premise
+blurred vision was frequently seen in btfc group ,
+
+Premise
+no noteworthy issue was observed in other safety outcome .
+
+Claim
+non - inferiority of btfc to dtfc in iop reduction was demonstrated after adding onto pga therapy in japanese oag / oh patients .
+
+Claim
+btfc can be considered as a safe and effective agent for glaucoma treatment .
+
+Premise
+fewer complications were noted in eyes receiving sclerostomy ( 5 / 29 , 17 . 2 % ) as compared to control group eyes ( 12 / 31 , 38 . 7 % ) , though differences were marginally significant ( p = . 065 ) .
+
+Premise
+four control group , but no sclerostomy group , eyes developed postoperative uveal effusions ( p = . 04 ) .
+
+Premise
+in multivariable models , sclerostomy decreased the odds of an intraoperative or postoperative complication by 80 % ( odds ratio [ or ] = 0 . 2 , 95 % confidence interval [ ci ] = 0 . 04 - 0 . 92 , p = . 039 ) ;
+
+Premise
+sics was associated with a significantly higher risk of complications as compared to phacoemulsification ( or = 5 . 95 , 95 % ci = 1 . 49 - 23 . 73 , p = . 012 ) , while high preoperative intraocular pressure ( or = 4 . 54 , 95 % ci = 0 . 99 - 20 . 9 , p = . 052
+
+Claim
+cataract surgery in eyes with nanophthalmos is associated with a high risk for vision - threatening complications .
+
+Claim
+performing a simultaneous prophylactic sclerostomy with cataract surgery reduces complication rates , particularly uveal effusions .
+
+Claim
+cataract surgery at earlier stages by phacoemulsification may be more beneficial than undergoing manual sics .
+
+Premise
+the data of the full analysis set showed that hbeag seroconversion rate at week 72 was 27 . 32 % in the trial group and 22 . 70 % in the control group with a rate difference of 4 . 63 % ( 95 % ci - 1 . 54 % to 10 . 80 % , p = 0 . 1493 ) .
+
+Premise
+the data of the per - protocol set showed that hbeag seroconversion rate at week 72 was 30 . 75 % in the trial group and 27 . 14 % in the control group with a rate difference of 3 . 61 % ( 95 % ci - 3 . 87 % to 11 . 09 % , p = 0 . 3436 ) .
+
+Premise
+95 % ci met the non - inferiority criteria , and the trial group was non - inferior to the control group .
+
+Premise
+the two groups had similar incidence rates of adverse events , serious adverse events , and common adverse events .
+
+Claim
+in peg - ifn - α regimen for hbeag - positive chb patients , the new drug peg - ifn - α - 2b ( y shape , 40 kd ) has comparable effect and safety to the control drug peg - ifn - α - 2a .
+
+Premise
+at 6 months , the mean systolic blood pressure fell by 27 . 0 mm hg ( to 125 . 8 mm hg ) in the intervention group and by 9 . 3 mm hg ( to 145 . 4 mm hg ) in the control group ; the mean reduction was 21 . 6 mm hg greater with the intervention ( 95 % confidence interval , 14 . 7 to 28 . 4 ; p < 0 . 001 ) .
+
+Premise
+a blood - pressure level of less than 130 / 80 mm hg was achieved among 63 . 6 % of the participants in the intervention group versus 11 . 7 % of the participants in the control group ( p < 0 . 001 ) .
+
+Premise
+in the intervention group , the rate of cohort retention was 95 % , and there were few adverse events ( three cases of acute kidney injury ) .
+
+Claim
+among black male barbershop patrons with uncontrolled hypertension , health promotion by barbers resulted in larger blood - pressure reduction when coupled with medication management in barbershops by specialty - trained pharmacists .
+
+Claim
+low serum vitamin d has been associated with metabolic syndrome and non - alcoholic fatty liver disease ( nafld ) .
+
+Premise
+after 12 weeks of treatment , serum alkaline phosphatase levels was significantly decreased from baseline levels in vitamin d and calcitriol treated groups ( p < 0 . 05 ) .
+
+Premise
+serum and gamma glutamyl transferase ( ggt ) level was also significantly decreased compared to the baseline levels after 12 weeks of treatment with vitamin d .
+
+Premise
+there was no statistically significant difference between placebo , calcitriol , vitamin d groups in terms of serum aminotransferase , alkaline phosphatase , serum ggt and lipid profile ( p > 0 . 05 ) .
+
+Premise
+in the primary intention - to - treat analysis , the effect of gli encouragement was 0 . 95 % weight loss at six months ( 95 % confidence interval [ ci ] , 0 . 13 - 1 . 77 % ; p = 0 . 02 ) , and 1 . 20 % weight loss at 12 months ( 95 % ci , 0 . 05 - 2 . 36 % ; p = 0 . 04 ) .
+
+Premise
+at 12 months , there was a 0 . 30 % ( 3 . 3 mmol / mol ) reduction in hemoglobin a1c ,
+
+Premise
+but this result did not achieve statistical significance ( p = 0 . 054 ) .
+
+Premise
+in instrumental variable analysis estimating effects among the subgroup of participants who attended any gli visits , the effect of gli attendance was 2 . 30 % weight loss at six months ( 95 % ci , 0 . 30 - 4 . 30 % ; p = 0 . 02 ) , and 2 . 07 % weight loss at 12 months ( 95 % ci , 0 . 25 - 3 . 88 % ; p = 0 . 02 ) .
+
+Claim
+among adults with type 2 diabetes , a group - based lifestyle intervention in a community - based setting achieved modest weight loss at 6 and 12 months .
+
+Premise
+time with nocturnal hypoglycemia , glucose levels < 70 mg / dl was reduced by 48 % ( 10 . 2 vs . 19 . 6 min each night , p < 0 . 001 ) and glucose levels < 54 mg / dl by 65 % .
+
+Premise
+( 3 . 1 vs . 8 . 9 min , p < 0 . 001 ) .
+
+Premise
+for the corresponding glucose cutoffs , daytime hypoglycemia was reduced by 40 % ( 29 vs . 49 min , p < 0 . 001 ) and 54 % ( 8 vs . 18 min . , p < 0 . 001 ) , respectively .
+
+Premise
+compared with smbg , cgm use improved hypoglycemia - related confidence in social situations ( p = 0 . 016 ) and confidence in more broadly avoiding serious problems due to hypoglycemia ( p = 0 . 0020 ) .
+
+Premise
+persons also reported greater confidence in detecting and responding to decreasing blood glucose levels ( thereby avoiding hypoglycemia ) during cgm use ( p = 0 . 0033 )
+
+Premise
+indicated greater conviction that they could more freely live their lives despite the risk of hypoglycemia ( p = 0 . 022 ) .
+
+Claim
+cgm reduced time in both nocturnal and daytime hypoglycemia in persons with type 1 diabetes treated with mdi and improved hypoglycemia - related confidence , especially in social situations , thus contributing to greater well - being and quality of life .
+
+Premise
+compared with baseline data , total dtr - qol17 scores were significantly higher after 12 weeks of linagliptin and voglibose treatment .
+
+Premise
+the change in the total dtr - qol17 score and the score of one domain , burden on social activities and daily activities , was significantly greater in the linagliptin group than in the voglibose group .
+
+Premise
+in addition , only linagliptin treatment was identified as a factor associated with an increased total dtr - qol17 score .
+
+Claim
+linagliptin is superior to voglibose in terms of improving treatment - related qol in japanese patients with t2dm .
+
+Premise
+out of 24 changes over time , 19 were in the expected direction for the linear analogue self - assessment scale ( p < or = 0 . 05 for 9 of 19 ) and 17 for the adjective checklist ( p < or = 0 . 05 for 10 of 17 ) .
+
+Premise
+the linear analogue self - assessment scale was less but significantly efficient for detection of treatment effects , with relative efficiency estimates ranging from 0 . 16 to 2 . 45 and a median of 0 . 66 among the comparisons with relatively stable estimates ( / t / > or = 1 . 0 ) and more efficient for recurrence than the adjective checklist .
+
+Claim
+the mood linear analogue self - assessment scale is a valid indicator of emotional well - being in patients with breast cancer in large multicenter , multicultural trials in which comprehensive scales are less feasible .
+
+Claim
+this investigation supports the clinical relevance of linear analogue self - assessment scales as indicators of components of quality of life in cancer clinical trials .
+
+Claim
+combined radiation therapy and chemotherapy after surgery , compared with postsurgical radiation therapy alone , has been shown to improve disease - free survival and overall survival significantly among patients with poor - prognosis ( i . e . , advanced stage disease or metastasis to regional lymph nodes ) resectable rectal cancer .
+
+Claim
+however , the combined therapy is associated with more toxic effects , raising the question of whether the benefits of the treatment justify its quality - of - life costs for the individual patient .
+
+Premise
+as reported previously , the combined therapy reduced the risk of relapse by 34 % ( 95 % confidence interval [ ci ] = 12 % - 50 % ; p = . 0016 ) and reduced the overall death rate by 29 % ( 95 % ci = 7 % - 45 % ; p = . 025 ) in comparison with adjuvant radiation therapy alone .
+
+Premise
+in the 5 years following assignment to treatment , patients who received the combined therapy had more time with toxicity ( 3 . 1 months ; 95 % ci = 2 . 0 - 4 . 1 months ) , shorter survival after relapse ( 3 . 6 months less ; 95 % ci = 0 . 9 - 6 . 3 months less ) , and more twist ( 6 . 1 months ; 95 % ci = 0 . 2 - 12 . 0 months ) than patients who received adjuvant radiation therapy alone .
+
+Claim
+despite an increase in the amount of time that individuals spent with early and late toxic effects , the q - twist analysis indicated that the combined therapy conferred significantly greater benefit for a wide range of patient preferences about living with the toxicity of treatment or the symptoms of overt disease .
+
+Claim
+use of combined chemotherapy and radiation therapy as an adjuvant to surgery for patients with poor - prognosis resectable rectal cancer is justified ,
+
+Claim
+the q - twist method is an excellent way to compare treatment outcomes that include quality - of - life considerations .
+
+Premise
+latanoprost 0 . 005 % once daily reduced iop ( + / - sem ) more effectively than latanoprost 0 . 0015 % twice daily ( 9 . 8 + / - 0 . 9 mm hg and 6 . 7 + / - 0 . 9 mm hg , respectively ) .
+
+Premise
+there was a statistically significant increase in the aqueous humour protein concentration within the timolol group ( p = 0 . 004 ) , but not within the latanoprost group ( p = 0 . 97 ) .
+
+Premise
+there was no statistically significant difference in the change in aqueous humour protein concentration from baseline between latanoprost and timolol groups ( p = 0 . 08 ) .
+
+Premise
+no statistically significant difference in conjunctival hyperemia between the two latanoprost regimens was found ( p = 0 . 37 ) .
+
+Premise
+latanoprost 0 . 005 % once daily reduced iop more effectively than latanoprost 0 . 0015 % twice daily ( p < 0 . 001 ) .
+
+Claim
+latanoprost had no statistically or clinically significant effect on the blood - aqueous barrier .
+
+Claim
+both concentrations of latanoprost reduced iop at least as well as timolol 0 . 5 % eye drops .
+
+Claim
+the superiority of combination therapy over monochemotherapy has not been demonstrated convincingly .
+
+Premise
+the median duration of response was 8 . 8 and 8 . 3 months , respectively , in study a and study b .
+
+Premise
+the median survival reached 8 months in study a and 9 months in study b .
+
+Premise
+in the whole population of patients survival was significantly higher in patients with a ps of 0 - 1 ( p < 0 . 05 ) .
+
+Premise
+patients with a ps of 0 - 1 and a resected tumor had the significantly longest survival both in eep - l treated patients and in all evaluable patients in the two studies .
+
+Premise
+the most frequent world health organization grade 3 - 4 toxic effects were gastrointestinal in study a and hematologic in study b .
+
+Premise
+no treatment - related death was observed .
+
+Claim
+the efficacy of 5 - fu , modulated with 6s - lv , is moderate in patients with advanced gastric carcinoma , similar to cisplatin - containing regimens .
+
+Claim
+ps and other prognostic factors could influence the response rate , which does not appear to be a reliable parameter for evaluating the outcome of chemotherapy trials .
+
+Premise
+hematologic toxicity was significantly more severe in arm a ( leukopenia , neutropenia , and thrombocytopenia grade 3 or 4 : 66 % v 19 % , 83 % v 55 % , 36 % v 2 % in arms a and b , respectively ) , which resulted in more febrile neutropenia ( 27 % v 3 % in arms a and b , respectively ) , dose reductions , and treatment delays .
+
+Premise
+there were a total of nine toxic deaths , six due to neutropenic sepsis : five in arm a and one in arm b .
+
+Premise
+in contrast , arthralgia / myalgia ( grade 2 or 3 , 4 % v 17 % ) , peripheral neurotoxicity ( grade 2 or 3 , 6 % v 29 % ) , and hypersensitivity reactions ( 1 % v 7 % , all grades ) were significantly more frequent in arm b .
+
+Premise
+responses were one complete and 44 partial on arm a ( 28 % ) and two complete and 61 partial ( 41 % ) on arm b ( p = . 018 ) .
+
+Premise
+there was no significant difference in survival , with median and 1 - year survivals 9 . 9 versus 9 . 7 months and 41 % versus 43 % , respectively in arm a and b .
+
+Premise
+progression - free survival was 4 . 9 and 5 . 4 months in arm a and b , respectively .
+
+Premise
+arm b achieved a better score at week 6 for emotional , cognitive and social functioning , global health status , fatigue , and appetite loss , which was lost at 12 weeks .
+
+Claim
+in conclusion , arm b appears superior to arm a with regard to response rate , side effects , and qol .
+
+Claim
+although survival was not improved ,
+
+Claim
+arm b offers a better palliation for advanced nsclc patients than arm a .
+
+Premise
+tamoxifen reduced the risk of invasive breast cancer by 49 % ( two - sided p < . 00001 ) , with cumulative incidence through 69 months of follow - up of 43 . 4 versus 22 . 0 per 1000 women in the placebo and tamoxifen groups , respectively .
+
+Premise
+risk was also reduced in women with a history of lobular carcinoma in situ ( 56 % ) or atypical hyperplasia ( 86 % ) and in those with any category of predicted 5 - year risk .
+
+Premise
+tamoxifen reduced the risk of noninvasive breast cancer by 50 % ( two - sided p < . 002 ) .
+
+Premise
+tamoxifen reduced the occurrence of estrogen receptor - positive tumors by 69 % , but no difference in the occurrence of estrogen receptor - negative tumors was seen .
+
+Premise
+tamoxifen administration did not alter the average annual rate of ischemic heart disease ; however , a reduction in hip , radius ( colles ' ) , and spine fractures was observed .
+
+Premise
+the rate of endometrial cancer was increased in the tamoxifen group ( risk ratio = 2 . 53 ; 95 % confidence interval = 1 . 35 - 4 . 97 ) ; this increased risk occurred predominantly in women aged 50 years or older .
+
+Premise
+no endometrial cancer deaths have occurred in this group .
+
+Premise
+no liver cancers or increase in colon , rectal , ovarian , or other tumors was observed in the tamoxifen group .
+
+Premise
+the rates of stroke , pulmonary embolism , and deep - vein thrombosis were elevated in the tamoxifen group ; these events occurred more frequently in women aged 50 years or older .
+
+Claim
+tamoxifen decreases the incidence of invasive and noninvasive breast cancer .
+
+Claim
+despite side effects resulting from administration of tamoxifen , its use as a breast cancer preventive agent is appropriate in many women at increased risk for the disease .
+

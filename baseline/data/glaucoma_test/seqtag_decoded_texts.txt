@@ -1,0 +1,1614 @@
+Premise
+mean preoperative iops in the tmmc and t5 - fu groups were 31 . 2 ± 9 . 8 and 30 . 6 ± 9 . 9 mmhg , respectively .
+
+Premise
+postoperatively , mean iops were 11 . 4 ± 4 . 9 and 13 . 6 ± 3 . 9 mmhg , respectively for tmmc and t5 - fu groups after 6 months .
+
+Premise
+statistical tests showed no difference in mean and median iop .
+
+Premise
+three cases of hypotonia ( iop < 6 mmhg ) and 1 case of epithelial keratitis were detected .
+
+Claim
+tmmc and t5 - fu appeared to have similar efficacy in lowering iop .
+
+Premise
+at 1 - year follow - up , complete success rates were 81 . 8 % for ex - press and 47 . 5 % for trabeculectomy ( p = 0 . 0020 ) , and 71 . 7 % and 37 . 5 % ( p = 0 . 0070 ) , respectively , for the more stringent target .
+
+Premise
+there was a similar level of postoperative interventions and complications for each group .
+
+Claim
+in open - angle glaucoma , the ex - press mini glaucoma shunt implanted under a superficial scleral flap produces significantly higher success rates , and a similar complication rate , compared with trabeculectomy .
+
+Claim
+the ex - press is a safe and effective device for treating open - angle glaucoma .
+
+Premise
+after 3 months , latanoprost reduced mean baseline diurnal iop from 27 . 2 ( sd 3 . 0 ) mm hg by 8 . 5 ( 3 . 3 ) mm hg .
+
+Premise
+the corresponding figures for dorzolamide were 27 . 2 ( 3 . 4 ) and 5 . 6 ( 2 . 6 ) mm hg .
+
+Premise
+the difference of 2 . 9 mm hg ( 95 % ci : 2 . 3 - 3 . 6 ) was highly significant ( p < 0 . 001 , ancova ) .
+
+Premise
+latanoprost reduced iop at peak by 8 . 6 mm hg ( 32 % ) compared with 6 . 2 mm hg ( 23 % ) for dorzolamide , and the difference of 2 . 4 mm hg was significant ( p < 0 . 001 , ancova ) .
+
+Premise
+the corresponding figures at trough were 8 . 1 mm hg ( 31 % ) for latanoprost and 4 . 7 mm hg ( 17 % ) for dorzolamide , a significant difference of 3 . 4 mm hg ( p < 0 . 001 , ancova ) .
+
+Claim
+both drugs were well tolerated systemically and locally .
+
+Claim
+latanoprost was superior to dorzolamide in reducing the iop , judged both from the effect on iop at peak and trough and by the effect on diurnal iop .
+
+Premise
+a higher percentage of patients receiving the fixed combination had iop decreases of 2 mm hg on day 21 relative to baseline compared with latanoprost - treated patients ( 79 . 4 % vs 51 . 4 % , respectively ; p < 0 . 001 ) .
+
+Premise
+pp analyses found that more patients in the fixed - combination group had iop decreases > or = 3 , > or = 4 , or > or = 5 mm hg ( for each target level , p < 0 . 001 vs latanoprost group ) or final iop 18 mm hg ( fixed - combination , 35 . 1 % ; latanoprost , 17 . 8 % ; p < 0 . 001 ) .
+
+Premise
+similar proportions of patients in the fixed - combination and latanoprost groups reported at least 1 treatment - emergent ae ( 10 . 9 % and 12 . 1 % , respectively ) .
+
+Claim
+patients with an inadequate initial iop response to latanoprost , switching to fixed - combination latanoprosttimolol resulted in a greater decrease in iop and similar tolerability compared with continuing latanoprost therapy .
+
+Premise
+one - day postoperatively , the iop dropped to 5 . 2 ( ±3 . 5 ) and 9 . 2 ( ±5 . 5 ) mm hg , respectively ( p = 0 . 009 ) .
+
+Premise
+the iop reduction was significant at end point in all groups ( p = 0 . 01 ) , with a mean iop of 16 . 0 ( ±2 . 9 ) and 16 . 5 ( ±2 . 1 ) mm hg in mmc and olo , respectively .
+
+Premise
+the rates and kaplan - meier curves did not differ for both complete and qualified success at any target iop .
+
+Premise
+the bleb height in olo group was higher than mmc one ( p < 0 . 05 ) .
+
+Premise
+sd - oct analysis of successful / unsuccessful bleb in patients with or without complete success at iop = 17 mm hg indicated a sensitivity of 83 % and 73 % and a specificity of 75 % and 67 % , respectively , for mmc and olo groups .
+
+Premise
+no adverse reaction to olo was noted .
+
+Claim
+our results suggest that olo implant could be a new , safe , and effective alternative to mmc , with similar long - term success rate .
+
+Premise
+the diurnal intraocular pressure reduction was significant in both groups ( p < 0 . 001 ) .
+
+Premise
+the mean intraocular pressure reduction from baseline was 32 % for the latanoprost plus timolol group and 20 % for the dorzolamide plus timolol group .
+
+Premise
+the least square estimate of the mean diurnal intraocular pressure reduction after 3 months was - 7 . 06 mm hg in the latanoprost plus timolol group and - 4 . 44 mm hg in the dorzolamide plus timolol group ( p < 0 . 001 ) .
+
+Claim
+this study clearly showed that the additive diurnal intraocular pressure - lowering effect of latanoprost is superior to that of dorzolamide in patients treated with timolol .
+
+Premise
+at month 6 , the adjusted mean ( + / - sem ) diurnal iop reduction was 5 . 7 + / - 0 . 3 mm hg in the latanoprost group and 3 . 1 + / - 0 . 3 mm hg in patients receiving brimonidine ( p < 0 . 001 ) .
+
+Premise
+the mean difference in diurnal iop reduction was 2 . 5 + / - 0 . 3 mm hg ( 95 % ci : 1 . 9 , 3 . 2 ; p < 0 . 001 ) .
+
+Premise
+five times more patients receiving brimonidine than latanoprost were withdrawn from the study due to adverse events .
+
+Claim
+latanoprost instilled once daily is more effective and better tolerated than brimonidine administered twice daily for the treatment of patients with glaucoma or ocular hypertension .
+
+Claim
+during therapy , the range of daily fluctuation of iop is less for latanoprost compared with brimonidine .
+
+Premise
+brimonidine - treated subjects showed an overall mean peak reduction in intraocular pressure ( iop ) of 6 . 5 mm hg ; timolol - treated subjects had a mean peak reduction in iop of 6 . 1 mm hg .
+
+Premise
+brimonidine lowered mean peak iop significantly more than timolol at week 2 and month 3 ( p < . 03 )
+
+Premise
+no evidence of tachyphylaxis was seen in either group .
+
+Premise
+allergy was seen in 9 % of subjects treated with brimonidine .
+
+Premise
+dry mouth was more common in the brimonidine - treated group than in the timolol - treated group ( 33 . 0 % vs 19 . 4 % ) ,
+
+Premise
+complaints of burning and stinging were more common in the timolol - treated group ( 41 . 9 % ) than in the brimonidine - treated patients ( 28 . 1 % ) .
+
+Premise
+headache , fatigue , and drowsiness were similar in the 2 groups .
+
+Claim
+brimonidine is safe and effective in lowering iop in glaucomatous eyes .
+
+Claim
+brimonidine provides a sustained long - term ocular hypotensive effect , is well tolerated , and has a low rate of allergic response .
+
+Premise
+phacoemulsification and trabeculectomy resulted in significant and comparable iop reduction at 24 months after surgery ( reduction of 8 . 4 mmhg or 34 % for phacoemulsification vs 8 . 9 mmhg or 36 % for trabeculectomy ; p = 0 . 76 ) .
+
+Premise
+over first 24 months , trabeculectomy - treated eyes required on average 1 . 1 fewer drugs than phacoemulsification - treated eyes ( p < 0 . 001 ) .
+
+Premise
+trabeculectomy was associated with significantly more surgical complications than phacoemulsification ( 46 % vs 4 % ; p = 0 . 001 ) .
+
+Premise
+eight ( 33 % ) of 24 trabeculectomy eyes demonstrated cataract during follow - up .
+
+Claim
+both phacoemulsification and trabeculectomy are effective in reducing iop in medically uncontrolled cacg eyes without cataract .
+
+Claim
+trabeculectomy is more effective than phacoemulsification in reducing dependence on glaucoma drugs , but is associated with more complications .
+
+Premise
+the mean iop was 14 . 8 + / - 1 . 2 mm hg in the combined group and 15 . 7 + / - 1 . 1 mm hg in the control group at 15 months and 16 . 6 + / - 3 . 1 mm hg and 19 . 2 + / - 3 . 5 mm hg , respectively , after washout ;
+
+Premise
+the iop was statistically significantly lower in the combined group than in the control group at both time points ( p = . 031 and p = . 042 , respectively ) .
+
+Premise
+at 15 months , the mean number of medications was lower in the combined group than in the control group ( 0 . 4 + / - 0 . 7 and 1 . 3 + / - 1 . 0 , respectively ; p = . 007 ) , as was the proportion of patients on ocular hypotensive medication ( 33 % and 76 % , respectively ) .
+
+Claim
+phacoemulsification with stent implantation was more effective in controlling iop than phacoemulsification alone ;
+
+Premise
+latanoprost reduced iop ( mean ( sd ) ) by 8 . 4 ( 3 . 8 ) mm hg and bimatoprost by 8 . 9 ( 3 . 9 ) mm hg from a baseline of 25 . 2 ( 3 . 6 ) mm hg and 25 . 2 ( 3 . 6 ) mm hg respectively ( p = 0 . 23 ) .
+
+Premise
+adverse events were mild in both groups ;
+
+Premise
+however there were twice as many reports of an adverse event in the bimatoprost group ( 81 % ) compared with the latanoprost group ( 40 % , p < 0 . 01 ) .
+
+Premise
+22 subjects ( 37 . 9 % ) treated with bimatoprost experienced ocular hyperaemia as compared with 13 subjects ( 22 . 4 % ) treated with latanoprost ( p = 0 . 11 ) .
+
+Claim
+bimatoprost once daily was similarly effective in reducing iop compared with latanoprost once daily in subjects with chronic pacg .
+
+Claim
+both drugs were well tolerated with mild ocular adverse events .
+
+Premise
+intraocular pressure ( iop ) was significantly ( p < 0 . 001 ) reduced and maintained by both medications without evidence of a long - term drift over 6 months .
+
+Premise
+comparing 6 - month with baseline diurnal iop values , the iop reduction ( mean + / - standard deviation ) achieved with latanoprost ( - 6 . 7 + / - 3 . 4 mmhg ) was significantly ( p < 0 . 001 ) greater than that produced with timolol ( 4 . 9 + / - 2 . 9 mmhg ) .
+
+Premise
+pulse rate was significantly reduced with timolol , but not with latanoprost .
+
+Premise
+slightly more conjunctival hyperemia appeared in latanoprost - treated compared with timolol - treated eyes .
+
+Claim
+latanoprost has the potential for becoming a new first - line treatment for glaucoma .
+
+Premise
+the mean ( standard error of mean [ se ] ) iop reductions at months one was 7 . 2 ( 0 . 4 ) , at month 3 was 7 . 3 ( 0 . 4 ) , and at month 6 was 7 . 1 ( 0 . 3 ) mm hg for the latanoprost group and 7 . 5 ( 0 . 3 ) , 7 . 8 ( 0 . 3 ) , and 7 . 4 ( 0 . 3 ) mm hg for the dorzolamide / timolol group .
+
+Claim
+the 2 therapies were similarly effective .
+
+Claim
+the latanoprost and dorzolamide / timolol combination were equally effective at lowering iop compared to untreated baseline .
+
+Premise
+at 24 months , complete success rates were 53 . 3 % for the elt group and 40 % for the slt group ( p = 0 . 35 , fisher ' s exact test ) ;
+
+Premise
+qualified success rates were 33 . 3 % for the elt and 26 . 6 % for the slt group ( p = 0 . 5 , fisher ' s exact test ) .
+
+Premise
+mean iop decreased from 25 . 0 + / - 1 . 9 to 17 . 6 + / - 2 . 2 mmhg ( - 29 . 6 % ; p < 0 . 0001 ) in the elt group and from 23 . 9 + / - 0 . 9 to 19 . 1 + / - 1 . 8 mmhg ( - 21 % ; p < 0 . 0001 ) in the slt group .
+
+Claim
+both elt and slt proved to be effective techniques in the treatment of poag refractory to medical therapy .
+
+Premise
+intraocular pressure was significantly reduced during the entire follow - up period in both groups .
+
+Premise
+in the long - acting drug group , the reduction of intraocular pressure was - 3 . 5 + / - 0 . 2 , - 4 . 3 + / - 0 . 2 and - 4 . 6 + / - 0 . 3 mmhg at 2 , 4 , and 8 weeks , respectively ( paired t test ) .
+
+Premise
+in the currently - prescribed drug group , the reduction of intraocular pressure was - 4 . 1 + / - 0 . 2 , - 4 . 4 + / - 0 . 3 and - - 4 . 6 + / - 0 . 2 mmhg at 2 , 4 , and 8 weeks ( paired t test ) .
+
+Claim
+because the efficacy of both drugs was equivalent , with an identical safety profile ,
+
+Claim
+the long - acting eye drops seem to be an efficacious formulation for clinical use in japanese glaucoma patients .
+
+Premise
+mean ( sd ) diurnal iop reductions at week 8 before the water - drinking test were 6 . 9 ( 3 . 0 ) mm hg for the latanoprost group and 6 . 4 ( 3 . 2 ) mm hg for the dorzolamide / timolol group .
+
+Premise
+mean iop values were similar at all time points except at 5 : 00 pm , when levels were significantly lower in latanoprost - treated patients ( p = 0 . 025 ) .
+
+Premise
+after the water - drinking test , the increase in iop values was similar between groups at baseline but lower in latanoprost - treated patients at week 8 ( adjusted difference , 1 . 08 mm hg ; p = 0 . 012 ) .
+
+Premise
+fewer patients treated with latanoprost reported ocular or systemic aes ( p = 0 . 025 and p < 0 . 001 , respectively ) .
+
+Claim
+in this study of patients with unilateral or bilateral primary open - angle , pigmentary , or exfoliative glaucoma or oht iop reductions generally were similar between treatment groups ,
+
+Claim
+latanoprost was better tolerated than fixed - combination dorzolamide and timolol .
+
+Premise
+clinical success was 71 % ( 75 / 106 ) with brimonidine and 70 % ( 73 / 105 ) with timolol as initial treatment .
+
+Premise
+the overall mean decrease in iop was 6 . 5 mm hg with brimonidine and 6 . 2 mm hg with timolol .
+
+Premise
+few patients reported a specific adverse event
+
+Premise
+with the exception of a slightly higher rate of ocular burning and stinging in the brimonidine group , there were no significant between - group differences .
+
+Premise
+no significant chronotropic effects on the heart were seen with brimonidine
+
+Premise
+small but significant mean decreases in heart rate were seen at months 1 and 4 with timolol .
+
+Premise
+mean systolic and diastolic blood pressure remained relatively stable in both groups .
+
+Premise
+quality of life remained stable , with no significant between - group differences .
+
+Claim
+as a first - line agent for the treatment of glaucoma and ocular hypertension , brimonidine has clinical effectiveness equivalent to timolol , but with less chronotropic effect on the heart .
+
+Claim
+brimonidine is a viable alternative to timolol for first - line therapy in glaucoma and ocular hypertension .
+
+Premise
+statistically fewer brimonidine - treated patients ( 9 , 9 . 1 % ) had visual field progression by pointwise linear regression than timolol - treated patients ( 31 , 39 . 2 % , log - rank 12 . 4 , p = . 001 ) .
+
+Premise
+mean treated iop was similar for brimonidine - and timolol - treated patients at all time points .
+
+Premise
+more brimonidine - treated ( 28 , 28 . 3 % ) than timolol - treated ( 9 , 11 . 4 % ) patients discontinued study participation because of drug - related adverse events ( p = . 008 ) .
+
+Claim
+low - pressure glaucoma patients treated with brimonidine 0 . 2 % who do not develop ocular allergy are less likely to have field progression than patients treated with timolol 0 . 5 % .
+
+Premise
+there was no statistically significant difference between ecd reduction in group bss plus 13 . 1 ± 2 . 0 % and ringer 9 . 2 ± 1 . 9 % ( p < 0 . 05 ) at day 60 or in any study visit .
+
+Premise
+there was no statistically significant difference between cv increase in group bss plus 23 . 0 ± 3 . 0 % and ringer 20 . 2 ± 4 . 0 % ( p < 0 . 05 ) at day 60 or in any study visit .
+
+Premise
+cct was significantly increased ( p < 0 . 05 ) at 1 , 8 , 15 and 30 days postoperatively , returning to baseline at 60 days in both groups .
+
+Premise
+there was no significant difference in cct increase in both groups at any visit .
+
+Premise
+there were statistically significant correlations between ecd loss and phacoemulsification time ( p < 0 . 0001 ) and ecd loss and irrigation solution volume ( p < 0 . 0001 ) in the ringer group , but not in the bss plus group .
+
+Claim
+ringers solution was similar to bss plus for corneal preservation in atraumatic cataract surgery .
+
+Claim
+however , our study demonstrates that there is a trend towards lower postoperative endothelial cell density for surgeries with longer phacoemulsification time and higher irrigation volumes if ringer is used .
+
+Premise
+mean diurnal iop reduction after 8 weeks were 7 . 02 + / - 3 . 06 mm hg and 6 . 91 + / - 3 . 67 mm hg , respectively ( p = 0 . 811 ) .
+
+Premise
+the adjusted difference between groups ( analysis of covariance ) at week 8 was not statistically significant ( p = 0 . 847 ) .
+
+Premise
+mean baseline wdt peak was 27 . 79 + / - 4 . 29 mm hg in the brimonidine / timolol group and 27 . 68 + / - 5 . 46 mm hg in the dorzolamide / timolol group .
+
+Premise
+after 8 weeks of treatment , mean wdt peaks were 20 . 94 + / - 3 . 76 mm hg ( p < 0 . 001 ) and 20 . 98 + / - 4 . 19 ( p < 0 . 001 ) , respectively .
+
+Premise
+no statistical difference in terms of adverse events was found between groups .
+
+Claim
+both fixed combinations were capable of significantly reducing the mean diurnal iop , mean diurnal peak , and mean wdt peak after 8 weeks of treatment .
+
+Claim
+both fixed combinations are well tolerated with few side effects .
+
+Premise
+after 1 month of treatment , latanoprost significantly reduced intraocular pressure ( mean + / - sem ) by 6 . 1 + / - 0 . 5 mm hg ( p < . 001 ) and unoprostone by 4 . 2 + / - 0 . 4 mm hg ( p < . 001 ) adjusted from an overall baseline of 22 . 3 + / - 0 . 5 mm hg and 23 . 2 + / - 0 . 4 mm hg , respectively .
+
+Premise
+the difference of 1 . 9 mm hg between treatments was statistically significant in favor of latanoprost [ p = . 003 , analysis of covariance ( ancova ) ] .
+
+Premise
+unadjusted analysis of responders using the percentage decrease in intraocular pressure showed that the proportion of responders in the latanoprost - treated group was greater than in the unoprostone - treated group .
+
+Premise
+adverse ocular symptoms and findings were mild in both treatment groups .
+
+Premise
+eye redness and ocular irritation were the most frequently reported events .
+
+Claim
+latanoprost once daily was significantly more effective in reducing intraocular pressure compared with unoprostone twice daily after 1 month of treatment in patients with primary open - angle glaucoma and ocular hypertension .
+
+Claim
+both drugs were well tolerated with few ocular adverse events .
+
+Premise
+after treatment , 6 % ( 19 / 313 ) and 11 % ( 35 / 318 ) of patients in the latanoprost and timolol groups , respectively , had high intervisit iop ranges ( p = . 026 ) .
+
+Premise
+significant risk factors for high posttreatment intervisit range ( multivariate logistic regression ) were high pretreatment intervisit iop range , treatment with timolol , black race , longer time since diagnosis , and higher mean pretreatment iop .
+
+Claim
+compared with timolol , treatment with latanoprost results in significantly fewer patients with a high iop fluctuation .
+
+Premise
+mean ( + / - sd ) preoperative and 1 - year postoperative intraocular pressures in the 5 - fluorouracil group were 26 . 9 ( + / - 9 . 5 ) and 15 . 3 ( + / - 5 . 8 ) mm hg , respectively .
+
+Premise
+in the control group these were 25 . 9 ( + / - 8 . 1 ) mm hg , and 15 . 8 ( + / - 5 . 1 ) mm hg , respectively .
+
+Premise
+the patients who received 5 - fluorouracil had a mean reduction in intraocular pressure of 11 . 5 ( + / - 9 . 1 ) mm hg at a median follow - up of 52 . 3 weeks .
+
+Premise
+the control group had a mean reduction in intraocular pressure of 10 . 2 ( + / - 8 . 7 ) mm hg at a median follow - up of 52 . 6 weeks .
+
+Premise
+these differences were not statistically significant .
+
+Claim
+enhancement of success in this group of patients may require a larger total dose of 5 - fluorouracil .
+
+Premise
+percentage of iop reduction or the magnitude of iop reduction showed no intergroup differences either at any time point ( 13 - 15 % ) .
+
+Premise
+in the visual field , the estimated rate of change in the md value ( db / year ) was - 0 . 34 + / - 0 . 17 ( se ) for the latanoprost group , and - 0 . 10 + / - 0 . 18 ( se ) for the timolol group .
+
+Premise
+the estimated rate of change in md showed no significant difference from zero in both groups , and there were no statistical intergroup differences .
+
+Premise
+no changes in the optic nerve head topography in the vertical cup - to - disc ratio and rim area measured by image - analysis techniques were observed in either group .
+
+Premise
+there were no patients who dropped out due to the side effects of treatment regimens .
+
+Claim
+both latanoprost and timolol single treatments reduced iop by 13 - 15 % at their trough effects for 3 years in japanese ntg patients
+
+Claim
+both showed similar effects on visual field performance .
+
+Premise
+latanoprost 0 . 005 % once daily reduced iop ( + / - sem ) more effectively than latanoprost 0 . 0015 % twice daily ( 9 . 8 + / - 0 . 9 mm hg and 6 . 7 + / - 0 . 9 mm hg , respectively ) .
+
+Premise
+there was a statistically significant increase in the aqueous humour protein concentration within the timolol group ( p = 0 . 004 ) , but not within the latanoprost group ( p = 0 . 97 ) .
+
+Premise
+there was no statistically significant difference in the change in aqueous humour protein concentration from baseline between latanoprost and timolol groups ( p = 0 . 08 ) .
+
+Premise
+no statistically significant difference in conjunctival hyperemia between the two latanoprost regimens was found ( p = 0 . 37 ) .
+
+Premise
+latanoprost 0 . 005 % once daily reduced iop more effectively than latanoprost 0 . 0015 % twice daily ( p < 0 . 001 ) .
+
+Claim
+latanoprost had no statistically or clinically significant effect on the blood - aqueous barrier .
+
+Claim
+both concentrations of latanoprost reduced iop at least as well as timolol 0 . 5 % eye drops .
+
+Premise
+fifteen eyes ( 88 % ) in the mitomycin group and seven ( 47 % ) in the fluorouracil group achieved an intraocular pressure of less than or equal to 20 mm hg without antiglaucoma medication .
+
+Premise
+corneal complications were less common in the group given mitomycin than in that given fluorouracil ( 12 % vs 53 % ) .
+
+Premise
+the postoperative percentage of iop reduction ( group a 68 . 9 % ; group b 66 . 51 % ) was statically significant in both the groups ( p = 0 . 001 ) .
+
+Premise
+trabeculectomy was almost equally effective with complete surgical success of 91 % in group a , and 82 % in group b ( p = 0 . 534 ) .
+
+Premise
+final bleb scores were almost similar in both the groups with 3 . 27 + / - 1 . 5 in group a and 3 . 36 + / - 1 . 21 in group b ( p = 0 . 877 ) .
+
+Premise
+hypotony with the iop less than 6 mmhg was found in the first post - operative day in 2 patients in group a and in 1 in group b .
+
+Claim
+both triangular and rectangular scleral flaps in trabeculectomy are equally effective in terms of post surgical iop control , bleb characteristics and complications .
+
+Premise
+at the 8 am measurements , bimatoprost lowered mean iop 6 . 8 mmhg to 7 . 6 mmhg from baseline , whereas combined timolol and dorzolamide lowered mean iop 4 . 4 to 5 . 0 mmhg from baseline ( p < 0 . 001 ) .
+
+Premise
+at the last follow - up , patients had better diurnal iop control with bimatoprost than combined timolol and dorzolamide .
+
+Premise
+at 8 am at the 3 - month visit , the percentages of patients achieving iops of < or = 13 mmhg , < or = 14 mmhg , < or = 15 mmhg , or < or = 16 mmhg were more than twice as high for bimatoprost than for combined timolol and dorzolamide ( all p < or = 0 . 008 ) .
+
+Premise
+taste perversion , ocular burning , and stinging with instillation were more common with combined timolol and dorzolamide , whereas conjunctival hyperemia was more common with bimatoprost .
+
+Claim
+in individuals with glaucoma or ocular hypertension , uncontrolled on a topical beta - blocker alone , bimatoprost lowered iop more consistently than did combined timolol and dorzolamide .
+
+Premise
+six months after surgery , intraocular pressures averaged 10 . 9 + / - 5 . 3 mmhg ( mean + / - standard deviation ) in the mmc - treated eyes versus 14 . 2 + / - 5 . 5 mmhg in the 5 - fu - treated eyes ( p = 0 . 08 ) and were less than or equal to 12 mmhg in 60 . 0 % of mmc - treated eyes and 21 . 1 % of 5 - fu - treated eyes ( p = 0 . 03 ) .
+
+Premise
+drug - induced corneal epithelial defects were seen in nine 5 - fu - treated eyes and in no mmc - treated eyes ( p = 0 . 0004 ) .
+
+Claim
+these results suggest that intraoperative mmc may be a viable alternative to postoperative 5 - fu , with lower overall intraocular pressures , decreased dependence on postoperative ocular antihypertensive medications , and decreased corneal toxicity .
+
+Premise
+diurnal iop ( 9 : 00 am , 1 : 00 pm , 5 : 00 pm ) was reduced from 25 . 2 to 16 . 7 mmhg ( 33 . 7 % ) with lantanoprost and from 25 . 4 to 17 . 1 mmhg ( 32 . 7 % ) with timolol as determined at the end of the 6 - month treatment period .
+
+Premise
+latanoprost caused a somewhat more conjunctival hyperemia than timolol and more corneal punctuate epithelial erosions .
+
+Premise
+the most significant side effect of latanoprost was increased pigmentation of the iris which was observed in 15 patients ( 10 . 1 % ) .
+
+Claim
+timolol caused more systemic side effects than latanoprost .
+
+Claim
+latanoprost 0 . 005 % administered once daily in the evening reduced iop at least as well as timolol 0 . 5 % administered twice daily .
+
+Claim
+latanoprost was generally well tolerated systemically and in the eye .
+
+Premise
+the overall probability of success of trabeculectomy and triple procedure was 0 . 613 and 0 . 733 at 15 years , respectively .
+
+Premise
+the success probability of trabeculectomy and triple procedure in reducing iop below 18 mm hg was 0 . 748 and 0 . 825 at 15 years , respectively .
+
+Claim
+in poag and cpacg patients , trabeculectomy and triple procedure were effective in reducing iop for up to 15 years after surgery .
+
+Premise
+patients who received placebo as premedication had significantly higher iop at 6 ( 17 . 96±5 . 49 vs 13 . 61±4 . 09 ; p < 0 . 001 ) and 12 ( 16 . 90±4 . 11 vs 13 . 96±3 . 25 ; p = 0 . 003 ) h postoperatively compared with those who received oral clonidine .
+
+Premise
+there was no significant difference between the 2 groups regarding the iop at 24h after operation ( 15 . 41±3 . 96 vs 16 . 01±3 . 41 ; p = 0 . 0539 ) .
+
+Premise
+the prevalence of acute iop rise ( > 21 mmhg ) was significantly higher in placebo group compared with clonidine group ( 25 . 8 % vs 9 . 6 % ; p = 0 . 091 ) .
+
+Claim
+administering preoperative oral clonidine in a dosage of 5g / kg , 2h before phacoemulsification , significantly decreases the prevalence and intensity of acute postoperative iop rise in those undergoing general anesthesia .
+
+Claim
+oral clonidine is safe , cheap , and easily accessible and , thus , it is recommended for controlling the iop after phacoemulsification , especially in high - risk patients .
+
+Premise
+the incidences of postoperative complications were similar between groups ( p = 0 . 232 ) .
+
+Premise
+no additional iop - lowering surgical procedures were required in the combined group , while 13 ( 54 % ) eyes in the trabeculectomy group required either cataract extraction or further iop - lowering surgical procedures ( p < 0 . 001 ) .
+
+Claim
+in patients with pacg , the long - term iop - lowering effect and surgical complications of combined trabeculectomy and cataract extraction are comparable with those of trabeculectomy alone .
+
+Premise
+at 09 . 00 hours ( presumed trough ) on day 60 , mean reductions from baseline in intraocular pressure were 6 . 32 + / - 2 . 87 and 5 . 67 + / - 3 . 30 mmhg for the alginate carteolol and standard groups , respectively .
+
+Premise
+at 11 . 00 hours ( presumed peak ) , mean reductions were 6 . 70 + / - 2 . 81 and 6 . 55 + / - 3 . 35 mmhg , respectively .
+
+Premise
+at each evaluation time , the two unilateral t tests were highly significant ( p < 0 . 005 ) ,
+
+Premise
+safety - slight decreases in heart rate and blood pressure means were observed in both groups at follow - up visits with no significant difference between groups .
+
+Premise
+subjective tolerance upon instillation was judged good or very good at day 60 by 100 % of alginate patients and by 98 . 7 % of standard patients .
+
+Premise
+transient discomfort ( mainly stinging or burning sensation ) was reported by approximately 4 % - 6 % of patients in each treatment group at each visit .
+
+Premise
+a blurred vision sensation was reported by 2 out of 74 patients of the alginate group .
+
+Premise
+among the 17 reported adverse events , three were assessed as drug - related : one vertigo , one superficial punctate keratitis in the alginate group and one decrease in blood pressure in the standard group .
+
+Premise
+no serious adverse events were reported .
+
+Claim
+the new alginate formulation of long - acting carteolol 1 % given once daily is as effective as standard 1 % carteolol given twice daily , with no meaningful differences regarding safety .
+
+Claim
+the new alginate formulation of long - acting carteolol 1 % given once a day is effective and well tolerated by glaucoma patients who require chronic treatment .
+
+Premise
+the iop in the first week after trabeculectomy was significantly higher in the r group : day 1 , 17 . 3 ± 8 . 6 versus 12 . 7 ± 6 . 0 mm hg ( p < 0 . 001 ) ; day 3 , 18 . 0 ± 7 . 3 versus 12 . 9 ± 6 . 3 mm hg ( p < 0 . 001 ) ; day 7 , 14 . 8 ± 6 . 3 versus 12 . 0 ± 4 . 9 mm hg ( p = 0 . 001 ) ,
+
+Premise
+no difference was observed after the second week ( p = 0 . 659 to 0 . 75
+
+Premise
+the incidence of transient hypotony was higher in s group ( 20 . 4 % ) than the r group ( 9 . 1 % ) ( p = 0 . 046 ) ;
+
+Premise
+hypotony recovered in 80 . 8 % ( 21 / 26 ) within 1 week .
+
+Premise
+there was no difference in the occurrence of shallow chamber , choroidal detachment , macular edema , additional surgery , or hyphema ( p = 0 . 56 to 1 . 0 ) .
+
+Claim
+the technique of releasable sutures for trabeculectomy used in this study did not demonstrate significant advantages over standard trabeculectomy .
+
+Claim
+releasable sutures were associated with some decrease in visual acuity and increase in postoperative complaints .
+
+Premise
+both treatments had a substantial iop - lowering effect which persisted throughout the study ( - 7 . 1 mmhg for tafluprost and - 7 . 7 mmhg for latanoprost at 24 months ) .
+
+Premise
+this difference was clinically small and the noninferiority of tafluprost to latanoprost over all diurnal iop measurements was shown with anova and almost reached with ancova ( upper limits of the 95 % confidence intervals 1 . 38 and 1 . 52 for the overall period , respectively ) .
+
+Claim
+tafluprost is a new effective and well - tolerated treatment for glaucoma and ocular hypertension .
+
+Premise
+both drops provided statistically significant iop reductions from baseline at all visits ( p < 0 . 001 ) .
+
+Claim
+bimatoprost provided greater ( nonsignificant ) mean iop reductions from baseline than travoprost at each visit .
+
+Premise
+mean iop reduction was 8 . 77 mm hg ( 33 . 39 % ) and 8 . 42 mm hg ( 31 . 54 % ) at 2 weeks ( p = 0 . 703 ) , and 8 . 47 mm hg ( 31 . 61 % ) and 7 . 84 mm hg ( 29 . 50 % ) at 6 months ( p = 0 . 536 ) for bimatoprost and travoprost , respectively .
+
+Premise
+iops at 2 weeks were 18 mm hg in 20 ( 58 . 8 % ) versus 19 ( 50 % ) eyes ( p = 0 . 603 ) , and 16 mm hg in 12 ( 35 % ) versus 12 ( 32 % ) eyes ( p = 0 . 456 ) ; and at 6 months 18 mm hg in 22 ( 65 % ) versus 14 ( 37 % ) eyes ( p = 0 . 045 ) , and 16 mm hg in 12 ( 35 % ) versus 7 ( 18 % ) eyes ( p = 0 . 037 ) for bimatoprost and travoprost , respectively .
+
+Premise
+both drops provided statistically significant iop reductions from baseline at all visits ( p < 0 . 001 ) .
+
+Premise
+btfc provided greater significant mean iop reductions from baseline than ttfc at each visit ( p < 0 . 001 ) .
+
+Premise
+mean iop reductions were 11 . 34 and 6 . 42 mm hg at 2 weeks ( p = 0 . 000 ) , and 11 . 17 and 7 . 89 mmhg at 6 months ( p = 0 . 001 ) for btfc and ttfc , respectively .
+
+Premise
+iops at 2 weeks were 18 mm hg in 36 ( 90 . 8 % ) versus 22 ( 55 % ) eyes and 16 mm hg in 28 ( 70 % ) versus 16 ( 40 % ) eyes ( p < 0 . 001 ) , and at 6 months , 18 mm hg in 38 ( 95 % ) versus 28 ( 70 % ) eyes and 16 mm hg in 30 ( 75 % ) versus 18 ( 45 % ) eyes for btfc and ttfc , respectively ( p < 0 . 001 ) .
+
+Claim
+both drops provided effective iop reduction that was greater
+
+Claim
+patients were more likely to achieve lower target pressures with btfc than with ttfc .
+
+Premise
+the mean iop reduction was significantly greater in the btfc group than in the ltfc group ( - 21 . 4 % vs - 13 . 7 % , p < 0 . 001 ) .
+
+Premise
+a higher percentage of patients in the btfc group showed a mean iop reduction from baseline > or = 15 % ( 72 . 3 % vs 40 . 0 % ) and > or = 20 % ( 61 . 7 % vs 17 . 1 % ) compared to patients in the ltfc group .
+
+Claim
+both btfc and ltfc were more effective versus the monotherapy with prostaglandin analogues .
+
+Claim
+btfc demonstrated higher performance than ltfc in terms of relative iop reduction .
+
+Claim
+oral carbonic anhydrase inhibitors used to treat glaucoma have significant systemic side effects .
+
+Premise
+all regimens produced clinically relevant and statistically significant ( p < . 05 ) intraocular pressure reductions from baseline .
+
+Premise
+mean changes in intraocular pressure trough measurements ranged from - 2 . 7 to - 3 . 9 mm hg with brinzolamide twice - daily dosing and - 2 . 8 to - 3 . 8 mm hg three times daily dosing compared with - 4 . 7 to - 5 . 6 mm hg with timolol .
+
+Premise
+adverse events were nonserious and resolved without sequelae .
+
+Claim
+brinzolamide produced significant and equivalent reductions in intraocular pressure when dosed two and three times daily for 18 months .
+
+Claim
+brinzolamide was safe and well tolerated by patients , with minimal ocular discomfort .
+
+Premise
+at 1 year , iop in both treatment groups was statistically significantly lower from baseline values .
+
+Premise
+sixty - six percent of treatment eyes versus 48 % of control eyes achieved = 20 % iop reduction without medication ( p = 0 . 003 ) .
+
+Premise
+the overall incidence of adverse events was similar between groups with no unanticipated adverse device effects .
+
+Claim
+pressure reduction on fewer medications was clinically and statistically significantly better 1 year after stent plus cataract surgery versus cataract surgery alone , with an overall safety profile similar to that of cataract surgery alone .
+
+Premise
+at month 3 , the mean ( sd ) reduction from baseline iop for patients on fixed - combination monotherapy was 7 . 7 ( 4 . 2 ) mmhg ( 32 . 3 % ) with brimonidine - timolol versus 6 . 7 ( 5 . 0 ) mmhg ( 26 . 1 % ) with dorzolamide - timolol ( p = 0 . 040 ) .
+
+Premise
+the mean reduction from pga - treated baseline iop for patients on fixed - combination adjunctive therapy was 6 . 9 ( 4 . 8 ) mmhg ( 29 . 3 % ) with brimonidine - timolol versus 5 . 2 ( 3 . 7 ) mmhg ( 23 . 5 % ) with dorzolamide - timolol ( p = 0 . 213 ) .
+
+Premise
+patients on brimonidine - timolol reported less burning ( p < 0 . 001 ) , stinging ( p < 0 . 001 ) , and unusual taste ( p < 0 . 001 ) than patients on dorzolamide - timolol .
+
+Claim
+fixed - combination brimonidine - timolol provided the same or greater iop lowering compared with fixed - combination dorzolamide - timolol .
+
+Claim
+both fixed - combination medications were safe and well - tolerated .
+
+Premise
+eight eyes ( 15 % ) in the laser group and 3 eyes ( 6 % ) in the control group converted to glaucoma in the study period .
+
+Premise
+the proportion of eyes started on medical treatment was similar in the 2 groups : 8 eyes ( 15 % ) in the laser group and 9 eyes ( 17 % ) in the control group .
+
+Claim
+this study suggests that there was no benefit of nd : yag lpi in preventing progression from pds with oht to pg within 3 years of follow - up .
+
+Premise
+125 of 277 patients ( 45 . 1 % ) experienced pain in the lidocaine group , compared with 123 of 229 patients ( 53 . 7 % ) in the bss group .
+
+Premise
+the median pain score ( range ) was 0 . 0 for intracameral lidocaine group compared with 1 . 0 for bss group ( p = 0 . 039 ) .
+
+Premise
+pain was more common in females ( 54 . 3 % vs 43 . 6 % ; or 1 . 56 ) , non - chinese ( 62 . 3 % vs 46 . 9 % ; or 2 . 13 ) and those who had previous cataract surgery to the fellow eye ( 55 . 3 % vs 44 . 7 % ; or 1 . 61 ) .
+
+Claim
+the use of 0 . 5 cc of 1 % intracameral lidocaine during phacoemulsification under topical anaesthesia significantly reduces pain experienced by patients .
+
+Premise
+at baseline , the mean iop was 24 . 48 + / - 2 . 29 mmhg in the brimonidine group and 23 . 32 + / - 0 . 82 mmhg in the timolol group .
+
+Premise
+the iop readings after treatment were significantly lower than their baseline levels in both groups at all visits ( p < 0 . 001 ) .
+
+Premise
+at peak , the mean decreases from the baseline iop ranged from 5 . 22 + / - 0 . 30 mmhg to 6 . 96 + / - 0 . 33 mmhg for brimonidine and from 4 . 55 + / - 0 . 49 mmhg to 6 . 64 + / - 0 . 53 mmhg for timolol .
+
+Premise
+at trough , the mean decreases from baseline ranged from 3 . 72 + / - 0 . 32 mmhg to 4 . 55 + / - 0 . 32 mmhg for brimonidine and 3 . 82 + / - 0 . 52 mmhg to 4 . 27 + / - 0 . 51 mmhg for timolol .
+
+Premise
+the clinical success rate was 86 . 2 % in the brimonidine group and 81 . 8 % in the timolol group , making no statistically significant difference between them ( p = 0 . 817 ) .
+
+Premise
+17 . 2 % of patients in brimonidine group and 9 . 0 % patients in timolol group reported mild adverse events .
+
+Premise
+ocular allergy occurred in 10 . 3 % of patients in brimonidine group .
+
+Premise
+no significant changes in visual acuity , biomicroscopy or ophthalmoscopy were observed in both groups .
+
+Premise
+mean systolic and diastolic blood pressure remained relatively stable in both groups
+
+Premise
+except in week 2 ( p = 0 . 016 ) when brimonidine had lower systolic blood pressure .
+
+Premise
+the mean heart rate in the brimonidine group was relatively unchanged over the study period .
+
+Premise
+patients receiving timolol experienced statistically significant mean heart rate decreases from baseline ( p = 0 . 020 ) in week 4 .
+
+Claim
+topically applied twice daily for one month , brimonidine tartrate 0 . 2 % has clinical effectiveness equivalent to timolol 0 . 5 % in taiwanese patients with glaucoma .
+
+Claim
+it has a safe systemic profile with minimum effect on the heart .
+
+Premise
+after a mean follow - up of 12 . 3 months , kaplan - meier survival analysis showed a probability of success of 59 % at 18 months for the mmc group and 61 % for the control group when the first criterion for success was used ( iop between 6 and 21 mmhg ) .
+
+Premise
+when an iop reduction of at least 30 % was used as the criterion to define success , the kaplan - meier survival analysis demonstrated a probability of success at 18 months of 62 % for the mmc group and 67 % for the control group .
+
+Premise
+there were no significant differences in survival rates between the 2 groups with either criterion ( p = 0 . 75 and p = 0 . 37 , respectively ) .
+
+Premise
+after 15 days postoperatively , the mean iop did not significantly differ for both mmc and control eyes .
+
+Premise
+mean numbers of postoperative antiglaucoma medications were similar in mmc - treated eyes and controls .
+
+Premise
+there was no significant difference between the incidences of postoperative complications in both groups .
+
+Claim
+mitomycin c did not increase the short - or intermediate - term success rates of ahmed glaucoma valve implantation .
+
+Premise
+at baseline , the mean daytime diurnal iop was 26 . 1 mmhg in the dorzolamide / timolol combination group versus 25 . 6 mmhg in the latanoprost group in study 1 , and 25 . 3 mmhg in the dorzolamide / timolol combination group versus 24 . 7 mmhg in the latanoprost group in study 2 .
+
+Premise
+after 3 months , the mean daytime diurnal iop was 18 . 9 mmhg for the dorzolamide / timolol combination versus 18 . 4 mmhg for latanoprost in study 1 , and 17 . 4 mmhg for the dorzolamide / timolol combination versus 17 . 5 for latanoprost in study 2 .
+
+Premise
+the difference between treatments in mean iop change at 3 months was - 0 . 04 mmhg [ 95 % confidence interval ( ci ) - 0 . 85 , 0 . 77 ] in study 1 , and - 0 . 57 mmhg ( 95 % ci - 1 . 31 , 0 . 16 ) in study 2 .
+
+Premise
+the probability that the true difference lay between - 1 . 5 and 1 . 5 mmhg , the predefined bounds for equivalence , was > 0 . 950 in both studies .
+
+Premise
+although ocular stinging occurred more frequently with the dorzolamide / timolol combination .
+
+Claim
+the dorzolamide / timolol combination and latanoprost were equally effective at lowering iop .
+
+Premise
+a target iop of 21 mm hg at 6 months was achieved in 53 of 56 ( 95 % ) eyes in the 5 - fu group and 54 of 57 ( 95 % ) eyes in the mmc group ( p = 1 . 00 ) .
+
+Premise
+at 12 months , 45 of 48 ( 94 % ) eyes in the 5 - fu group met a target iop of 21 mm hg while 48 of 54 ( 89 % ) eyes in the mmc group did ( p = . 49 ) .
+
+Premise
+the most common complications in each group were persistent choroidal effusions and bleb leak .
+
+Claim
+our study suggests that intraoperative topical 5 - fu is at least as effective as intraoperative topical mmc in reducing iop of eyes undergoing primary trabeculectomy .
+
+Premise
+forty - two percent ( n = 10 ) of the patients in the trabeculectomy group had a successful outcome ( iop < 18 mm hg with no treatment ) at last follow - up visit , compared to 21 % ( n = 5 ) in the viscocanalostomy group .
+
+Premise
+iop was lower in the trab group with differences in iop being statistically significant at month 12 ( p = < 0 . 001 ) , 24 ( p = < 0 . 001 ) , 30 ( p = 0 . 030 ) , 36 ( p = < 0 . 001 ) , and 48 ( p = 0 . 018 ) .
+
+Premise
+the trabeculectomy group required less postoperative topical iop - lowering medication ( p = 0 . 011 ) .
+
+Claim
+we found trabeculectomy to be more effective at lowering iop than viscocanalostomy in poag patients .
+
+Premise
+at the end of the 24 - month follow - up , iop of 21 mmhg or less and more than 6 mmhg was achieved in 76 % in group 1 ( n = 19 ) and in 80 % in group 2 ( n = 20 ; log - rank p = 0 . 60 ) ;
+
+Premise
+an iop between 6 and 16 mmhg was obtained in 56 % in group 1 ( n = 14 ) and in 72 % in group 2 ( n = 18 ; log - rank p = 0 . 17 ; kaplan - meier cumulative probability of success ) .
+
+Premise
+complications of viscocanalostomy included one intraoperative conversion into trabeculectomy ; microruptures in descemet ' s membrane in five eyes ; three cases of iris incarceration in the decemet ' s window , two of which caused early failure of the procedure requiring reoperation ; and a 1 - mm to 2 - mm transient self - resolving hyphema in three cases
+
+Premise
+complications of trabeculectomy included one case of postoperative bleb bleeding with early transient iop spike ; one early hyphema ; five cases of postoperative hypotony , two of which had a positive seidel test from the conjunctival suture ; three cases of transient choroidal detachment , two of which had shallow anterior chamber .
+
+Premise
+no patient required reoperation .
+
+Premise
+two eyes required argon laser suture lysis , and nine underwent one or more 5 - fu injections , which caused punctate keratopathy in three eyes .
+
+Claim
+viscocanalostomy is an effective iop - lowering procedure in white adults affected by open - angle glaucoma .
+
+Claim
+trabeculectomy with postoperative 5 - fu can probably provides lower iops but , with more numerous complications , greater discomfort , and more intensive postoperative management .
+
+Premise
+cumulative successes in the ahmed group were 0 . 73 at 1 year and 0 . 62 at 2 years , whereas cumulative successes in the baerveldt group were 0 . 92 at 1 year and 0 . 85 at 2 years ( kaplan - meier survival functions : p = 0 . 03 , log rank test ) .
+
+Claim
+male gender , african descent , neovascular glaucoma , and ahmed implantation were found to be significant predictors of failure .
+
+Premise
+at last follow - up visit , eyes in the ahmed group had a significantly higher mean iop ( 19 . 8 + / - 9 . 5 vs . 15 . 8 + / - 7 . 9 mmhg , p = 0 . 003 , t test ) and more antiglaucoma medications ( 1 . 4 + / - 1 . 2 vs . 0 . 9 + / - 1 . 1 medications , p = 0 . 008 , mann - whitney test ) than eyes in the baerveldt group .
+
+Claim
+our study suggests that the ahmed s2 glaucoma valve may be less effective at lowering iop than the baerveldt 250 - mm ( 2 ) glaucoma implant .
+
+Premise
+both drainage implants achieved remarkable reductions in iop ; from pretreatment iop of 40 . 1 + / - 13 . 8 mmhg and 43 . 7 + / - 9 . 3 mmhg to postoperative iop of 17 . 4 + / - 6 . 2 and 14 . 9 + / - 5 . 5 mmhg in the baerveldt and ahmed groups , respectively .
+
+Premise
+a decrease in iop of 56 . 6 % and 65 . 9 % had been achieved .
+
+Premise
+success rates were 20 ( 83 . 3 % ) for baerveldt and 12 ( 66 . 7 % ) for ahmed implants , whereas qualified success occurred in 1 ( 4 . 2 % ) baerveldt and 3 ( 16 . 7 % ) ahmed implants .
+
+Premise
+conversely , failure to control iop occurred in 3 ( 12 . 5 % ) baerveldt implants and 3 ( 16 . 7 % ) ahmed implants .
+
+Premise
+more than 80 % of the patients had maintained or improved visual function , whereas only 4 ( 16 . 0 % ) of the patients with baerveldt implants and 2 ( 16 . 7 % ) patients with ahmed implants had loss of more than 1 snellen line .
+
+Claim
+both baerveldt and ahmed glaucoma drainage implants performed well in terms of iop control , preservation of visual function , and having low complication rates .
+
+Premise
+the overall success rates were 87 % for the 350 - mm2 group and 70 % for the 500 - mm2 group ( p = 0 . 05 ) .
+
+Premise
+the life - table success rates declined over time for both implant groups , from a high of 98 % for the 350 - mm2 group and 92 % for the 500 - mm2 group at 1 year to a cumulative success rate of 79 % for the 350 - mm2 group and 66 % for the 500 - mm2 group at 5 years .
+
+Premise
+visual acuities were better or remained the same in 50 % of the patients in the 350 - mm2 group and 46 % of those in the 500 - mm2 group .
+
+Claim
+the longer term results show that the 350 - mm2 baerveldt implant is more successful than the 500 - mm2 implant for overall iop control .
+
+Premise
+sixteen ( 13 . 2 % ) of 121 patients in the placebo group converted to glaucoma , compared with 12 ( 9 . 0 % ) of 134 patients in the betaxolol group .
+
+Premise
+the intent - to - treat analysis demonstrated no evidence of any difference in conversion rates between the betaxolol and placebo groups after 3 years .
+
+Premise
+visual field survival analysis demonstrated no significant difference between the betaxolol and placebo groups .
+
+Premise
+the betaxolol - treated group had significantly lower post - treatment iop values .
+
+Premise
+converters had significantly higher pre - and post - treatment iop values than non - converters .
+
+Premise
+conversion to glaucoma was found to be related to both the baseline and post - treatment iop levels .
+
+Premise
+combined phacotrabeculectomy resulted in lower mean postoperative iop than phacoemulsification alone at 3 months ( 14 . 0 vs 17 . 0 mmhg , p = 0 . 01 ) , 15 months ( 13 . 2 vs 15 . 4 mmhg , p = 0 . 02 ) , and 18 months ( 13 . 6 vs 15 . 9 mmhg , p = 0 . 01 ) .
+
+Premise
+combined phacotrabeculectomy resulted in 1 . 25 fewer topical glaucoma drugs ( p < 0 . 001 ) in the 24 - month postoperative period , compared with phacoemulsification alone .
+
+Premise
+combined surgery was associated with more postoperative complications ( p < 0 . 001 ) and more progression of optic neuropathy ( p = 0 . 03 ) , compared with phacoemulsification alone .
+
+Claim
+combined phacotrabeculectomy with adjunctive mitomycin c is more effective than phacoemulsification alone in controlling iop in medically uncontrolled cacg eyes with coexisting cataract .
+
+Claim
+combined phacotrabeculectomy is associated with more postoperative complications .
+
+Premise
+for both treatments the diurnal iop reduction after 6 months was statistically significant ( p < 0 . 001 ) .
+
+Premise
+iop ( mean + / - sd ) was reduced from 23 . 3 + / - 2 . 8 to 17 . 8 + / - 2 . 8 ( - 5 . 6 ) mmhg in the latanoprost 0 . 005 % group and from 23 . 0 + / - 3 . 2 to 18 . 5 + / - 2 . 4 ( - 4 . 8 ) mmhg in pilocarpine 2 % t . i . d . - treated eyes .
+
+Premise
+the mean difference of - 0 . 8 mmhg ( per protocol , pp ) and - 1 . 6 mmhg ( intend - to - treat , itt ) was statistically significant ( p < 0 . 04 , pp ; p < 0 . 001 , itt ) in favor of latanoprost 0 . 005 % .
+
+Premise
+two eyes treated with latanoprost showed an iris color change .
+
+Premise
+thirty - six patients in the latanoprost group and 106 in the pilocarpine 2 % group reported ocular adverse events ( p < 0 . 001 ) .
+
+Claim
+from the data we conclude that the additivity of latanoprost 0 . 005 % is at least as effective as pilocarpine 2 % t . i . d .
+
+Claim
+latanoprost was better tolerated than pilocarpine 2 % eye drops in this study .
+
+Claim
+the increase in iris pigmentation requires further investigation .
+
+Premise
+of patients with 350 - and 500 - mm2 implants , 93 % and 88 % , respectively , achieved surgical success ( 18 - month life - table analysis , p = 0 . 93 ) .
+
+Premise
+the 500 - mm2 implants afforded intraocular pressure control with significantly fewer medications ( 0 . 7 versus 1 . 3 ; p = 0 . 006 ) .
+
+Premise
+the postoperative visual acuities remained within one line of the preoperative visual acuities or improved in 62 % and 66 % of patients in the 350 - and 500 - mm2 groups , respectively ( p = 0 . 93 ) .
+
+Premise
+the most frequent ones in the 350 - and 500 - mm2 groups , respectively , were serous choroidal effusion ( 16 % and 32 % ) , strabismus ( 16 % and 19 % ) , anterior uveitis ( 14 % and 11 % ) , and corneal or corneal graft edema ( 11 % each ) .
+
+Claim
+the intermediate - term results of the 350 - and 500 - mm2 baerveldt implants were statistically comparable with respect to surgical and visual outcomes , as well as complications
+
+Claim
+although the larger implant was associated with a higher rate of some complications .
+
+Claim
+the 500 - mm2 baerveldt implant afforded intraocular pressure control with fewer medications than the 350 - mm2 implant .
+
+Premise
+the mean additional reduction from latanoprost - treated baseline iop was 8 . 3 mmhg ( 35 . 5 % ) with fixed brimonidine - timolol and 6 . 2 mmhg ( 27 . 0 % ) with timolol at 10 am , week 12 ( p < 0 . 001 ) .
+
+Premise
+patients treated with fixed brimonidine - timolol adjunctive to latanoprost were significantly more likely than patients treated with adjunctive timolol to achieve an iop < 18 mmhg ( p = 0 . 028 ) and a 20 % reduction in iop from baseline ( p = 0 . 047 ) at both 8 am and 10 am in week 12 .
+
+Premise
+adverse events occurred in 14 . 7 % of fixed brimonidine - timolol patients and 12 . 7 % of timolol patients .
+
+Premise
+biomicroscopy findings were similar between the treatment groups after 12 weeks of treatment .
+
+Claim
+fixed - combination brimonidine - timolol reduced iop significantly more effectively than timolol when used as adjunctive therapy to latanoprost in patients with glaucoma and ocular hypertension .
+
+Claim
+both fixed brimonidine - timolol and timolol were well tolerated as agents adjunctive to latanoprost .
+
+Premise
+at week 12 , the mean ( sd ) diurnal iop was 17 . 8 ( 2 . 9 ) mmhg with brimonidine - timolol and 17 . 9 ( 3 . 9 ) mmhg with latanoprost ( p = 0 . 794 ) .
+
+Premise
+the percentage of patients achieving at least a 20 % decrease from baseline diurnal iop at week 12 was 87 . 7 % in the brimonidine - timolol group and 77 . 3 % in the latanoprost group ( p = 0 . 131 ) .
+
+Premise
+measured biomicroscopic changes from baseline to week 12 were infrequent in both groups .
+
+Claim
+fixed - combination brimonidine - timolol was as effective as latanoprost in reducing iop in patients with glaucoma or ocular hypertension .
+
+Claim
+both treatments demonstrated favorable ocular tolerability .
+
+Premise
+over a follow - up period of 1 year , no statistically significant differences were detected between the baerveldt - 350 implant versus ahmed valve for iop control ( 12 . 1 + / - 5 . 3 mm hg vs 13 . 6 + / - 5 . 6 mm hg respectively , at a power of 90 % to detect a difference of 3 . 2 mm hg between the two groups and p = 0 . 05 ) , surgical success rate ( 65 . 6 % vs . 65 . 6 % respectively , complete and qualified combined ) , postoperative hypotony rate ( 37 . 5 % vs . 34 . 4 % respectively ) , and
+
+Claim
+in a case - controlled comparison , the baerveldt - 350 implant and the ahmed valve had similar iop control and surgical outcomes in patients with refractory glaucoma at 1 - year follow - up .
+
+Premise
+the mean iop in the first period when all patients were dosed in the evening was assessed 12 h after dosing at 09 : 00 and it was similar in the two treatment groups ( mean + / - standard deviation : 17 . 9 + / - 2 . 7 mmhg for travoprost versus 17 . 7 + / - 2 . 5 mmhg for latanoprost , p = 0 . 812 ) .
+
+Premise
+in the a . m . - dosing crossover comparison , the 24 - h post - dose iop was significantly lower ( p < 0 . 001 ) on travoprost ( 16 . 9 + / - 3 . 1 mmhg ) compared to latanoprost ( 18 . 6 + / - 3 . 3 mmhg ) .
+
+Claim
+a . m . - dosed travoprost is superior to a . m . - dosed latanoprost by 1 . 7 mmhg at 24 - h post - dose .
+
+Premise
+fclt was statistically superior to latanoprost at 7 of 9 time points and at all 9 time points when compared with timolol .
+
+Premise
+diurnal iop reductions of 30 % or more from baseline to week 12 were achieved by 73 . 5 % , 57 . 5 % , and 32 . 8 % of those treated with fclt , latanoprost , and timolol , respectively ( p = . 007 for fclt vs timolol ; p < . 001 for fclt vs latanoprost ) .
+
+Claim
+fixed - combination latanoprost - timolol therapy is as safe and effective in lowering iop in patients with either ocular hypertension or glaucoma as monotherapy with latanoprost or timolol .
+
+Claim
+combination therapy can be used to treat patients for whom monotherapy does not provide sufficient iop reduction .
+
+Claim
+the simplicity , efficacy , and tolerability of fclt contribute to its utility in clinical practice .
+
+Premise
+at 2 years , the mean intraocular pressure and cumulative probability of failure was 12 . 4 ± 4 . 6 mmhg and 0 . 28 for standard trabeculectomy , and 11 . 5 ± 3 . 6 mmhg and 0 . 27 for microtrabeculectomy ( p = 0 . 50 and 0 . 89 , respectively ) .
+
+Premise
+one patient in each group required baerveldt device implantation .
+
+Premise
+vision reduced ≥2 snellen lines in 15 % in the standard trabeculectomy group and 25 % in the microtrabeculectomy group , mainly from cataract ( p = 0 . 48 ) .
+
+Claim
+both trabeculectomy techniques achieved good intraocular pressure reduction and had similar complication rates .
+
+Claim
+scleral flap size had no significant effect on medium - term intraocular pressure control and complication profile .
+
+Premise
+iops at the 3 time points assessed during the baseline visit ranged from 23 . 8 to 26 . 1 mm hg in the pf tafluprost group and 23 . 5 to 26 . 0 mm hg in the pf timolol group .
+
+Premise
+iops at the 3 time points assessed during the 12 - week visit ranged from 17 . 4 to 18 . 6 mm hg for pf tafluprost and 17 . 9 to 18 . 5 mm hg for pf timolol .
+
+Premise
+similar percentages of pf tafluprost and pf timolol patients reported ocular pain / stinging / irritation ( 4 . 4 % vs 4 . 6 % ) and pruritus ( 2 . 5 % vs 1 . 5 % ) .
+
+Premise
+the percentages of pf tafluprost and pf timolol patients reporting conjunctival hyperemia were 4 . 4 % vs 1 . 2 % ( nominal p = . 016 ) .
+
+Claim
+the iop - lowering effect of pf tafluprost was noninferior to that of pf timolol .
+
+Claim
+pf tafluprost is an efficacious and generally well - tolerated ocular hypotensive agent .
+
+Premise
+the number of glaucoma medications ( mean + / - sd ) was 1 . 3 + / - 1 . 3 in the tube group and 0 . 5 + / - 0 . 9 in the trabeculectomy group ( p < . 001 ) .
+
+Premise
+the cumulative probability of failure during the first year of follow - up was 3 . 9 % in the tube group and 13 . 5 % in the trabeculectomy group ( p = . 017 ) .
+
+Claim
+both surgical procedures produced similar iop reduction at one year
+
+Claim
+there was less need for supplemental medical therapy following trabeculectomy with mmc .
+
+Premise
+at 1 year after surgery , the mean iop was 15 . 6 + / - 2 . 4mm hg in the ologen group ( p < 0 . 01 , 43 % reduction ) and 11 . 5 + / - 4 . 1 mm hg in the mmc group ( p < 0 . 01 , 50 % reduction ) .
+
+Premise
+no anti - glaucomatous medication was necessary in the mmc group in the first year of follow - up , whereas five patients in the ologen group required topical treatment .
+
+Premise
+the absolute success rate was 100 % in the mmc group and 50 % in the ologen group ( p = 0 . 01 ) .
+
+Premise
+after 1 year , filtering blebs developed significantly more avascular areas in the mmc group ( score = 1 . 4 ) than in the ologen group ( score = 2 . 8 ; p < 0 . 01 ) .
+
+Claim
+the complete success rate using trabeculectomy with the ologen implant is lower than that achieved by trabeculectomy with mmc .
+
+Premise
+latanoprost reduced the intraocular pressure 1 . 09 and 1 . 58 mm hg more than timolol plus dorzolamide after 2 weeks and 3 months of treatment , respectively .
+
+Premise
+these differences were statistically significant ( p < 0 . 05 ) at the end of the study .
+
+Premise
+after 3 months of treatment , 32 . 3 % of the eyes in the latanoprost group reduced the intraocular pressure in 30 % or more with respect to baseline , while 15 . 6 % of the eyes in the timolol plus dorzolamide group achieved this reduction .
+
+Claim
+latanoprost administered once daily reduced the intraocular pressure at least as well as timolol plus dorzolamide twice daily in patients with open - angle glaucoma .
+
+Premise
+mean preoperative iop was 20 . 1 + / - 3 . 8 mmhg in the 1 - site group and 19 . 5 + / - 5 . 3 mmhg in the 2 - site group ( p = 0 . 56 ) using a mean of 2 . 3 + / - 0 . 9 and 2 . 5 + / - 0 . 9 antiglaucoma medications , respectively ( p = 0 . 27 ) .
+
+Premise
+after 3 years of follow - up , the mean iop was 12 . 6 + / - 4 . 8 mmhg in the 1 - site group and 11 . 7 + / - 4 . 0 mmhg in the 2 - site group ( p = 0 . 40 ) , receiving a mean of 0 . 3 + / - 0 . 7 and 0 . 4 + / - 0 . 9 medications , respectively ( p = 0 . 59 ) .
+
+Premise
+at the end of the study , 73 % of 1 - site eyes and 78 . 4 % of 2 - site eyes had iops of less than 18 mmhg while receiving no antiglaucoma medications ( p = 0 . 59 ) .
+
+Premise
+visual acuity was similar for both groups at 3 months after surgery .
+
+Premise
+there were no significant differences in the need for digital pressure , postoperative bleb needling with 5 - fluorouracil , or number of postoperative visits .
+
+Premise
+early leaks of the conjunctival wound closure occurred in 6 eyes in the 1 - site group and in 0 eyes in the 2 - site group ( p = 0 . 03 ) .
+
+Claim
+one - site fornix - based and 2 - site limbus - based phacotrabeculectomy were similarly effective in lowering iop and reducing the need for antiglaucoma medications over a 3 - year follow - up period .
+
+Premise
+baseline mean diurnal iop ( + / - standard deviation , mmhg ) on latanoprost was comparable between groups ( brimonidine purite : 19 . 6 + / - 2 . 94 ; brinzolamide : 19 . 8 + / - 3 . 25 ; p = 0 . 846 ) .
+
+Premise
+mean diurnal iop at month 3 was 16 . 3 + / - 2 . 63 mmhg with brimonidine purite and 17 . 8 + / - 2 . 19 mmhg with brinzolamide ( p = 0 . 028 ) .
+
+Premise
+adjunctive use of brimonidine purite provided greater iop lowering than brinzolamide at 10 a . m . ( p < 0 . 001 ) and 4 p . m . ( p = 0 . 050 ) and equivalent iop lowering to brinzolamide at 8 a . m . ( p = 0 . 716 ) .
+
+Premise
+blurred vision at month 1 and bitter taste at months 1 and 3 were more common upon instillation of brinzolamide eye drops .
+
+Claim
+brimonidine purite 0 . 1 % provided significantly lower iop compared with brinzolamide 1 % when used as adjunctive therapy to latanoprost .
+
+Claim
+both adjunctive therapies were well tolerated .
+
+Claim
+additional studies are needed to further evaluate these drugs as adjunctive therapy to prostaglandin analogs .
+
+Premise
+both drugs were equally effective in reducing iop ( lt : - 35 . 0 % ±10 . 0 % ; bt : - 33 . 6 % ±8 . 8 % , p = 0 . 463 between groups ) .
+
+Premise
+no difference in ocular perfusion pressure was observed between the 2 treatment groups ( p = 0 . 1 , between groups ) .
+
+Premise
+neither lt nor bt altered onhbf ( p = 0 . 4 , baseline vs . treatment )
+
+Premise
+no effect on flow velocities in the retrobulbar vessels was seen with either of the 2 treatments .
+
+Claim
+a 6 - week treatment with lt or bt was equally effective in reducing iop .
+
+Claim
+none of the administered drugs induced a significant effect on ocular blood flow parameters .
+
+Premise
+the mean iop levels of latanoprost / timolol ( 13 . 83 , sd = 2 . 54 ) was significantly lower than of bimatoprost ( 16 . 16 , sd = 3 . 28 ; p < 0 . 0001 ) at week 8 .
+
+Premise
+the change in mean iop values was significantly higher in the latanoprost / timolol group at 10 : 00 am ( p = 0 . 013 ) and 12 : 00 pm ( p = 0 . 01 ) , but not at 8 : 00 am ( p = ns ) .
+
+Premise
+there was a significant decrease in mean heart rate in the latanoprost / timolol group
+
+Premise
+no significant changes in blood pressure and lung spirometry were observed in either groups .
+
+Claim
+the fixed combination of latanoprost / timolol was significantly superior to bimatoprost alone in reducing iop in patients with poag or oht .
+
+Claim
+further studies with large sample sizes should be taken to support the superior efficacy of latanoprost / timolol , as well as to better assess its profile of side effects .
+
+Premise
+iop was reduced from 24 . 66 + / - 13 . 76 mm hg to 19 . 03 + / - 6 . 21 mm hg in the iridotomy group ( p < . 001 ) and from 27 . 96 + / - 13 . 06 mm hg to 20 . 45 + / - 7 . 26 mm hg in the iridotomy plus iridoplasty group ( p < . 001 ) .
+
+Premise
+extent of peripheral anterior synechiae was decreased by 1 more clock - hour after iridoplasty compared with that after iridotomy in the iridotomy plus iridoplasty group ( p < . 001 ) .
+
+Premise
+there was no significant difference in iop , medications , need for surgery , or visual function between groups at the 1 - year visit .
+
+Claim
+in eyes with synechial primary angle - closure or primary angle - closure glaucoma , both iridotomy alone or combined with iridoplasty provide a significant and equivalent reduction in iop .
+
+Premise
+mean iop reduction ( d0 - d84 ) was - 8 . 6 ±2 . 6 mm hg ( - 36 % ) on t2345 and - 9 . 0 ±2 . 4 mm hg ( - 38 % ) on bpl , confirming non - inferiority of t2345 to bpl .
+
+Premise
+the most frequent ocular adverse event , drug intolerance , was reported in 1 ( 0 . 5 % ) patient on t2345 versus 4 ( 2 . 1 % ) patients on bpl .
+
+Premise
+moderate to severe conjunctival hyperaemia was less frequent on t2345 than on bpl at d42 ( 20 . 2 % vs 30 . 6 % ; p = 0 . 003 ) and d84 ( 21 . 4 % vs 29 . 1 % ; p = 0 . 02 ) .
+
+Premise
+upon instillation , the global subjective ocular symptom score was significantly lower on t2345 than bpl on d42 ( 0 . 15 vs 0 . 41 ; p = 0 . 001 ) and d84 ( 0 . 18 vs 0 . 46 ; p = 0 . 001 ) .
+
+Claim
+preservative - free latanoprost has the same efficacy as bpl , with improved local tolerance .
+
+Premise
+the mean iop was significantly lower after 1 year in both the groups ( p < 0 . 001 ) .
+
+Premise
+the mean iop in the first month of follow - up was lower in the study group ( control ; 20 . 4±9 . 7 , study ; 13 . 6±6 . 5 , p < 0 . 01 ) .
+
+Premise
+the success rate at 1 year was 78 % for the study group and 76 % for the control group ( p = 0 . 82 ) .
+
+Premise
+complication rates were not different between the groups .
+
+Claim
+intravitreal injection of triamcinolone acetonide in neovascular glaucoma did not affect the intermediate - term success of the silicone ahmed valve nor reduce the incidence of complications .
+
+Premise
+the mean iop spike in the first month was lower in the triamcinolone group .
+
+Premise
+mean baseline iop was 24 . 0 + / - 2 . 0 mmhg in the viscocanalostomy group and 23 . 7 + / - 2 . 6 mmhg in the trabeculectomy group ( p = 0 . 7 ) .
+
+Premise
+mean postoperative iop was 13 . 7 + / - 2 . 2 mmhg at 3 months , 14 . 8 + / - 3 . 3 mmhg at 6 months , and 14 . 9 + / - 3 . 0 mmhg at 12 months in the viscocanalostomy group and 12 . 1 + / - 4 . 0 mmhg at 3 months , 13 . 8 + / - 4 . 7 mmhg at 6 months , and 14 . 1 + / - 4 . 4 mmhg at 12 months in the trabeculectomy group .
+
+Premise
+at 12 months , 17 patients ( 85 % ) in the viscocanalostomy group and 16 patients ( 80 % ) in the trabeculectomy group achieved an iop of 20 mmhg or less without medication ( p = 0 . 7 ) .
+
+Claim
+there was no significant difference in iop reduction between viscocanalostomy and trabeculectomy with mitomycin c in combination with phacoemulsification and intraocular lens implantation in patients with primary open - angle glaucoma .
+
+Premise
+at the last follow - up visit , mean pre - operative iop decreased from 31 . 1 ( ± 14 . 2 ) to 16 . 2 ( ± 1 . 5 ) mm hg after trabeculectomy , and from 28 . 1 ( ± 9 . 0 ) to 15 . 7 ( ± 1 . 8 ) mm hg after ex - press implantation ( p = 0 . 001 ) .
+
+Premise
+the mean number of anti - glaucoma medicines prescribed at the last follow - up decreased from 3 . 7 pre - operatively ( both groups ) to 0 . 9 after trabeculectomy vs 0 . 3 after ex - press implantation ( p = 0 . 001 ) .
+
+Premise
+complete success rates ( 5 < iop < 18 mm hg without medications ) were higher with ex - press compared with trabeculectomy ( p = 0 . 0024 ) .
+
+Premise
+postoperative complications were more frequent after trabeculectomy ( 33 % ) compared with ex - press ( 20 % ) , with four trabeculectomy eyes ( 27 % ) needing postoperative interventions , compared with none with ex - press .
+
+Claim
+trabeculectomy and ex - press implantation provided similar iop control ,
+
+Claim
+the ex - press group had a lower rate of complications , fewer postoperative interventions , and needed less glaucoma medications .
+
+Premise
+in the bimatoprost - treated group , the iop reduction was 6 . 2 + / - 1 . 8 mmhg , whereas it was 6 . 5 + / - 2 . 3 mmhg in the timolol - dorzolamide group after 6 months of treatment .
+
+Premise
+the difference was not statistically significant ( p = 0 . 48 ) .
+
+Claim
+both bimatoprost and the timolol - dorzolamide combination were well tolerated .
+
+Claim
+bimatoprost can be used as a longterm monotherapy agent in the treatment of poag and ocular hypertension .
+
+Premise
+compared with baseline measurements , both latanoprost and timolol caused a significant ( p < 0 . 001 ) reduction of iop at each hour of diurnal curve throughout the duration of therapy .
+
+Premise
+reduction of iop was 6 . 0 + / - 4 . 5 and 5 . 9 + / - 4 . 6 with latanoprost and 4 . 8 + / - 3 . 0 and 4 . 6 + / - 3 . 1 with timolol after 6 and 12 months , respectively .
+
+Premise
+comparison of mean diurnal measurements with latanoprost and timolol showed a statistical significant ( p < 0 . 001 ) difference at 3 , 6 , and 12 months .
+
+Premise
+mean c was found to be significantly enhanced ( + 30 % ) only in the latanoprost - treated group compared with the baseline ( p = 0 . 017 ) .
+
+Premise
+mean conjunctival hyperemia was graded at 0 . 3 in latanoprost - treated eyes and 0 . 2 in timolol - treated eyes .
+
+Premise
+a remarkable change in iris color was observed in both eyes of 1 of the 18 patients treated with latanoprost and none of the 18 patients who received timolol .
+
+Premise
+in the timolol group , heart rate was significantly reduced from 72 + / - 9 at baseline to 67 + / - 10 beats per minute at 12 months .
+
+Claim
+further studies may need to confirm these data on a larger sample and to evaluate the side effect of increased iris pigmentation on long - term follow - up ,
+
+Claim
+in patients with pigmentary glaucoma , 0 . 005 % latanoprost taken once daily was well tolerated and more effective in reducing iop than 0 . 5 % timolol taken twice daily .
+
+Claim
+increased intraocular pressure ( iop ) has been shown to be one of the most important risk factors for developing glaucoma .
+
+Premise
+after 5 years of follow - up eight patients in the placebo group and five patients in the timolol group had developed glaucomatous field loss ( ns ) ;
+
+Premise
+the corresponding figures after 10 years were 15 patients in the placebo group and seven patients in the timolol group .
+
+Premise
+survival analysis showed a tendency but no statistically significant difference between treatment groups ( p = 0 . 07 ) .
+
+Premise
+iop reduction was greater in eyes passing the 10 - year visit without field loss ( 5 . 7 mmhg ) , than in those that reached an end - point ( 2 . 3 mmhg ; p = 0 . 0002 ) .
+
+Claim
+in this long - term study we found a tendency but failed to prove a beneficial effect of topical timolol treatment in patients with elevated iop , normal visual fields and some additional risk factor .
+
+Premise
+significantly higher number of eyes belonging to group a ( 14 eyes ) had shallower anterior chamber than group b ( 7 eyes ) on first post operative day ( p = 0 . 042 ) .
+
+Premise
+six eyes ( 30 % ) in group a had peripheral or central irido - corneal touch in early postoperative period as compared to only one in group b .
+
+Premise
+hypotony was noted in 3 eyes in each group .
+
+Premise
+there was no significant difference in the iop between the two groups after 6 weeks ( group a : 10 . 95 + / - 3 . 03 mmhg vs . group b : 12 . 29 + / - 4 . 67 mmhg ; p = 0 . 87 ) .
+
+Premise
+there was a significant drop in iop following removal of sutures ( 15 . 19 + / - 6 . 15 mmhg to 13 . 19 + / - 6 . 13 mmhg ; p = 006 ) in group b .
+
+Claim
+use of combination of permanent and releasable scleral flap sutures is a safe technique that significantly reduces the incidence of immediate postoperative shallow anterior chamber after trabeculectomy .
+
+Premise
+eyes in the slt and the travoprost groups achieved a significant reduction in iop compared with the baseline iop values ( - 3 . 7 mm hg [ p = 0 . 002 ] vs - 4 . 1 mm hg [ p < 0 . 001 ] , respectively ) .
+
+Premise
+ninety - six percent of ntg eyes in the travoprost group , and 82 % of eyes in the slt group had iop fluctuations < 3 mm hg ( p = 0 . 01 ) .
+
+Premise
+success in fluctuation reduction was 75 % and 92 % for the slt and travoprost groups , respectively ( p = 0 . 005 ) .
+
+Claim
+both travoprost and slt can significantly reduce the iop in patients with poag and ntg .
+
+Claim
+travoprost better controls iop fluctuations than slt , especially during the daytime .
+
+Premise
+no significant difference ( p = 0 . 846 ) was found in mean decrease in iop between the slt ( 5 . 86 mm hg ) and alt ( 6 . 04 mm hg ) groups at 1 year or at any other time points , nor were there any significant differences in the rate of early or late complications between the two groups .
+
+Claim
+slt is equivalent to alt in terms of iop lowering at 1 year , and is a safe and effective procedure for patients with open - angle glaucoma .
+
+Premise
+after 3 months of treatment , 80 % of patients in the brimonidine group and 74 % of patients in the latanoprost group had achieved > or = 20 % reduction in iop from baseline .
+
+Premise
+the mean reduction in iop from baseline at month 3 was 6 . 8 mm hg with brimonidine and 6 . 5 mm hg with latanoprost ( 27 . 8 % vs 27 . 0 % , respectively ) .
+
+Premise
+among treatment - naive patients , a significantly higher percentage of brimonidine - treated patients achieved > or = 20 % decrease in iop compared with latanoprost - treated patients ( 88 % vs 59 % , respectively ; p = 0 . 01 ) .
+
+Premise
+in previously treated patients , a higher percentage of the latanoprost group achieved > or = 20 % reduction in iop compared with the brimonidine group ( 88 % vs 74 % , respectively ) ;
+
+Premise
+however , the difference was not statistically significant .
+
+Premise
+significantly more patients in the brimonidine group achieved clinical success at month 3 compared with patients in the latanoprost group ( 91 % vs 74 % ; p = 0 . 01 ) .
+
+Claim
+this suggests that brimonidine may be the more reliable choice for first - line therapy of newly diagnosed open - angle glaucoma or ocular hypertension .
+
+Premise
+the incidence of adverse events was low in both groups through 24 months of follow - up .
+
+Premise
+at 24 months , the proportion of patients with an iop of 21 mm hg or lower without ocular hypotensive medications was significantly higher in the stent group than in the control group ( p = . 036 ) .
+
+Premise
+the mean iop was stable between 12 months and 24 months ( 17 . 0 mm hg ± 2 . 8 [ sd ] and 17 . 1 ± 2 . 9 mm hg , respectively ) in the stent group but increased ( 17 . 0 ± 3 . 1 mm hg to 17 . 8 ± 3 . 3 mm hg , respectively ) in the control group .
+
+Premise
+ocular hypotensive medication was statistically significantly lower in the stent group at 12 months ; it was also lower at 24 months , although the difference was no longer statistically significant .
+
+Claim
+patients with combined single trabecular micro - bypass stent and cataract surgery had significantly better iop control on no medication through 24 months than patients having cataract surgery alone .
+
+Claim
+both groups had a similar favorable long - term safety profile .
+
+Premise
+the mean baseline intraocular pressure was 23 . 8 + / - 12 . 6 mmhg in the study group and 25 . 9 + / - 10 . 6 mmhg in the control group ( p = 0 . 513 ) .
+
+Premise
+mean intraocular pressure at postoperative month 6 was 14 . 88 + / - 6 . 2 and 14 . 62 + / - 5 . 46 mmhg in the study group and control group , respectively ( p = 0 . 837 ) .
+
+Premise
+there was no statistically significant difference in the mean values of schirmer ' s tear test 1 and the level of conjunctival hyperaemia between the two groups at baseline , months 1 and 6 post surgery .
+
+Premise
+the treatment group had a statistically significant decrease in ocular surface disease index score at 6 months ( p = 0 . 003 ) , indicating less severity of dry eye symptoms and significant reduction in ocular pain .
+
+Claim
+topical cyclosporine 0 . 05 % had no effect on postoperative bleb function and intraocular pressure following trabeculectomy , but improved subjective ocular surface symptoms in these patients .
+
+Premise
+mean intraocular pressure ( iop ) changes from baseline were - 4 . 0 + / - 1 . 7 mmhg in tafluprost administered patients and - 1 . 4 + / - 1 . 8 mmhg in placebo administered patients at 4 weeks , with a statistically significant difference ( p < 0 . 001 ) .
+
+Premise
+iop change at 4 weeks , % iop reduction at 2 and 4 weeks were also significantly greater in tafluprost than in placebo .
+
+Premise
+a total of 51 . 0 % in tafluprost treated group and 8 . 9 % in placebo treated group reported adverse drug reactions .
+
+Claim
+these results indicate that tafluprost is clinically useful in the treatment of ntg .
+
+Premise
+the mean changes were - 4 . 7 + / - 2 . 1 ( s . d . ) in the timolol and - 4 . 0 + / - 2 . 0 mmhg in the brimonidine group ( p = 0 . 0138 ) .
+
+Premise
+when added to pg analogues , the iop - lowering effect of brimonidine ( - 2 . 9 + / - 1 . 8 mmhg ) was greater than that of the placebo ( - 2 . 1 + / - 1 . 8 mmhg ) ( p = 0 . 0010 ) .
+
+Claim
+topical brimonidine showed an additive iop - lowering effect to topical pg analogues ,
+
+Claim
+although its iop - lowering effect was inferior to topical timolol as monotherapy .
+
+Premise
+mean baseline values ( 25 mm hg ) for subjects at eligibility ( while maintained on timolol ) were not significantly different ( p < . 0001 ) among the treatment groups .
+
+Premise
+the intraocular pressure was lowered an additional - 5 . 7 to - 7 . 2 mm hg and - 5 . 1 to - 6 . 7 mm hg in the travoprost 0 . 004 % and 0 . 0015 % concentrations , respectively .
+
+Premise
+these changes were significantly ( p < or = . 0001 ) different from the vehicle group ( - 1 . 3 to - 2 . 8 mm hg ) .
+
+Premise
+the intraocular pressure range on treatment at all visit times over the 6 - month treatment period ranged from 17 . 9 to 19 . 2 mm hg for travoprost 0 . 004 % and 18 . 3 to 20 . 1 mm hg for travoprost 0 . 0015 % compared with 22 . 4 to 24 . 1 mm hg for vehicle .
+
+Premise
+average hyperemia scores ranged from trace to mild ( mean 0 . 5 on a scale of 0 = none / trace ; 1 = mild ; 2 = moderate ; 3 = severe ) for all treatment groups .
+
+Premise
+no iris pigmentation changes were observed in any patient during this study .
+
+Premise
+there were no clinically or statistically significant changes from baseline in visual acuity , ocular cells and flare , fundus parameter , cup - to - disk ratio and visual field between the treatment groups .
+
+Premise
+there were no serious adverse events reported for any treatment group .
+
+Claim
+travoprost produced clinically relevant and statistically significant additional intraocular pressure reductions from baseline when used adjunctively with timolol in subjects with open - angle glaucoma or ocular hypertension .
+
+Premise
+with a mean follow - up of 9 . 7 months , the trabeculectomy group had statistically lower intraocular pressures at weeks 6 to 15 ( 12 . 6 mm hg vs 16 . 4 mm hg ) and months 11 to 13 ( 11 . 4 mm hg vs 17 . 2 mm hg ) than the ahmed implant group .
+
+Premise
+compared with preoperative status , no statistically significant differences between groups were noted for visual acuity , visual field , lens status , and final anterior chamber depth .
+
+Premise
+the cumulative probabilities of success ( intraocular pressure < 21 mm hg and at least 15 % reduction in intraocular pressure from preoperative level ) were 83 . 6 % for trabeculectomy and 88 . 1 % for ahmed implant ( p = . 43 ) .
+
+Premise
+the ahmed implant group had a greater adjunctive medication requirement .
+
+Premise
+on the last visit , 10 of the trabeculectomy eyes and 19 of the ahmed implant eyes required at least one topical medication ( p = . 01 ) .
+
+Premise
+there was no statistically significant difference in the rate of complications between the two groups .
+
+Premise
+lower mean intraocular pressures were noted for the trabeculectomy group .
+
+Premise
+all other results , including success ( as defined in this study ) and frequency of complications , were comparable between the two groups .
+
+Premise
+from an overall baseline of 24 . 1 mmhg , latanoprost reduced iop by 6 . 7 mmhg ( 28 % ) and unoprostone reduced iop by 3 . 3 mmhg ( 14 % ) .
+
+Premise
+the difference between the groups of 3 . 4 mmhg was significant ( p : < 0 . 001 , analysis of covariance ; 95 % confidence interval [ ci ] : - 4 . 7 to - 2 . 1 ) in favor of latanoprost .
+
+Premise
+a > / = 30 % reduction in mean iop from baseline was achieved by 44 % of latanoprost - treated patients compared with 8 % of unoprostone - treated patients .
+
+Claim
+latanoprost administered once daily was significantly more effective in reducing iop compared with unoprostone administered twice daily in patients with poag and oh .
+
+Premise
+mean iop reductions for latanoprost and timolol at week 12 were 7 . 2 and 5 . 7 mmhg , respectively , with a difference of 1 . 5 mmhg ( 95 % ci , - 0 . 8 to 3 . 7 ; p = 0 . 21 ) .
+
+Premise
+responder rates were 60 % for latanoprost and 52 % for timolol ( p = 0 . 33 ) .
+
+Premise
+between - treatment differences in mean iop reduction for pcg and non - pcg subgroups were 0 . 6 mmhg ( 95 % ci , - 2 . 3 to 3 . 4 ) and 2 . 6 mmhg ( 95 % ci , - 0 . 8 to 6 . 1 ) , respectively .
+
+Premise
+responder rates for latanoprost versus timolol were 50 % versus 46 % for the pcg group and 72 % versus 57 % for the non - pcg group .
+
+Claim
+both therapies were well tolerated .
+
+Claim
+latanoprost 0 . 005 % is not inferior ( i . e . , is either more or similarly effective ) to timolol and produces clinically relevant iop reductions across pediatric patients with and without pcg .
+
+Claim
+both latanoprost and timolol had favorable safety profiles over the duration of this 3 - month trial .
+
+Premise
+mean iop reduction across all visits and time points was 8 . 0 mm hg in the tra / tim bak - free group and 8 . 4 mm hg in the tra / tim group ( p = 0 . 0943 ) .
+
+Premise
+the difference in mean iop between groups ranged from 0 . 2 to 0 . 7 mm hg across visits and time points , with a mean pooled difference of 0 . 4 mm hg ( 95 % ci : - 0 . 1 to 0 . 8 ) ,
+
+Premise
+the most common drug - related adverse event was hyperemia of the eye ( ocular hyperemia and conjunctival hyperemia combined ) , occurring in 11 . 8 % of the tra / tim bak - free group and 13 . 0 % of the tra / tim group .
+
+Claim
+travoprost / timolol bak - free demonstrated equivalence to travoprost / timolol preserved with bak in efficacy .
+
+Premise
+from an overall baseline mean intraocular pressure of 25 . 0 mm hg , latanoprost monotherapy reduced mean diurnal intraocular pressure by 7 . 1 + / - 3 . 3 mm hg ( mean + / - sd , p < 0 . 001 ) , whereas brimonidine monotherapy yielded an intraocular - pressure reduction of 5 . 2 + / - 3 . 5 mm hg ( p < 0 . 001 ) .
+
+Premise
+this 1 . 9 mm hg difference in intraocular - pressure reduction was significantly in favor of latanoprost ( p < 0 . 001 ) .
+
+Premise
+ocular allergy ( p < 0 . 001 ) and systemic side effects ( p = 0 . 005 ) were reported significantly less frequently by latanoprost - treated patients compared with brimonidine - treated patients .
+
+Claim
+both latanoprost and brimonidine reduced intraocular pressure in patients with glaucoma or ocular hypertension after 6 months of treatment .
+
+Claim
+however , latanoprost once daily was significantly more effective than brimonidine twice daily in reducing mean diurnal intraocular pressure .
+
+Claim
+latanoprost was better tolerated with less frequently occurring ocular allergy and systemic side effects .
+
+Premise
+one day after surgery , mean ( sd ) intraocular pressure was 15 . 9 ( 5 . 2 ) for the trabeculectomy group ( p < 0 . 001 ) and 15 . 7 ( 3 . 6 ) for the viscocanalostomy group ( p < 0 . 001 ) , respectively .
+
+Premise
+the success rate , defined as an intraocular pressure lower than 22 mm hg without medication , was 56 . 7 % in the trabeculectomy group and 30 % in the viscocanalostomy group at 12 months postoperatively ( p = 0 . 041 ) .
+
+Premise
+the number of postoperative complications was lower in the viscocanalostomy group than in the trabeculectomy group .
+
+Claim
+in eyes with open - angle glaucoma , viscocanalostomy is less effective in reducing intraocular pressure than standard filtering surgery .
+
+Claim
+postoperative complications are more frequent after filtering surgery .
+
+Premise
+the change in the mean + / - sd of the iops measured at 8 : 00 am , 12 noon , and 4 : 00 pm was - 7 . 2 + / - 3 . 2 mm hg ( 28 % ) for latanoprost ( 25 . 3 + / - 2 . 8 mm hg at baseline to 18 . 2 + / - 2 . 8 mm hg at 8 weeks ) and - 3 . 9 + / - 2 . 6 mm hg ( 15 % ) for unoprostone ( 25 . 5 + / - 3 . 3 mm hg at baseline to 21 . 6 + / - 4 . 0
+
+Premise
+no serious adverse event related to either medication was reported .
+
+Claim
+over an 8 - week period , latanoprost 0 . 005 % once daily lowered iop more than unoprostone 0 . 15 % twice daily in patients with elevated iop .
+
+Claim
+both agents were safe and well tolerated .
+
+Premise
+after a mean follow - up of 6 months ( range , 6 - 8 months ) , success was obtained in 5 of 10 cases in the trabeculectomy group and in 0 of 10 case in the viscocanalostomy group .
+
+Premise
+with kaplan - meier ' s method , subjects with viscocanalostomy showed shorter postoperative iop - reduction periods than subjects undergoing trabeculectomy .
+
+Claim
+according to the results of this short - term study , trabeculectomy was more effective than viscocanalostomy in lowering iop in glaucomatous eyes of white patients .
+
+Premise
+mean iop ( both eyes ) at last follow - up was 18 . 2 mm hg ( 6 . 3 mm hg reduction ) in the slt arm , 17 . 7 mm hg ( 7 . 0 mm hg reduction ) in the medical arm .
+
+Premise
+by last follow - up , 11 % of eyes received additional slt , 27 % required additional medication .
+
+Premise
+there was not a statistically significant difference between the slt and medication groups .
+
+Premise
+iop reduction was similar in both arms after 9 to 12 - months follow - up .
+
+Claim
+these results support the option of slt as a safe and effective initial therapy in open - angle glaucoma or ocular hypertension .
+
+Premise
+at 3 years , the mean iop was 16 . 0 mmhg + / - 7 . 07 ( sd ) in the trabeculectomy group and 17 . 8 + / - 4 . 6 mmhg in the viscocanalostomy group ( p = . 694 ) .
+
+Premise
+complete success ( iop 6 to 21 mm hg without medication ) was achieved in 66 . 2 % of eyes at 6 months and 55 . 1 % at 3 years in the trabeculectomy group and in 52 . 9 % and 35 . 3 % , respectively , in the viscocanalostomy group ( p > . 05 ) .
+
+Premise
+qualified success ( iop 6 to 21 mmhg with medication ) was achieved in 95 . 8 % of eyes at 6 months and 79 . 2 % at 3 years in the trabeculectomy group and in 90 . 7 % and 73 . 9 % , respectively , in the viscocanalostomy group ( p > . 05 ) .
+
+Premise
+postoperative hypotony and cataract formation occurred more frequently in the trabeculectomy group than in the viscocanalostomy group ( p = . 002 ) .
+
+Claim
+primary trabeculectomy lowered iop more than viscocanalostomy in poag patients .
+
+Premise
+eyes randomized to timolol progressed faster than those randomized to brimonidine ( mean rates of progression , - 0 . 38 0 . 9 vs 0 . 02 0 . 7 db / y , p < . 01 ) .
+
+Premise
+older age ( hazard ratio [ hr ] = 1 . 41 / decade older , 95 % confidence interval [ ci ] = 1 . 05 to 1 . 90 , p = . 022 ) , use of systemic antihypertensives ( hr = 2 . 53 , 95 % ci = 1 . 32 to 4 . 87 , p = . 005 ) , and mean ocular perfusion pressure ( hr = 1 . 21 / mm hg lower , 95 % ci = 1 . 12 to 1 . 31 , p < . 001 ) were associated with progression
+
+Premise
+randomization to brimonidine
+
+Claim
+this suggests that the beneficial effect of randomization to the brimonidine arm was independent of possible differences in ocular perfusion pressures between the 2 treatment arms .
+
+Claim
+the current results and large number of drop - outs in the brimonidine 0 . 2 % arm suggest that more research is necessary before altering clinical practice paradigms .
+
+Premise
+decreases in mean diurnal iop from baseline were significantly greater for latanoprost than for non - pgs at months 6 and 12 ( p < 0 . 01 ) .
+
+Premise
+no serious adverse events were judged to be treatment - related
+
+Premise
+mean total 36 - month direct costs were similar in patients initiated with latanoprost and non - pgs .
+
+Premise
+patients who failed previous monotherapy remained on therapy longer when switched to latanoprost .
+
+Claim
+the iop - reducing effect of latanoprost and tolerability were sustained over the long term .
+

@@ -1,0 +1,38 @@
+[Arguments Predictor] Neoplasm test-set	@ Loss:         1.88885   
+	@ Acc:          47.92     %
+	@ Macro F1:     0.197     
+	@ Weighted F1:  0.498     
+
+
+	@ Confusion matrix:
+	        0       1       2       3   
+	0       0       1       0       0   
+	1       1      42      27       0   
+	2       0      16       4       0   
+	3       0       2       3       0   
+
+[Arguments Predictor] Glaucoma test-set	@ Loss:         1.96052   
+	@ Acc:          59.38     %
+	@ Macro F1:     0.280     
+	@ Weighted F1:  0.575     
+
+
+	@ Confusion matrix:
+	        0       1       2       3   
+	0       0       3       0       0   
+	1       0      44      16       0   
+	2       0      19      13       0   
+	3       0       1       0       0   
+
+[Arguments Predictor] Mixed test-set	@ Loss:         1.83989   
+	@ Acc:          62.50     %
+	@ Macro F1:     0.268     
+	@ Weighted F1:  0.625     
+
+
+	@ Confusion matrix:
+	        0       1       2       3   
+	0       0       2       1       0   
+	1       0      53      18       0   
+	2       0      10       7       0   
+	3       0       1       4       0

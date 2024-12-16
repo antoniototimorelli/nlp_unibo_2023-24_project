@@ -1,0 +1,1542 @@
+Premise
+symptom control in both arms was similar for ' disease - specific ' symptoms such as cough , dyspnea , pain or haemoptysis .
+
+Premise
+compared to pv , a significantly larger number of gem - patients had better scores for ' constitutional ' items such as anorexia ( p = 0 . 007 ) , ability to carry on with daily activities ( p = 0 . 04 ) and overall impression of quality - of - life ( p = 0 . 008 ) .
+
+Premise
+symptom control was very similar in younger ( < 65 years ) versus older ( > / = 65 years ) patients , and only slightly better in those with a karnofsky ps > / = 80 % compared to those < 80 % .
+
+Premise
+most of the symptom improvement occurred in the first 3 cycles , with some further symptom improvement in the following cycles in the gem - arm only .
+
+Claim
+both gem and pv yield a symptom control rate much higher than expected by the objective tumour rr .
+
+Claim
+gem is equally effective in controlling ' disease - specific ' symptoms , but superior in controlling ' constitutional ' symptoms .
+
+Premise
+most of the symptom control was achieved during the first 3 cycles of treatment , with some further improvement thereafter in the gem - arm only .
+
+Premise
+in the imct group , 360 - degree cannulation was achieved in 80 % ( 16 / 20 ) of eyes .
+
+Premise
+for the imct group and cpt groups , respectively , the absolute success rates were 80 % ( 16 / 20 ) and 60 % ( 12 / 20 ) ( p < . 001 ) and qualified success rates were 90 % ( 18 / 20 ) and 70 % ( 14 / 20 ) ( p < . 001 ) .
+
+Premise
+eyes undergoing imct achieved a lower iop than cpt group eyes at 12 months follow - up ( 9 . 5 ± 2 . 4 mm hg and 11 . 7 ± 2 . 1 mm hg , respectively , p < . 001 ) .
+
+Claim
+in primary congential glaucoma , illuminated microcatheter - assisted 360 - degree circumferential trabeculotomy performed better than conventional partial trabeculotomy at 1 year follow - up and resulted in significantly lower iop measurements .
+
+Premise
+however , during or after administration of gs - 9620 , t cells produced higher levels of cytokines compared to baseline .
+
+Premise
+nk - cell activation and function increased after patients were given gs - 9620 , but the ability of nk cells to suppress t - cell responses was lower during gs - 9620 therapy than before .
+
+Premise
+changes in t - cell or nk - cell function did not correlate with levels of hepatitis b surface antigen .
+
+Premise
+serum levels of hepatitis b surface antigen did not decrease significantly compared to baseline in patients given any dose of gs - 9620 .
+
+Claim
+twelve weeks administration of gs - 9620 had no significant effect on serum hepatitis b surface antigen levels , but did appear to increase t - cell and nk - cell responses and reduce the ability of nk to suppress t cells .
+
+Claim
+gs - 9620 might therefore be included in therapies to increase the immune response to hbv .
+
+Premise
+there was a significant difference in post - intervention levels of urea , creatinine , sodium , potassium , calcium , and phosphorus between the two groups .
+
+Claim
+appropriate nutrition training via small - group method for patients on hemodialysis can impose positive effects on laboratory parameters .
+
+Claim
+in patients with chronic hepatitis b , tenofovir disoproxil fumarate ( tdf ) plus pegylated interferon ( peg - ifn ) for 48 - weeks results in higher rates of hepatitis b surface antigen ( hbsag ) loss than either monotherapy .
+
+Premise
+rates of hbsag loss at week 72 were significantly higher in the tdf / pi - 48w group ( 6 . 5 % ) than in the tdf / pi - 16w + tdf - 32w ( 0 . 5 % ) , tdf - 120w ( 0 % ) and pi - 48w ( 2 . 2 % ) groups ( p = 0 . 09 ) .
+
+Premise
+hbsag decline at week 12 or 24 of treatment was associated with hbsag loss at week 72 ( p < 0 . 001 ) .
+
+Premise
+hbsag decline > 3 . 5 log10 iu / ml at week 24 in the tdf / pi - 48w group resulted in a positive predictive value of 85 % and a negative predictive value of 99 % for hbsag loss at week 72 .
+
+Claim
+hbsag decline at week 24 of tdf plus peg - ifn combination therapy may identify patients who , after completing 48 weeks of treatment , have a better chance of achieving hbsag loss at week 72 .
+
+Premise
+in group 1 and 2 , intraocular pressure was well controlled to approximately 14 mmhg ( 9 . 38 - 18 . 46 % decrease ) .
+
+Premise
+generally , subjective satisfaction was improved after changing from pt to npt ( p = 0 . 03 ) and tbut using pt was numerically inferior to that using npt ( p = 0 . 06 ) but not when changing from npt to pt .
+
+Claim
+both preservative containing and preservative - free 0 . 0015 % tafluprost reduced intraocular pressure significantly .
+
+Claim
+changing medication from pt to npt might improve subjective satisfaction and tear break up time .
+
+Premise
+phacoemulsification and trabeculectomy resulted in significant and comparable iop reduction at 24 months after surgery ( reduction of 8 . 4 mmhg or 34 % for phacoemulsification vs 8 . 9 mmhg or 36 % for trabeculectomy ; p = 0 . 76 ) .
+
+Premise
+over first 24 months , trabeculectomy - treated eyes required on average 1 . 1 fewer drugs than phacoemulsification - treated eyes ( p < 0 . 001 ) .
+
+Premise
+trabeculectomy was associated with significantly more surgical complications than phacoemulsification ( 46 % vs 4 % ; p = 0 . 001 ) .
+
+Premise
+eight ( 33 % ) of 24 trabeculectomy eyes demonstrated cataract during follow - up .
+
+Claim
+both phacoemulsification and trabeculectomy are effective in reducing iop in medically uncontrolled cacg eyes without cataract .
+
+Claim
+trabeculectomy is more effective than phacoemulsification in reducing dependence on glaucoma drugs , but is associated with more complications .
+
+Premise
+at 6 months , the mean systolic blood pressure fell by 27 . 0 mm hg ( to 125 . 8 mm hg ) in the intervention group and by 9 . 3 mm hg ( to 145 . 4 mm hg ) in the control group ; the mean reduction was 21 . 6 mm hg greater with the intervention ( 95 % confidence interval , 14 . 7 to 28 . 4 ; p < 0 . 001 ) .
+
+Premise
+a blood - pressure level of less than 130 / 80 mm hg was achieved among 63 . 6 % of the participants in the intervention group versus 11 . 7 % of the participants in the control group ( p < 0 . 001 ) .
+
+Premise
+in the intervention group , the rate of cohort retention was 95 % , and there were few adverse events ( three cases of acute kidney injury ) .
+
+Claim
+among black male barbershop patrons with uncontrolled hypertension , health promotion by barbers resulted in larger blood - pressure reduction when coupled with medication management in barbershops by specialty - trained pharmacists .
+
+Premise
+compared with baseline data , total dtr - qol17 scores were significantly higher after 12 weeks of linagliptin and voglibose treatment .
+
+Premise
+the change in the total dtr - qol17 score and the score of one domain , burden on social activities and daily activities , was significantly greater in the linagliptin group than in the voglibose group .
+
+Claim
+linagliptin is superior to voglibose in terms of improving treatment - related qol in japanese patients with t2dm .
+
+Premise
+at week 240 , 83 . 0 % of patients in the tdf arm , and 82 . 7 % of patients in the ftc / tdf treatment arm had hbv dna < 69iu / ml ( p = 0 . 96 ) .
+
+Premise
+rates of normal alanine aminotransferase ( alt ) and normalised alt were similar between groups ( p = 0 . 41 and p = 0 . 97 respectively ) .
+
+Premise
+hepatitis b e antigen loss and seroconversion at week 240 were similar between groups , ( p = 0 . 41 and p = 0 . 67 respectively ) .
+
+Premise
+overall , six patients achieved hepatitis b surface antigen ( hbsag ) loss and one patient ( ftc / tdf arm ) had hbsag seroconversion by week 240 .
+
+Premise
+no tdf resistance was observed up to week 240 .
+
+Premise
+treatment was generally well tolerated , and renal events were mild and infrequent ( ∼8 . 6 % ) .
+
+Premise
+the mean change in bone mineral density at week 240 was - 0 . 98 % and - 2 . 54 % at the spine and hip , respectively .
+
+Claim
+tdf monotherapy was effective and well tolerated in lam - r chb patients for up to 240 weeks .
+
+Claim
+tenofovir disoproxil fumarate ( tdf ) monotherapy was effective and well tolerated without tdf resistance development in chb patients with lam - r , for up to 240weeks .
+
+Premise
+the preoperative iop was 29 . 17±3 . 94 and 28 . 8±4 . 08 mm hg in the bevacizumab and mmc groups , respectively ( p = 0 . 689 ) .
+
+Premise
+last visit iop was 17 . 41±3 . 11 mm hg in the bevacizumab group and 15 . 34±3 . 62 mm hg in the mmc group ( p < 0 . 009 ) .
+
+Premise
+compared with baseline , iop drop at last visit was 11 . 76±5 . 51 and 13 . 43±5 . 92 in the bevacizumab and mmc groups , respectively ( p = 0 . 207 ) .
+
+Premise
+at last visit , complete success was achieved in 25 cases ( 61 % ) of bevacizumab group and 23 cases ( 66 % ) of mmc group ( p = 0 . 669 ) .
+
+Premise
+early filtering bleb leak was more prevalent in bevacizumab group ( 29 % vs . 11 % ) .
+
+Claim
+a single 1 . 25 mg dose of intracameral bevacizumab improves the success of trabeculectomy comparable with mmc ;
+
+Claim
+however , it increases the risk of early filtering bleb leakage .
+
+Premise
+efficacy was similar for the 250 - and 500 - mg / d groups .
+
+Premise
+objective tumor response rates were 18 . 4 % ( 95 % confidence interval [ ci ] , 11 . 5 to 27 . 3 ) and 19 . 0 % ( 95 % ci , 12 . 1 to 27 . 9 ) ; among evaluable patients , symptom improvement rates were 40 . 3 % ( 95 % ci , 28 . 5 to 53 . 0 ) and 37 . 0 % ( 95 % ci , 26 . 0 to 49 . 1 ) ; median progression - free survival times were 2 . 7 and 2 . 8 months ; and median overall survival times were 7 . 6 and 8 . 0 months , respectively .
+
+Premise
+symptom improvements were recorded for 69 . 2 % ( 250 mg / d ) and 85 . 7 % ( 500 mg / d ) of patients with a tumor response .
+
+Premise
+adverse events ( aes ) at both dose levels were generally mild ( grade 1 or 2 ) and consisted mainly of skin reactions and diarrhea .
+
+Premise
+drug - related toxicities were more frequent in the higher - dose group .
+
+Premise
+withdrawal due to drug - related aes was 1 . 9 % and 9 . 4 % for patients receiving gefitinib 250 and 500 mg / d , respectively .
+
+Claim
+gefitinib showed clinically meaningful antitumor activity and provided symptom relief as second - and third - line treatment in these patients .
+
+Claim
+at 250 mg / d , gefitinib had a favorable ae profile .
+
+Claim
+gefitinib 250 mg / d is an important , novel treatment option for patients with pretreated advanced nsclc .
+
+Premise
+cinnamon supplementation led to improvement of all anthropometric ( bmi , body fat , and visceral fat ) , glycemic ( fpg , 2hpp , hba1c , fasting insulin , and insulin resistance ) , and lipids ( cholesterol total , ldl - c and hdl - c ) outcomes ( except for triglycerides level ) .
+
+Premise
+all observed changes ( except for cholesterol total and ldl - c ) were significantly more prominent in patients with higher baseline bmi ( bmi ≥ 27 ) .
+
+Claim
+based on the study findings , cinnamon may improve anthropometric parameters , glycemic indices and lipid profile of patients with type ii diabetes .
+
+Premise
+anthracycline administration was associated with a higher incidence of diabetes ( hr : 1 . 75 ; 95 % ci 1 . 11 - 2 . 75 ; p = 0 . 0163 ) after adjustments for age , gender , cumulative dose of prednisolone , and co - morbidities .
+
+Premise
+cumulative anthracycline doses of 253 - 400 mg ( hr : 2 . 35 ; 95 % ci 1 . 41 - 3 . 91 ; p = 0 . 0010 ) , 401 - 504 mg ( hr : 2 . 26 ; 95 % ci 1 . 26 - 4 . 05 ; p = 0 . 0063 ) , and > 504 mg ( hr : 2 . 29 ; 95 % ci 1 . 25 - 4 . 18 ; p = 0 . 0072 ) increased the incidence density of diabetes in a dose - dependent manner ( p = 0 . 0006 ) .
+
+Premise
+the annual alteration of adapted diabetes complications severity index score was not significantly different between b - cell lymphoma patients with or without anthracycline treatment ( p = 0 . 4924 ) .
+
+Claim
+anthracycline therapy increases diabetes risk in a dose - dependent manner in b - cell lymphoma patients .
+
+Claim
+intensive blood glucose monitoring and control should be recommended for b - cell lymphoma patients receiving anthracycline treatment .
+
+Premise
+serum hbv dna < 15 iu / ml at week 48 , the primary efficacy endpoint , was achieved in 66 . 3 % in the tdf - tdf group and 68 . 0 % in the tdf / etv - tdf group ( p = 0 . 80 ) .
+
+Premise
+at week 144 , the proportion with hbv dna < 15 iu / ml increased to 74 . 5 % , which was significantly higher compared with that at week 48 ( p = 0 . 03 ) , without a significant difference between groups ( p = 0 . 46 ) .
+
+Premise
+transient virologic breakthrough occurred in 6 patients , which was due to poor drug adherence .
+
+Premise
+no patients developed additional resistance mutations throughout the study period .
+
+Claim
+tdf monotherapy was efficacious and safe for up to 144 weeks , providing an increasing rate of virologic response in heavily pretreated patients with multidrug - resistant hbv .
+
+Premise
+in the primary intention - to - treat analysis , the effect of gli encouragement was 0 . 95 % weight loss at six months ( 95 % confidence interval [ ci ] , 0 . 13 - 1 . 77 % ; p = 0 . 02 ) , and 1 . 20 % weight loss at 12 months ( 95 % ci , 0 . 05 - 2 . 36 % ; p = 0 . 04 ) .
+
+Premise
+at 12 months , there was a 0 . 30 % ( 3 . 3 mmol / mol ) reduction in hemoglobin a1c ,
+
+Premise
+but this result did not achieve statistical significance ( p = 0 . 054 ) .
+
+Premise
+in instrumental variable analysis estimating effects among the subgroup of participants who attended any gli visits , the effect of gli attendance was 2 . 30 % weight loss at six months ( 95 % ci , 0 . 30 - 4 . 30 % ; p = 0 . 02 ) , and 2 . 07 % weight loss at 12 months ( 95 % ci , 0 . 25 - 3 . 88 % ; p = 0 . 02 ) .
+
+Claim
+among adults with type 2 diabetes , a group - based lifestyle intervention in a community - based setting achieved modest weight loss at 6 and 12 months .
+
+Premise
+responses ( > or = 50 % improvement ) were seen in 3 ( 20 % ) of 15 patients with an initial dose at 6 . 5 mg / m ( 2 ) per day ( 95 % confidence interval [ ci ] , 0 % - 40 % ) , 15 ( 54 % ) of 28 patients at 300 mg / m ( 2 ) per day ( 95 % ci , 35 % - 72 % ) , and 10 ( 67 % ) of 15 patients at above 300 mg / m ( 2 ) per day ( 95 % ci , 43 % - 91 % ) .
+
+Premise
+the rate of progressive disease was 47 % , 21 % , and 13 % at the same dose levels , respectively .
+
+Premise
+eight ( 73 % ) of 11 patients crossing over from 6 . 5 mg / m ( 2 ) per day to higher doses subsequently responded .
+
+Premise
+the median duration of response from start of therapy could not be estimated for the 15 patients at 300 mg / m ( 2 ) per day owing to low relapse rates in 2 patients ( 13 % ) ; at higher doses it was 516 days .
+
+Premise
+the following drug - related adverse effects were reversible and treatable : hypertriglyceridemia ( 46 patients [ 79 % ] ) , hypercholesterolemia ( 28 patients [ 48 % ] ) , headache ( 27 patients [ 47 % ] ) , central hypothyroidism ( 23 patients [ 40 % ] ) , asthenia ( 21 patients [ 36 % ] ) , and leukopenia ( 16 patients [ 28 % ] ) .
+
+Premise
+no cases of drug - related neutropenic fever , sepsis , or death occurred .
+
+Premise
+pancreatitis occurred in 3 patients with triglyceride levels higher than 14 . 69 mmol / l ( 1300 mg / dl ) , all of whom were taking 300 mg / m ( 2 ) or more of oral bexarotene per day .
+
+Claim
+bexarotene ( targretin capsules ) ( the first retinoid x receptor - selective rexinoid ) was well tolerated and effective as an oral treatment for 15 ( 54 % ) of 28 patients with refractory or persistent early - stage cutaneous t - cell lymphoma at doses of 300 mg / m ( 2 ) per day .
+
+Claim
+hypertriglyceridemia and hypothyroidism require monitoring but are reversible and manageable with concomitant medication .
+
+Premise
+in sildenafil versus placebo arms , week - 12 6mwd increases were similar ( least squares mean difference [ sildenafil - placebo ] , - 2 . 4 m [ 90 % ci : - 21 . 8 to 17 . 1 m ] ; p = 0 . 6 ) ; mean ± sd changes from baseline were 26 . 4 ± 45 . 7 versus 11 . 8 ± 57 . 4 m , respectively , in ipah ( 65 % of population ) and - 18 . 3 ± 82 . 0 versus 17 . 5 ± 59 . 1 m in apah - ctd ( 35 % of population ) .
+
+Premise
+changes in who functional class and borg dyspnoea score and incidence of clinical worsening did not differ .
+
+Premise
+headache , diarrhoea , and flushing were more common with sildenafil .
+
+Claim
+sildenafil , in addition to stable ( ≥3 months ) bosentan therapy , had no benefit over placebo for 12 - week change from baseline in 6mwd .
+
+Premise
+the results of the multivariable analysis showed that after adjustment for a set of known risk factors , patients previously infected with hbv ( hbsag - seronegative / anti - hbc - seropositive ) and naturally immune to hbv ( anti - hbs - seropositive / anti - hbc - seropositive ) were at significantly greater odds of being diagnosed with enktl ( aor , 1 . 497 ; 95 % ci 1 . 098 - 2 . 042 , p = 0 . 033 and aor , 1 . 871 ; 95 % ci 1 . 302 - 2 . 689 , p = 0 .
+
+Premise
+after adjusting for other factors , significantly greater odds of being diagnosed with enktl were observed among cases who reported ever drinking alcohol ( aor , 1 . 675 ; 95 % ci 1 . 054 - 2 . 660 , p = 0 . 029 ) .
+
+Premise
+the odds of enktl diagnosis were not significantly associated with abo blood type , cigarette smoking status or family history of cancer .
+
+Claim
+the results of our study suggest that patients previously infected with hbv and naturally immune to hbv were at greater odds of being diagnosed with enktl .
+
+Premise
+the mean postoperative iop was statistically significantly lower than the mean preoperative iop at each follow - up in each group .
+
+Premise
+at 1 year , the mean postoperative iop was significantly lower in group a .
+
+Premise
+according to the mbgs , blebs with an ologen implant showed significantly better scoring than those with mmc .
+
+Premise
+as - oct showed that ologen - induced blebs had significantly more fluid - filled spaces , cleavage planes , and less fibrosis .
+
+Claim
+ologen resulted in a lower long - term postoperative iop , a better bleb morphology , and fewer complications .
+
+Claim
+our results suggest that ologen may be a useful alternative to mmc in joag .
+
+Premise
+after the implementation of a general linear model for repeated measurements adjusted for baseline demographic details , risk factors , and medication , alanine aminotransferase ( alt ) was significantly reduced by 12 % , aspartate aminotransferase ( ast ) by 14 % , alkaline phosphatase ( alp ) by 8 % , and cholesterol by 6 % only in the khorasan group ( p < 0 . 05 for all ) .
+
+Premise
+significant reductions in circulating proinflammatory tumor necrosis factor - alpha by 50 % , interleukin l - receptor antagonist - alpha by 37 % , interleukin - 8 by 24 % , and interferon gamma by 24 % were evident only in participants who consumed the khorasan products ( p < 0 . 05 for all ) .
+
+Premise
+significant improvements in the liver steatosis grading , doppler perfusion index values , and reactive oxygen species ( ros ) production were evident after consumption of both the khorasan and control products .
+
+Claim
+this study suggests that a short - term replacement diet with ancient kamut khorasan products is most effective in reducing metabolic risk factors and ameliorating the liver profile in patients with nafld .
+
+Premise
+no significant changes in fpg , insulin resistance / sensitivity , lipid profile and tac indices were seen in synbiotic group compared to the placebo one ( p > 0 . 05 ) .
+
+Premise
+significant within group increases for hdl - c and tac levels in synbiotic group were observed ( p < 0 . 05 ) .
+
+Premise
+ldl - c showed significant increment in the placebo group compared to the baseline of the study ( 6 . 9 mg / dl , p < 0 . 05 ) .
+
+Premise
+between group comparison showed significant decrease in sbp and dbp in synbiotic group compared to placebo ( - 2 . 5 vs . 8 . 6 mmhg , and - 1 . 8 vs . 2 . 1 mmhg , p < 0 . 05 ) .
+
+Claim
+the results showed that , in women with gdm , synbiotic supplementation had no effect on fpg and insulin resistance / sensitivity indices .
+
+Claim
+lipid profile and tac status may be affected by synbiotic supplementation .
+
+Claim
+synbiotic is effective in reducing of blood pressure in women with gdm .
+
+Premise
+raised pretreatment ast / alt ( odds ratio [ or ] 3 . 6 , 95 % confidence interval [ ci ] : 1 . 7 to 7 . 7 ) and hepatitis b surface antigen ( hbsag ) seropositivity at baseline ( or 4 . 7 , 95 % ci : 1 . 7 to 12 . 9 ) were significantly associated with an increased risk of developing hepatotoxicity .
+
+Premise
+participants with both raised ast / alt and positive hbsag had a higher risk ( or 19 . 9 , 95 % ci : 5 . 3 to 74 . 3 ) and earlier onset of hepatotoxicity than participants who did not have these conditions at baseline .
+
+Claim
+severely immunosuppressed individuals with raised pretreatment ast / alt or hbsag seropositivity need closer monitoring for hepatotoxicity .
+
+Premise
+randomization to intensive sbp control was associated with greater risk of an sae involving hypotension ( hazard ratio ( hr ) = 1 . 67 , 95 % confidence interval ( ci ) = 1 . 21 - 2 . 32 , p = . 002 ) , and possibly syncope ( hr = 1 . 32 , 95 % ci = 0 . 98 - 1 . 79 , p = . 07 ) , but not falls ( hr = 0 . 98 , 95 % ci = 0 . 75 - 1 . 29 , p = . 90 ) .
+
+Premise
+risk of all three outcomes was higher for participants with chronic kidney disease or frailty .
+
+Premise
+older age was also associated with greater risk of syncope , hypotension , and falls , but there was no age - by - treatment interaction for any of the sae outcomes .
+
+Claim
+low anterior resection with coloanal anastomosis prevents a definitive stoma in patients with distal rectal cancer .
+
+Premise
+problems with continence for liquids or gas occurred less frequently in the colonic j - pouch group 6 months after surgery .
+
+Premise
+the frequency of bowel movements was lower in the j - pouch group ( 2 . 5 per day ) than in the coloanal group ( 4 . 7 per day ) .
+
+Claim
+the colonic j - pouch was superior with regard to continence for gas and liquids compared with a straight coloanal anastomosis .
+
+Claim
+we speculate that the advantage of the colonic j - pouch is not in the creation of a larger neorectal reservoir but rather may be related to decreased motility .
+
+Premise
+after treatment , the levels of the indexes in both groups ( the combination treatment group vs . the entecavir group ) were as follows : bilirubin ( 67 . 5±7 . 7 vs . 82 . 4±13 . 5 μmol / l ) ; international normalized ratio ( inr ) ( 1 . 21±0 . 8 vs . 1 . 14±0 . 7 ) ; creatinine ( 147 . 3±12 . 4 vs . 287 . 4±21 . 6 mg / dl ) ; ggt ( 67 . 4±23 . 2 vs . 88 . 4±23 . 7 u / l ) ; and alt
+
+Premise
+in comparison of the indexes of hepatic fibrosis between the two groups , we found the following differences : pciii ( 67 . 5±7 . 7 vs . 82 . 4±13 . 5 μg / l ) ; iv - c ( 61 . 3±18 . 7 vs . 74 . 5±17 . 9 μg / l ) ; ha ( 147 . 3±12 . 4 vs . 87 . 4±31 . 6 μg / l ) ; and ln ( 88 . 7±13 . 2 vs 102 . 5±23 . 4 μg / l ) .
+
+Premise
+the results showed that the differences in comparison of the indexes before and after the treatment were statistically significant ( p < 0 . 05 ) .
+
+Premise
+after treatment , the meld score of patients in the combination treatment group was significantly lower than that in the entecavir group ( 18 . 7±3 . 2 vs . 22 . 5±3 . 4 ) , with a statistically significant difference ( p < 0 . 05 ) .
+
+Claim
+in the chronic hepatitis b patients with interferon resistance , the combined administration of entecavir and adefovir dipivoxil can significantly improve liver function , hepatic fibrosis and meld scores .
+
+Claim
+the results highlight the need to promote the benefits of this drug combination in helping chronic hepatitis b patients with interferon resistance , and to promote its application in clinical practices .
+
+Premise
+overall , 6 . 6 % of patients modified their initial treatment , with etv having lower rates of treatment modification than other major nucs ( p < 0 . 05 ) .
+
+Premise
+at week 52 , the virologic response rate was higher with etv than with lam - based treatment ( 77 . 0 % versus 61 . 4 % , p < 0 . 0001 ) .
+
+Premise
+lam - based treatment was associated with a higher probability of virologic breakthrough and genotypic resistance ( 21 . 4 % and 19 . 6 % , respectively ) than etv ( 1 . 6 % and 0 . 1 % , respectively ) ( p < 0 . 0001 ) .
+
+Premise
+treatment - related adverse events or serious adverse events were uncommon .
+
+Claim
+consistent with clinical trial results , etv was more effective than lam - based treatments in a real - world setting , with treatment modification being relatively low in etv - treated patients .
+
+Premise
+the iop in the first week after trabeculectomy was significantly higher in the r group : day 1 , 17 . 3 ± 8 . 6 versus 12 . 7 ± 6 . 0 mm hg ( p < 0 . 001 ) ; day 3 , 18 . 0 ± 7 . 3 versus 12 . 9 ± 6 . 3 mm hg ( p < 0 . 001 ) ; day 7 , 14 . 8 ± 6 . 3 versus 12 . 0 ± 4 . 9 mm hg ( p = 0 . 001 ) ,
+
+Premise
+no difference was observed after the second week ( p = 0 . 659 to 0 . 75
+
+Premise
+the incidence of transient hypotony was higher in s group ( 20 . 4 % ) than the r group ( 9 . 1 % ) ( p = 0 . 046 ) ;
+
+Premise
+hypotony recovered in 80 . 8 % ( 21 / 26 ) within 1 week .
+
+Premise
+there was no difference in the occurrence of shallow chamber , choroidal detachment , macular edema , additional surgery , or hyphema ( p = 0 . 56 to 1 . 0 ) .
+
+Claim
+the technique of releasable sutures for trabeculectomy used in this study did not demonstrate significant advantages over standard trabeculectomy .
+
+Claim
+releasable sutures were associated with some decrease in visual acuity and increase in postoperative complaints .
+
+Premise
+at the end of the treatment , the level of alanine amino - transferase ( alt ) , albumin ( alb ) and total bilirubin ( tbil ) in the combination therapy group and 12 - week optimized therapy group were significantly improved .
+
+Premise
+for the 24 - week optimized therapy group , only alt levels revealed a significant improvement .
+
+Premise
+there were no obvious differences in the normalization rate of alt , negative conversion rate of hbv dna and hbeag , as well as improvement in child - pugh scores among the combination therapy group , 12 - week optimized therapy group , and etv monotherapy group .
+
+Premise
+however , the difference among these three groups and the 24 - week optimized therapy group were significant .
+
+Premise
+differences were not observed in the hbeag seroconversion between each group .
+
+Premise
+differences in blood urea nitrogen , serum creatinine , creatine kinase , or other serious adverse effects were not observed in each group at the end of the 96 - week treatment .
+
+Premise
+compared with metformin , coc plus spironolactone caused larger decreases in hirsutism score ( mean difference 4 . 6 points , 95 % ci : 2 . 6 - 6 . 7 ) , total testosterone ( 1 . 1 nmol / l , 0 . 4 - 1 . 7 ) , free testosterone ( 25 pmol / l , 12 - 39 ) , androstenedione ( 5 . 5 nmol / l , 1 . 8 - 9 . 2 ) and dehydroepiandrosterone sulfate ( 2 . 7 μmol / l , 1 . 4 - 4 . 0 ) .
+
+Premise
+menstrual dysfunction was less frequent with coc plus spironolactone ( or : 0 . 06 , 95 % ci : 0 . 02 - 0 . 23 ) .
+
+Premise
+no differences were found in frequencies of abnormal glucose tolerance ( or : 1 . 7 , 95 % ci : 0 . 7 - 4 . 4 ) , dyslipidemia ( or : 0 . 6 , 95 % ci : 0 . 2 - 1 . 8 ) or hypertension ( or : 0 . 3 , 95 % ci : 0 . 5 - 2 . 0 ) .
+
+Premise
+no major adverse events occurred and biochemical markers were similarly safe with both treatments .
+
+Claim
+coc plus spironolactone was more effective than metformin for symptoms of pcos showing similar safety and overall neutral effects on cardiometabolic risk factors .
+
+Premise
+transfusion - free ( p = . 0012 ) survival and transfusion - and severe anemia - free survival ( p = . 0001 ) were significantly greater in the epoetin beta group versus placebo ( wald chi ( 2 ) test ) , giving a relative risk reduction of 43 % and 51 % , respectively .
+
+Premise
+the response rate was 67 % and 27 % in the epoetin beta versus the placebo group , respectively ( p < . 0001 ) .
+
+Premise
+after 12 and 16 weeks of treatment , qol significantly improved in the epoetin beta group compared with placebo ( p < . 05 ) ;
+
+Premise
+this improvement correlated with an increase in hb concentration ( > or = 2 g / dl ) .
+
+Claim
+many severely anemic and transfusion - dependent patients with advanced mm , nhl , and cll and a low performance status benefited from epoetin therapy , with elimination of severe anemia and transfusion need , and improvement in qol .
+
+Premise
+no significant differences were observed among groups for hbeag seroconversion ( peg - ifn alfa - 2a + placebo , 36 . 3 % ; peg - ifn alfa - 2a + etv , 29 . 5 % ; and peg - ifn alfa - 2a + adv , 27 . 4 % ) , hbeag loss ( 37 . 4 % , 32 . 2 % , and 28 . 6 % , respectively ) or change in hepatitis b surface antigen ( hbsag ) levels from baseline ( - 0 . 56 iu / ml , - 0 . 60 iu / ml , and - 0 . 41 iu /
+
+Premise
+however , hepatitis b virus dna levels were higher with peg - ifn alfa - 2a + placebo than peg - ifn alfa + etv at week 64 ( p = 0 . 0412 ) , 76 ( p = 0 . 0311 ) , and 88 ( p = 0 . 0113 ) , and alanine aminotransferase ( alt ) normalization rate was higher with peg - ifn alfa - 2a + placebo than peg - ifn alfa - 2a + adv ( p = 0 . 0283 ) or peg - ifn alfa - 2a + etv ( p = 0 . 0369 ) at week 88
+
+Premise
+safety was comparable among treatment groups .
+
+Claim
+pre - therapy with adv or etv followed by peg - ifn alfa - 2a is not superior to peg - ifn alfa - 2a monotherapy in taiwanese patients with hbeag - positive chb .
+
+Premise
+over 73 months after randomization , the fludarabine group gained a mean of 45 days of toxicity - free survival at cap , and 61 days over chop .
+
+Premise
+the mean twist was 27 . 05 months with cap , 31 . 5 months with chop and 32 . 95 months with fludarabine .
+
+Premise
+the threshold analyses showed that , whatever the utility weights , the mean q - twist was always greater with chop or fludarabine as compared to cap .
+
+Claim
+fludarabine was consistently a better treatment than chop ,
+
+Premise
+from a clinical point of view , differences between chop and fludarabine were moderate or event slight ( mean difference in twist of 1 . 45 months ) .
+
+Claim
+patients with advanced cll have a moderate benefit in terms of q - twist when treated with fludarabine over chop .
+
+Claim
+these two treatments are always superior to cap .
+
+Premise
+both drops provided statistically significant iop reductions from baseline at all visits ( p < 0 . 001 ) .
+
+Premise
+btfc provided greater significant mean iop reductions from baseline than ttfc at each visit ( p < 0 . 001 ) .
+
+Premise
+mean iop reductions were 11 . 34 and 6 . 42 mm hg at 2 weeks ( p = 0 . 000 ) , and 11 . 17 and 7 . 89 mmhg at 6 months ( p = 0 . 001 ) for btfc and ttfc , respectively .
+
+Premise
+iops at 2 weeks were 18 mm hg in 36 ( 90 . 8 % ) versus 22 ( 55 % ) eyes and 16 mm hg in 28 ( 70 % ) versus 16 ( 40 % ) eyes ( p < 0 . 001 ) , and at 6 months , 18 mm hg in 38 ( 95 % ) versus 28 ( 70 % ) eyes and 16 mm hg in 30 ( 75 % ) versus 18 ( 45 % ) eyes for btfc and ttfc , respectively ( p < 0 . 001 ) .
+
+Claim
+both drops provided effective iop reduction that was greater
+
+Claim
+patients were more likely to achieve lower target pressures with btfc than with ttfc .
+
+Premise
+compared to placebo , ag significantly reduced hba1c ( - 0 . 29 % ; p = 0 . 041 ) and fasting blood glucose ( - 0 . 71 mmol / l ; p = 0 . 008 ) .
+
+Premise
+ag lowered systolic blood pressure ( - 5 . 6 ± 2 . 7 mmhg ; p < 0 . 001 ) , increased nox ( + 1 . 85 ± 2 . 13 [UNK] / l ; p < 0 . 03 ) , and produced a mean percent end - difference of - 12 . 3 ± 3 . 9 % in ldl - c and - 13 . 9 ± 5 . 8 % in ldl - c / hdl .
+
+Claim
+ag extract added to conventional treatment provided an effective and safe adjunct in the management of t2dm .
+
+Claim
+larger studies using physiologically standardized ginseng preparations are warranted to substantiate the present findings and to demonstrate therapeutic effectiveness of ag .
+
+Premise
+the response rate was 71 % for depocyt and 15 % for ara - c on an intent - to - treat basis ( p = . 006 ) .
+
+Premise
+all of the patients on the depocyt arm but only 53 % of those on the ara - c arm were able to complete the planned 1 - month induction therapy regimen .
+
+Premise
+time to neurologic progression and survival trend in favor of depocyt ( median , 78 . 5 v 42 days and 99 . 5 v 63 days , respectively ; p > . 05 ) .
+
+Premise
+depocyt treatment was associated with an improved mean change in karnofsky performance score at the end of induction ( p = . 041 ) .
+
+Premise
+the major adverse events on both arms were headache and arachnoiditis , which were often caused by the underlying disease .
+
+Claim
+depocyt injected once every 2 weeks produced a high response rate and a better quality of life as measured by karnofsky score relative to that produced by free ara - c injected twice a week .
+
+Premise
+compared with lflt , acute hfht intake significantly increased plasma epicatechin and theobromine ( p < 0 . 0001 ) , decreased aix ( p < 0 . 0001 ) and increased diastolic bp ( 3 . 49 ± 3 . 40 mmhg increase in hfht group vs 1 . 55 ± 2 . 59 mmhg increase in lflt group , p = 0 . 0008 ) .
+
+Premise
+chronic hfht compared with lflt intake significantly increased plasma theobromine ( p < 0 . 0001 ) .
+
+Claim
+acute consumption of hfht , compared to lflt , increased plasma epicatechin and theobromine concentrations and decreased arterial stiffness , with no effect on endothelial function and a marginal increase in diastolic bp .
+
+Claim
+chronic hfht intake increased plasma theobromine , though it did not have positive impacts on endothelial function , arterial stiffness or bp when compared to lflt in pregnant women at risk of pe .
+
+Premise
+at the end of the treatment period , the changes in nocturnal sbp and morning sbp from baseline were significant in both the valsartan / cilnidipine and valsartan / hydrochlorothiazide groups ( p < . 001 ) : - 5 . 0 vs - 10 . 0 mm hg ( p = . 035 ) and - 10 . 7 vs - 13 . 6 mm hg ( p = . 142 ) , respectively .
+
+Premise
+hmbps was significantly decreased from baseline in both groups ( p < . 001 ) , but there was no significant difference between the two groups : 14 . 4 mm hg vs 14 . 0 mm hg , respectively ( p = . 892 ) .
+
+Claim
+valsartan / cilnidipine could not significantly suppress hmbps compared with valsartan / hydrochlorothiazide .
+
+Premise
+the cumulative probability of failure during the first year of follow - up was 17 . 3 % in the tube group and 7 . 9 % in the trabeculectomy group ( p = 0 . 01 ; hazard ratio , 2 . 59 ; 95 % confidence interval , 1 . 20 - 5 . 60 ) .
+
+Premise
+mean ± standard deviation iop was 13 . 8±4 . 1 mmhg in the tube group and 12 . 4±4 . 4 mmhg in the trabeculectomy group at 1 year ( p = 0 . 01 ) , and the number of glaucoma medications was 2 . 1±1 . 4 in the tube group and 0 . 9±1 . 4 in the trabeculectomy group ( p < 0 . 001 ) .
+
+Premise
+postoperative complications developed in 36 patients ( 29 % ) in the tube group and 48 patients ( 41 % ) in the trabeculectomy group ( p = 0 . 06 ) .
+
+Premise
+serious complications requiring reoperation or producing a loss of 2 snellen lines or more occurred in 1 patient ( 1 % ) in the tube group and 8 patients ( 7 % ) in the trabeculectomy group ( p = 0 . 03 ) .
+
+Claim
+trabeculectomy with mmc had a higher surgical success rate than tube shunt implantation after 1 year in the ptvt study .
+
+Claim
+lower iop with use of fewer glaucoma medications was achieved after trabeculectomy with mmc compared with tube shunt surgery during the first year of follow - up .
+
+Premise
+after 5 years , 18 of the 47 patients who received chemotherapy and 15 of the 48 patients who received irradiation were still alive and tumor free .
+
+Premise
+a few more patients had died of recurrence or regional metastasis in the chemotherapy group ( 23 patients ) than in the irradiation group ( 20 patients ) .
+
+Premise
+occurrence of a second carcinoma was 3 times as frequent in the irradiation group ( 9 patients ) as in the chemotherapy group ( 3 patients ) .
+
+Claim
+the long term survival results subsequent to preoperative intra - arterial chemotherapy or preoperative radiotherapy were practically the same .
+
+Premise
+most ( 41 - 80 % ) experienced ≥1 ae during the study with the majority of aes mild or moderate in severity .
+
+Premise
+no significant declines in hbsag were observed at the primary ( week 24 ) or secondary endpoints ( weeks 4 , 8 , 12 , and 48 ) .
+
+Premise
+isg15 induction was dose - dependent and consistent after repeat dosing , returning closer to baseline by one week after treatment at all dose levels ;
+
+Premise
+no patient demonstrated significant serum interferon alpha ( ifnα ) expression at any timepoint evaluated .
+
+Premise
+multivariate analyses showed that ≥2 - fold isg15 induction is associated with 2 - or 4 - mg vesatolimod dose and female sex .
+
+Claim
+vesatolimod was safe and well - tolerated in patients with chb , demonstrating consistent dose - dependent pharmacodynamic induction of isg15 without significant systemic induction of ifnα expression or related symptoms .
+
+Premise
+ripc significantly reduced cin incidence in the overall population ( 12 . 1 % vs . 26 . 1 % , p = 0 . 01 , with a nnt = 9 ) and in non - diabetic patients ( 9 . 2 % vs . 25 . 0 % , p = 0 . 02 ) , but showed no benefit in diabetics ( 16 . 7 % vs . 28 . 2 % , p = 0 . 21 ) .
+
+Premise
+a trend for lower pmi was seen in the intervention arm ( creatine kinase - muscle brain > 5 url ; 8 . 4 % vs . 16 . 4 % , p = 0 . 07 ; troponin t > 5 url ; 27 % vs . 38 % , p = 0 . 21 ) .
+
+Claim
+remote ischemic preconditioning significantly reduces the incidence of acute kidney injury in non - diabetic patients undergoing pci .
+
+Claim
+larger sample size is presumably needed to assess the effect of ripc for patients with diabetes mellitus .
+
+Premise
+the results showed that mean c - imt z - scores increased significantly during 4 years ( 0 . 002 ± 0 . 003 , p < 0 . 001 ) as well as carotid - femoral pwv ( 13 . 99 ± 2 . 74 , p < 0 . 01 ) and total cholesterol ( 6 . 97 ± 1 . 08 , p < 0 . 001 ) .
+
+Premise
+linear regression showed statistically significant associations between systolic blood pressure , diastolic blood pressure , c - reactive protein , lip - line , and heart rate with c - imt z - scores of > 1 . 5sd in the fully adjusted models and the p values were 0 . 000 , 0 . 000 , 0 . 017 , 0 . 001 , and 0 . 044 , respectively .
+
+Premise
+in a full - model logistic regression , significant risk factors for an increase in imt of ≥1 . 5 z - scores were carotid - femoral pwv ( odds ratio : 1 . 119 , confidence interval : 1 . 018 , 1 . 230 , p = 0 . 020 < 0 . 05 ) at first measurement .
+
+Claim
+by lifestyle and medical intervention to control these risk factors may prevent progression of c - imt in old - aged cohort with hypertension .
+
+Claim
+the immunosuppressive drug rapamycin may influence insulin sensitivity in insulin - responsive tissues .
+
+Premise
+we found a significant reduction in dir after rapamycin pre - treatment ( - 8 ± 6 u / day , mean ± sd , p < 0 . 001 ) and 1 year after itx .
+
+Premise
+dir reduction 1 year after itx was greater in group 1 as compared to group 2 ( - 37 ± 15 vs . - 19 ± 13 u / day , p = 0 . 005 ) and remained significant after adjusting for gender , age , glucose and baseline hba1c ( beta = 18 . 2 ± 5 . 9 , p = 0 . 006 ) .
+
+Premise
+fasting glucose and hba1c significantly decreased 1 year after itx in group 1 ( hba1c : - 2 . 1 ± 1 . 4 % , p = 0 . 002 ) ,
+
+Premise
+fasting c - peptide ( + 0 . 5 ± 0 . 3 nmol / l , p = 0 . 002 ) and suito index increased ( + 57 . 4 ± 39 . 7 , p = 0 . 016 ) , without differences between the two groups .
+
+Premise
+hepatic glucose production decreased after rapamycin pre - treatment ( - 1 . 1 ± 1 . 1 mg / kg / min , p = 0 . 04 ) and after itx ( - 1 . 6 ± 0 . 6 mg / kg / min , p = 0 . 015 ) ,
+
+Premise
+no changes in peripheral glucose disposal were observed .
+
+Claim
+rapamycin pre - treatment before itx succeeds in reducing insulin requirement , enhancing hepatic insulin sensitivity .
+
+Claim
+this treatment may improve short - term itx outcomes , possibly in selected patients with t1dm complicated by insulin resistance .
+
+Claim
+the efficacy response is equal in both drugs while test drug showed more safety response .
+
+Claim
+it is concluded that safoof akseer e jigar possesses as effective a therapeutic value in treating hepatitis b as allopathic medicine .
+
+Claim
+observational data support a role for vitamin d in type 2 diabetes ,
+
+Claim
+but evidence from trials is inconclusive .
+
+Premise
+at week 24 , mean 25 ( oh ) d changed by 20 . 5 and - 1 . 6 ng / ml in the vitamin d and placebo groups , respectively ( p < 0 . 001 ) .
+
+Premise
+the vitamin d and placebo groups did not differ in change in isr or hba1c .
+
+Premise
+among patients treated with lifestyle only ( n = 28 ) , vitamin d supplementation reduced hba1c compared with placebo ( - 0 . 1 % vs 0 . 3 % , respectively ; p = 0 . 034 ) at week 24 .
+
+Premise
+at the end of the 2 - year follow - up period , the complete success and the failure rates were 67 % and 15 % , respectively , in the microcatheter - assisted group versus 47 % and 50 % in the rigid probe trabeculotomy group ( p = 0 . 006 ) .
+
+Premise
+there was a tendency towards lower iop in the microcatheter group at 1 , 3 , 6 , 12 and 24 months postoperatively , with the difference in iop reaching statistical significance at 6 months ( p = 0 . 004 ) .
+
+Premise
+the mean survival time was significantly longer for the microcatheter group ( p = 0 . 01 ) .
+
+Claim
+at 2 years postoperatively , microcatheter - assisted trabeculotomy still yielded superior results in terms of iop control and success rates in children with primary congenital glaucoma .
+
+Premise
+the need for reoperation for glaucoma was significantly lower in the microcatheter group .
+
+Premise
+eight weeks supplementation with epa led to significant reductions in met ( p < 0 . 002 ) and cys ( p < 0 . 001 ) compared with the placebo ( p < 0 . 06 ) .
+
+Premise
+compared to placebo a significant reduction in aip were seen after taking epa ( p < 0 . 04 ) .
+
+Claim
+epa supplementation in patients with t2dm for eight weeks had beneficial effects on met , cys and aip , which may attribute to the prevention of vascular complications in the t2dm patients .
+
+Claim
+postoperative radiochemotherapy is recommended for patients with advanced disease ( pt3 / 4 or pn + ) .
+
+Claim
+in recent years , encouraging results of preoperative radiotherapy have been reported .
+
+Premise
+acute toxicity ( who ) of radiochemotherapy was low , with less than 15 % of patients experiencing grade 3 or higher toxicity
+
+Premise
+the principal toxicity was diarrhea , with 12 % in the postoperative radiochemotherapy arm and 10 % in the preoperative radiochemotherapy arm having grade - 3 , and 1 % in either arm having grade - 4 diarrhea .
+
+Premise
+erythema , nausea and leukopenia were the next common toxicities , with less than 3 % of patients in either arm suffering grade 3 or greater leukopenia or nausea .
+
+Premise
+postoperative complication rates were similar in both arms , with 12 % ( postoperative radiochemotherapy ) and 13 % ( preoperative radiochemotherapy ) of patients , respectively , suffering from anastomotic leakage , 4 % ( postoperative radiochemotherapy ) and 3 % ( preoperative radiochemotherapy ) from postoperative bleeding , and 6 % ( postoperative radiochemotherapy ) and 5 % ( preoperative radiochemotherapy ) from delayed wound healing .
+
+Claim
+the patient accrual of our trial is satisfactory ,
+
+Claim
+neoadjuvant radiochemotherapy is well tolerated and bears no higher risk for postoperative morbidity .
+
+Claim
+imatinib ( gleevec ) , a highly effective specific tyrosine kinase inhibitor , demonstrates a better side effect profile than interferon - alpha ( ifn ) , which impairs patients ' quality of life ( qol ) .
+
+Premise
+there was a significant decline in toi scores for the ifn treatment arm compared with preservation of baseline toi scores in the imatinib arm ( p < . 001 , itt ) .
+
+Premise
+mean social / family and ewb scores were 22 . 8 and 19 . 5 , respectively , for imatinib and 21 . 6 and 17 . 6 , respectively , for ifn ( p < . 001 , itt ) .
+
+Premise
+after crossing over from ifn to imatinib , patients experienced a significant ( p < . 001 ) increase in toi scores .
+
+Claim
+imatinib offers clear qol advantages over ifn as first - line treatment of chronic - phase cml .
+
+Claim
+this study provided additional evidence on the beneficial effects of supplementing antioxidant vitamins in t2dm which could improve the clinical condition and attenuate or prevent diabetic pathogenesis and complications that , secondly to poor glycemic control , could attribute to the imbalance between the decline in the endogenous antioxidants and increasing production of the reactive oxygen species leading to the oxidant - mediated damage present in the diabetic context .
+
+Premise
+composite fact - g and most individual subscale scores ( physical , social / family , emotional , and functional well being ) in documented responders ( n = 21 ) gradually increased during the study period , generally reaching statistical significance ( p < 0 . 05 ) by cycle 3 , and were significantly ( p < or = 0 . 041 ) higher than the scores of nonresponders at endpoint .
+
+Premise
+additionally for responders , assessments of skin severity and pruritus severity showed significant ( p < or = 0 . 05 ) improvements at study endpoint compared with baseline .
+
+Premise
+adverse transfusion - related events ( eg , hypersensitivity reactions , flu - like syndrome ) were common during cycles 1 and 2 , and vascular - leak syndrome occurred in 25 % of patients .
+
+Claim
+denileukin diftitox was not associated with any clinically significant myelosuppression .
+
+Claim
+heavily pretreated patients with advanced and / or recurrent ctcl who responded to denileukin diftitox therapy showed significant improvements in self - rated overall qol , skin appearance , and pruritus severity .
+
+Premise
+results revealed that during daily consumption of fermented milk for 5 wk , systolic [ ( 116 . 55 ± 12 . 26 mmhg vs . 124 . 77 ± 11 . 04 mmhg ) and diastolic blood pressure ( 80 . 7 ± 9 vs . 84 . 5 ± 8 . 5 mmhg ) ] from the fermented milk group was lower than the control group .
+
+Premise
+additionally , triglyceride , total cholesterol , and low - density lipoprotein in blood serum were lower in the fermented milk group than in the control group .
+
+Claim
+results demonstrated that daily consumption of fermented milk with lactococcus lactis ( nrrl b - 50571 ) had a blood pressure - lowering effect on prehypertensive subjects .
+
+Claim
+regular consumption of this product may be used as a potential functional food .
+
+Premise
+after a median 2 . 0 year ( range = 0 . 2 - 3 . 1 ) follow - up , ≥ 1 serious hiv - related events occurred in 101 hiv mono - infected and 15 hiv - hbv co - infected patients ( ir = 10 . 0 versus 13 . 2 / 100 person / years , respectively , p = 0 . 3 )
+
+Premise
+incidence of bacterial infections was also highest in the co - infected group with hbv - replication > 10 , 000 copies / ml ( ir = 12 . 9 versus 3 . 3 / 100 person / years in hiv mono - infected patients , p = 0 . 001 ) .
+
+Premise
+the relative effect of cd4gt or 2 / 4 - art versus c - art was not different between infection groups ( p for interaction = 0 . 4 ) .
+
+Premise
+no increase in the incidence of non - hiv - related morbidity was observed for co - infected patients ( p = 0 . 5 ) , even at hbv - replication levels > 10 , 000 copies / ml ( p = 0 . 7 ) .
+
+Claim
+in conclusion , co - infected patients with elevated hbv - replication at art - initiation are more susceptible to hiv - related morbidity , especially invasive bacterial diseases , during treatment interruption .
+
+Premise
+by itt analysis , hbv reactivation was 0 % ( 0 / 33 ) in the study group and 10 . 7 % ( 3 / 28 ) in the observation group ( p = 0 . 091 ) .
+
+Premise
+none of the patients in either group showed significant differences in liver function parameters between baseline and the last follow - up sample .
+
+Claim
+tdf was generally well tolerated and there were no severe treatment - related adverse events .
+
+Claim
+in patients with hematological malignancy and resolved hepatitis b infection receiving rtx - based regimens , hbv reactivation did not occur in patients given tdf prophylaxis .
+
+Premise
+the non - invasive fibrosis serologic markers were further decreased in the experimental group , with significant differences after treatment observed for hyaluronic acid ( p = 0 . 032 ) and transforming growth factor - β ( p = 0 . 008 ) , but not for type iv collagen ( p = 0 . 174 ) .
+
+Claim
+this study suggests the possibility of korean red ginseng as a complementary therapy for chronic hepatitis b .
+
+Premise
+at week 12 , the mean ( sd ) diurnal iop was 17 . 8 ( 2 . 9 ) mmhg with brimonidine - timolol and 17 . 9 ( 3 . 9 ) mmhg with latanoprost ( p = 0 . 794 ) .
+
+Premise
+the percentage of patients achieving at least a 20 % decrease from baseline diurnal iop at week 12 was 87 . 7 % in the brimonidine - timolol group and 77 . 3 % in the latanoprost group ( p = 0 . 131 ) .
+
+Premise
+measured biomicroscopic changes from baseline to week 12 were infrequent in both groups .
+
+Claim
+fixed - combination brimonidine - timolol was as effective as latanoprost in reducing iop in patients with glaucoma or ocular hypertension .
+
+Claim
+both treatments demonstrated favorable ocular tolerability .
+
+Premise
+at radical prostatectomy , pathological variables were not significantly different in the two groups .
+
+Premise
+serum testosterone level was significantly higher ( mean 359 . 2 compared to 10 . 5 , p < 0 . 001 ) ,
+
+Premise
+complete response rate of psa ( 13 % compared to 57 % , p = 0 . 028 ) and rate of downsizing of prostate volume ( mean , - 17 . 7 % compared to - 35 . 4 % , p = 0 . 038 ) were significantly lower in the flutamide group than in the lhrh group .
+
+Premise
+after neoadjuvant hormone therapy , the scores on the sexual problem domain of eortc - p ( p = 0 . 033 ) and sexual desire score of smuf ( p = 0 . 021 ) were significantly higher in the flutamide group than in the lhrh group .
+
+Premise
+at a median follow - up of 34 months after prostatectomy , biochemical failure - free survival rate in the flutamide group did not differ from that in the lhrh group .
+
+Claim
+this study suggests that flutamide monotherapy can be an acceptable modality as an option for neoadjuvant hormone therapy .
+
+Claim
+iron - containing multiple micronutrient may reduce the risk of pregnancy - induced hypertension including gestational hypertension or preeclampsia .
+
+Premise
+the incidence of pregnancy - induced hypertension was 7 . 1 % ( 423 / 5923 ) , 6 . 3 % ( 374 / 5933 ) and 6 . 3 % ( 372 / 5914 ) among the pregnant women who took folic acid only , iron - folic acid and multiple micronutrient supplements , respectively .
+
+Premise
+the adjusted odds ratios associated with iron - folic acid supplements and multiple micronutrient supplements for pregnancy - induced hypertension were both nearly 0 . 88 ( 95 % confidence interval , 0 . 76 - 1 . 02 ) , compared with folic acid supplements only .
+
+Premise
+among pregnant women aged 20 - 24 years , iron - folic acid ( adjusted odds ratios : 0 . 81 , 95 % confidence interval : 0 . 67 - 0 . 96 ) or multiple micronutrient supplementation ( adjusted odds ratios : 0 . 83 , 95 % confidence interval : 0 . 70 - 0 . 99 ) can significantly reduce the risk of pregnancy - induced hypertension compared to folic acid supplementation .
+
+Claim
+among pregnant women aged 20 - 24 years , iron - containing multiple micronutrient supplementation was associated with a reduced risk of pregnancy - induced hypertension compared with folic acid supplements only .
+
+Premise
+patients treated with dc had a median survival of 11 . 3 v 10 . 1 months for vc - treated patients ( p = . 044 ; hazard ratio , 1 . 183 [ 97 . 2 % confidence interval , 0 . 989 to 1 . 416 ] ) .
+
+Premise
+the 2 - year survival rate was 21 % for dc - treated patients and 14 % for vc - treated patients .
+
+Premise
+overall response rate was 31 . 6 % for dc - treated patients v 24 . 5 % for vc - treated patients ( p = . 029 ) .
+
+Premise
+median survival ( 9 . 4 v 9 . 9 months [ for vc ] ; p = . 657 ; hazard ratio , 1 . 048 [ 97 . 2 confidence interval , 0 . 877 to 1 . 253 ] ) and response ( 23 . 9 % ) with dcb were similar to those results for vc .
+
+Premise
+neutropenia , thrombocytopenia , infection , and febrile neutropenia were similar with all three regimens .
+
+Premise
+grade 3 to 4 anemia , nausea , and vomiting were more common ( p < . 01 ) with vc than with dc or dcb .
+
+Claim
+dc resulted in a more favorable overall response and survival rate than vc .
+
+Claim
+both dc and dcb were better tolerated and provided patients with consistently improved qol compared with vc .
+
+Claim
+these findings demonstrate that a docetaxel plus platinum combination is an effective treatment option with a favorable therapeutic index for first - line treatment of advanced or metastatic nsclc .
+
+Premise
+multivariate analysis indicated a positive relationship between 6mwd and the physical composite score for qol ( p = 0 . 004 ) ,
+
+Premise
+negative relationship between delta spo2 and the mental composite score ( p = 0 . 02 ) , irrespective of other known prognostic factors ( such as haemodynamics at right heart catheterization ) .
+
+Premise
+depression and trait - anxiety were associated with a lower physical ( p = 0 . 001 ) and mental ( p < 0 . 001 ) qol , respectively .
+
+Claim
+a longitudinal and qualitative study should refine these results .
+
+Premise
+patients in the regular surveillance group were diagnosed at earlier stages ( [ very ] early stage , 64 . 4 % ) than the irregular surveillance ( 40 . 4 % ) or nonsurveillance ( 26 . 9 % ) groups and had more chance for curative treatments ( 52 . 4 % ) than the irregular surveillance ( 39 . 4 % ) or nonsurveillance ( 23 . 3 % ) groups ( all p < 0 . 001 ) .
+
+Premise
+mortality risk was significantly lower in the regular surveillance group ( adjusted hazard ratio [ ahr ] , 0 . 69 ; 95 % [ ci ] , 0 . 57 - 0 . 83 ) but not in the irregular surveillance group ( ahr , 0 . 94 ; 95 % ci , 0 . 69 - 1 . 28 ) compared with the nonsurveillance group after adjusting for confounding factors and lead - time .
+
+Premise
+when the subjects were restricted to cirrhotic patients or child - pugh class a / b patients , similar results were obtained for mortality risk reduction between groups .
+
+Claim
+hcc surveillance was associated with longer survival owing to earlier diagnosis and curative treatment .
+
+Claim
+survival advantage was significant with regular surveillance but not with irregular surveillance .
+
+Premise
+compared with the spironolactone group ( n = 95 ) , the clonidine group ( n = 92 ) presented similar rates of achieving the primary end point ( 20 . 5 % versus 20 . 8 % , respectively ; relative risk , 1 . 01 [ 0 . 55 - 1 . 88 ] ; p = 1 . 00 ) .
+
+Premise
+secondary end point analysis showed similar office bp ( 33 . 3 % versus 29 . 3 % ) and ambulatory bp monitoring ( 44 % versus 46 . 2 % ) control for spironolactone and clonidine , respectively .
+
+Claim
+clonidine was not superior to spironolactone in true resistant hypertensive patients , but the overall bp control was low ( ≈21 % ) .
+
+Claim
+low serum vitamin d has been associated with metabolic syndrome and non - alcoholic fatty liver disease ( nafld ) .
+
+Premise
+after 12 weeks of treatment , serum alkaline phosphatase levels was significantly decreased from baseline levels in vitamin d and calcitriol treated groups ( p < 0 . 05 ) .
+
+Premise
+serum and gamma glutamyl transferase ( ggt ) level was also significantly decreased compared to the baseline levels after 12 weeks of treatment with vitamin d .
+
+Premise
+there was no statistically significant difference between placebo , calcitriol , vitamin d groups in terms of serum aminotransferase , alkaline phosphatase , serum ggt and lipid profile ( p > 0 . 05 ) .
+
+Premise
+at two year follow - up there was a significant group by time interaction showing lower center for epidemiological studies - depression ( cesd ) scores in the ssri + ccb group , f ( 1 , 291 ) = 4 . 13 , p = 0 . 043 , η2 p = 0 . 014 .
+
+Premise
+over ten - years follow - up , ssri + ccb use was associated with improved general cognitive function ( mini - mental state examination : β = 0 . 97 ; 95 % ci 0 . 14 to 1 . 81 , p = 0 . 023 ) and immediate visual memory ( boston visual retention test : β = 0 . 69 ; 95 % ci 0 . 06 to 1 . 32 , p = 0 . 033 ) .
+
+Claim
+the findings provide general population evidence that ssri augmentation with ccb may improve depression and cognitive function .
+
+Premise
+for the de gramont , lokich , and raltitrexed groups , respectively , median survival was 294 , 302 , and 266 days .
+
+Premise
+the hazard ratios for overall survival were 0 . 88 ( 95 % ci 0 . 70 - 1 . 12 , p = 0 . 17 ) for de gramont versus lokich , and 0 . 99 ( 0 . 79 - 1 . 25 , p = 0 . 94 ) for de gramont versus raltitrexed .
+
+Premise
+an increase in treatment - related deaths was seen on raltitrexed ( de gramont one , lokich two , raltitrexed 18 ) due to combined gastrointestinal and haematological toxicity .
+
+Claim
+the degramont and lokich regimens were similar in terms of survival , quality of life , and response rates .
+
+Claim
+the lokich regimen was associated with more central line complications and hand - foot syndrome .
+
+Claim
+raltitrexed showed similar response rates and overall survival to the de gramont regimen and was easier to administer ,
+
+Claim
+but resulted in greater toxicity and inferior quality of life .
+
+Premise
+the mean ( sd ) systolic bp decreased by 8 ( 12 ) mm hg in the standard group and by 27 ( 17 ) mm hg in the intensive group ( p < . 001 ) , with mean ( sd ) achieved pressures of 141 ( 13 ) and 126 ( 10 ) mm hg , respectively .
+
+Premise
+change in global perfusion did not differ between treatment groups : the mean ( sd ) change was - 0 . 5 ( 9 . 4 ) ml / min / 100 g in the standard group vs 0 . 7 ( 8 . 6 ) ml / min / 100 g in the intensive group ( partial η2 , 0 . 004 ; 95 % ci , - 3 . 551 to 5 . 818 ; p = . 63 ) .
+
+Premise
+no differences were observed when the analysis examined gray or white matter only or was confined to those achieving target bp .
+
+Premise
+the number of adverse events did not differ between treatment groups , with a mean ( sd ) of 0 . 21 ( 0 . 65 ) for the standard group and 0 . 32 ( 0 . 75 ) for the intensive group ( p = . 44 ) .
+
+Claim
+intensive bp lowering did not reduce cerebral perfusion in severe small vessel disease .
+
+Premise
+both drugs were equally effective in reducing iop ( lt : - 35 . 0 % ±10 . 0 % ; bt : - 33 . 6 % ±8 . 8 % , p = 0 . 463 between groups ) .
+
+Premise
+no difference in ocular perfusion pressure was observed between the 2 treatment groups ( p = 0 . 1 , between groups ) .
+
+Premise
+neither lt nor bt altered onhbf ( p = 0 . 4 , baseline vs . treatment )
+
+Premise
+no effect on flow velocities in the retrobulbar vessels was seen with either of the 2 treatments .
+
+Claim
+a 6 - week treatment with lt or bt was equally effective in reducing iop .
+
+Claim
+none of the administered drugs induced a significant effect on ocular blood flow parameters .
+
+Premise
+in chest - 1 , riociguat significantly improved rrs ( p < 0 . 0001 ) and risk stratum ( p < 0 . 001 ) vs placebo from baseline to week 16 .
+
+Premise
+rrs at baseline , and at week 16 , and change in rrs during chest - 1 were significantly associated with survival ( hazard ratios for a 1 - point reduction in rrs : 0 . 702 , 0 . 692 , and 0 . 682 , respectively ) and clinical worsening - free survival ( hazard ratios : 0 . 697 , 0 . 719 , and 0 . 754 , respectively ) over 2 years in chest - 2 .
+
+Claim
+this analysis of rrs in patients with inoperable or persistent / recurrent cteph suggests utility for the rrs in indications beyond pah .
+
+Claim
+spironolactone could be used as the fourth - line therapy in patients with resistant hypertension .
+
+Premise
+systolic bp was reduced from 143 . 5 ± 8 . 2 mmhg to 137 . 10 ± 7 . 57 mmhg in the intervention group , while it did not change significantly in control ( between group treatment difference = - 4 . 5 mmhg , p = 0 . 004 ) .
+
+Premise
+there was no significant reduction of diastolic bp in the intervention group in comparison to placebo group ( between group treatment difference = - 1 . 3 mmhg , p = 0 . 099 ) .
+
+Claim
+short course monotherapy with low dose spironolactone is effective in reducing systolic bp in patients with stage i essential hypertension .
+
+Premise
+of the 46 patients in the treatment group , 73 . 91 % had undetectable serum hbv dna , 32 . 61 % achieved hbeag seroconversion and 21 . 74 % lost hepatitis b surface antigen ( hbsag ) at the endpoint .
+
+Premise
+no lam resistance emerged at week 96 .
+
+Premise
+for all patients , no serious adverse events were observed .
+
+Claim
+it shows that a sequential combination of interferon - α and lamivudine was beneficial .
+
+Premise
+aortic systolic pressure and augmentation index , assessed by radial artery oscillatory tonometry , were unaffected by cpap but decreased after azt and azt plus cpap ( rm - anova p = . 030 and . 031 , respectively ) .
+
+Premise
+the apnea - hypopnea index was significantly reduced in all three treatment arms , most prominently by azt plus cpap ( rm - anova p = . 003 ) .
+
+Premise
+the reduction of venous bicarbonate concentration following azt was correlated with the change of apnea - hypopnea index ( r = 0 . 66 , p = . 013 ) .
+
+Claim
+azt reduced blood pressure , vascular stiffness , and sleep - disordered breathing in patients with osa and comorbid hypertension .
+
+Claim
+carbonic anhydrase inhibition may constitute a potential target for drug therapy in patients with sleep apnea and comorbid hypertension .
+
+Claim
+there may be salutary effects of incretin - based treatments on the diabetic kidney ,
+
+Claim
+but the system is complex and not amenable to simple explanation or prior prediction .
+
+Claim
+this contrasts with the renal effects of sglt2 inhibitors , which can be explained concisely .
+
+Premise
+mean iop reduction ( d0 - d84 ) was - 8 . 6 ±2 . 6 mm hg ( - 36 % ) on t2345 and - 9 . 0 ±2 . 4 mm hg ( - 38 % ) on bpl , confirming non - inferiority of t2345 to bpl .
+
+Premise
+the most frequent ocular adverse event , drug intolerance , was reported in 1 ( 0 . 5 % ) patient on t2345 versus 4 ( 2 . 1 % ) patients on bpl .
+
+Premise
+moderate to severe conjunctival hyperaemia was less frequent on t2345 than on bpl at d42 ( 20 . 2 % vs 30 . 6 % ; p = 0 . 003 ) and d84 ( 21 . 4 % vs 29 . 1 % ; p = 0 . 02 ) .
+
+Premise
+upon instillation , the global subjective ocular symptom score was significantly lower on t2345 than bpl on d42 ( 0 . 15 vs 0 . 41 ; p = 0 . 001 ) and d84 ( 0 . 18 vs 0 . 46 ; p = 0 . 001 ) .
+
+Claim
+preservative - free latanoprost has the same efficacy as bpl , with improved local tolerance .
+
+Premise
+symptomatic hypotension did not develop in any of the patients during the wet session , compared to 4 ( 40 % ) during the dry session .
+
+Premise
+systolic blood pressure adjusted to ultrafiltration was stable during the wet session , 0 . 22 mmhg / 15 min ( 95 % ci - 0 . 27 to 0 . 70 ) , p = 0 . 38 , and significantly decreased during the dry session , - 0 . 68 mmhg / 15 min ( 95 % ci - 1 . 24 to - 0 . 11 ) , p = 0 . 02 .
+
+Premise
+diastolic blood pressure did not change during the sessions .
+
+Premise
+mean atrial natriuretic peptide significantly increased in the wet session , by 31 . 36 pgr / ml ( 95 % ci 8 . 73 - 53 . 99 ) , p = 0 . 007 , and slightly and insignificantly decreased in the dry session , by 21 . 66 pgr / ml ( 95 % ci - 52 . 59 to 9 . 25 ) , p = 0 . 167 .
+
+Premise
+aldosterone blood levels did not change .
+
+Claim
+reduced effective circulating volume is a major cause for idh , which can be prevented using head - out water immersion facilitated redistribution .
+
+Premise
+at the last follow - up visit , mean pre - operative iop decreased from 31 . 1 ( ± 14 . 2 ) to 16 . 2 ( ± 1 . 5 ) mm hg after trabeculectomy , and from 28 . 1 ( ± 9 . 0 ) to 15 . 7 ( ± 1 . 8 ) mm hg after ex - press implantation ( p = 0 . 001 ) .
+
+Premise
+the mean number of anti - glaucoma medicines prescribed at the last follow - up decreased from 3 . 7 pre - operatively ( both groups ) to 0 . 9 after trabeculectomy vs 0 . 3 after ex - press implantation ( p = 0 . 001 ) .
+
+Premise
+complete success rates ( 5 < iop < 18 mm hg without medications ) were higher with ex - press compared with trabeculectomy ( p = 0 . 0024 ) .
+
+Premise
+postoperative complications were more frequent after trabeculectomy ( 33 % ) compared with ex - press ( 20 % ) , with four trabeculectomy eyes ( 27 % ) needing postoperative interventions , compared with none with ex - press .
+
+Claim
+trabeculectomy and ex - press implantation provided similar iop control ,
+
+Claim
+the ex - press group had a lower rate of complications , fewer postoperative interventions , and needed less glaucoma medications .
+
+Claim
+sodium nitrite has been reported to be effective in reducing chronic peripheral pain .
+
+Premise
+the number of subjects reporting adverse events and the number of adverse events did not change with dose .
+
+Premise
+there were no reports of treatment - related headaches .
+
+Premise
+in the npsi assessment , patients in the 40 mg and 80 mg dose group reported a 12 . 7 % and 22 . 0 % reduction in pain , respectively , compared to an 8 . 4 % reduction by patients in the placebo group .
+
+Premise
+the 40 mg dosing group reported the greatest reduction in pain using the mcgill pain index and via patient logs of daily pain scores ,
+
+Premise
+the mean of pain scores reported by subjects in the 40 mg group dropped by day 41 and generally stayed lower than the mean of scores reported by subjects in either of the other two groups .
+
+Premise
+patients in the 80 mg sr - nitrite group had an improvement in both nerve sensory conductance and nerve sensory velocity .
+
+Premise
+no changes were observed in hba1c levels or pulseox .
+
+Claim
+sustained release sodium nitrite prevents the prevalent reports of headaches by patients treated with an immediate release formulation of sodium nitrite .
+
+Premise
+the 80 mg bid treatment had the more pronounced affect on bioactivity ( quantitative sensory testing ) , which was similar to the pad study , where this dose group had the greatest improvement in fmd { au : spell out fmd } .
+
+Claim
+the ability to alleviate pain with bid treatment of sr - nitrite offers promise for a new non - addictive , non - sedating treatment of chronic pain and warrants further study .
+
+Premise
+there was a greater reduction in wc , sbp , dbp and lap index after md compared with cd .
+
+Premise
+hdl : ldl ratio increased and total cholesterol , ldl - cholesterol , sbp , dbp and lap index decreased only in md .
+
+Premise
+complete success ( defined as iop < 16 mmhg on no medication ) could be achieved in 85 % eyes in study group while it was 60 % in control group ( p = 0 . 04 ) .
+
+Premise
+iop reduced by 71 . 1 % in study group from 41 . 9 ± 10 . 6 to 12 . 1 ± 2 . 7 mmhg and from 40 . 5 ± 8 . 5 to 12 . 8 ± 4 . 5 mmhg in control group , a decline of 68 . 29 % .
+
+Premise
+blebs in amt group showed better bleb morphology in terms of significantly better extent ( e3 ) on day 1 ( p = 0 . 03 ) and better height ( h2 and h3 ) ( p = 0 . 04 ) , according to the indiana bleb appearance grading scale , at all follow - up visits along with normal vascularity .
+
+Premise
+the study group required significantly lesser ( p = 0 . 03 ) bleb needlings as compared to control group .
+
+Claim
+amnion enhanced the efficacy of mmc - modulated trabeculectomy in terms of eyes with complete success and lesser interventions such as bleb needling .
+
+Claim
+this reiterates the role of amnion as a safe and effective bleb modulator .
+
+Claim
+methionine aminopeptidase 2 ( metap2 ) inhibition has been shown to result in significant weight loss and improved glucose control .
+
+Premise
+safety observations were consistent with sad findings .
+
+Premise
+efficacy measures in the mad phase indicated trends for weight change ( - 1 . 5 kg total zgn - 1061 vs - 0 . 2 kg placebo ) and other biomarker changes .
+
+Claim
+zgn - 1061 was well tolerated with no safety signals in all doses tested .
+
+Claim
+the desired pharmacokinetic profile and preliminary efficacy observations with zgn - 1061 support evaluation in larger and longer clinical trials .
+
+Premise
+eyes in the slt and the travoprost groups achieved a significant reduction in iop compared with the baseline iop values ( - 3 . 7 mm hg [ p = 0 . 002 ] vs - 4 . 1 mm hg [ p < 0 . 001 ] , respectively ) .
+
+Premise
+ninety - six percent of ntg eyes in the travoprost group , and 82 % of eyes in the slt group had iop fluctuations < 3 mm hg ( p = 0 . 01 ) .
+
+Premise
+success in fluctuation reduction was 75 % and 92 % for the slt and travoprost groups , respectively ( p = 0 . 005 ) .
+
+Claim
+both travoprost and slt can significantly reduce the iop in patients with poag and ntg .
+
+Claim
+travoprost better controls iop fluctuations than slt , especially during the daytime .
+
+Premise
+intra - ocular pressure ( iop ) change from baseline at 9 am / 11 am pooled over the 8 weeks was - 3 . 3 / - 3 . 3 mmhg in the btfc group and - 2 . 9 / - 3 . 4 mmhg in the dtfc group ,
+
+Premise
+ocular irritation was frequently seen in dtfc group .
+
+Premise
+blurred vision was frequently seen in btfc group ,
+
+Premise
+no noteworthy issue was observed in other safety outcome .
+
+Claim
+non - inferiority of btfc to dtfc in iop reduction was demonstrated after adding onto pga therapy in japanese oag / oh patients .
+
+Claim
+btfc can be considered as a safe and effective agent for glaucoma treatment .
+
+Premise
+after a mean follow - up period of 96 weeks , the proportion of hbv reactivation observed was 6 . 8 % ( 4 / 58 ) in the lam + adv group and 4 . 5 % ( 5 / 111 ) in the tdf group by using intention - to - treat analysis ( difference , - 2 . 3 % ; 95 % ci , - 9 . 84 - 5 . 24 % ) .
+
+Premise
+no serious adverse reactions were observed .
+
+Premise
+in the subgroup analysis for estimated glomerular filtration rate ( egfr ) before and after treatment , decreased egfr was observed only in the tdf group with cirrhosis ( 85 . 22 vs . 79 . 83 ml / min / 1 . 73 m2 , p = 0 . 000 ) .
+
+Claim
+stable switching to tdf monotherapy yielded non - inferior results at 96 weeks compared to the results obtained with lam + adv combination therapy in patients with lam - resistant chb and undetectable hbv dna .
+
+Claim
+however , tdf monotherapy in patients with cirrhosis requires close attention with respect to renal function .
+
+Premise
+the incidence of adverse events was low in both groups through 24 months of follow - up .
+
+Premise
+at 24 months , the proportion of patients with an iop of 21 mm hg or lower without ocular hypotensive medications was significantly higher in the stent group than in the control group ( p = . 036 ) .
+
+Premise
+the mean iop was stable between 12 months and 24 months ( 17 . 0 mm hg ± 2 . 8 [ sd ] and 17 . 1 ± 2 . 9 mm hg , respectively ) in the stent group but increased ( 17 . 0 ± 3 . 1 mm hg to 17 . 8 ± 3 . 3 mm hg , respectively ) in the control group .
+
+Premise
+ocular hypotensive medication was statistically significantly lower in the stent group at 12 months ; it was also lower at 24 months , although the difference was no longer statistically significant .
+
+Claim
+patients with combined single trabecular micro - bypass stent and cataract surgery had significantly better iop control on no medication through 24 months than patients having cataract surgery alone .
+
+Claim
+both groups had a similar favorable long - term safety profile .
+
+Premise
+the mean changes were - 4 . 7 + / - 2 . 1 ( s . d . ) in the timolol and - 4 . 0 + / - 2 . 0 mmhg in the brimonidine group ( p = 0 . 0138 ) .
+
+Premise
+when added to pg analogues , the iop - lowering effect of brimonidine ( - 2 . 9 + / - 1 . 8 mmhg ) was greater than that of the placebo ( - 2 . 1 + / - 1 . 8 mmhg ) ( p = 0 . 0010 ) .
+
+Claim
+topical brimonidine showed an additive iop - lowering effect to topical pg analogues ,
+
+Claim
+although its iop - lowering effect was inferior to topical timolol as monotherapy .
+
+Premise
+average change in mean arterial pressure from baseline to 2 years was - 1 . 2 ± 15 , - 1 . 8 ± 13 . 5 , - 2 . 6 ± 14 . 4 mm hg in the aflibercept , bevacizumab , and ranibizumab groups , respectively ( global p = 0 . 69 ) .
+
+Premise
+changes in uacr category were not different among treatment groups at the 52 - week visit ( global p = 0 . 29 ) .
+
+Claim
+there do not appear to be treatment group differences for changes in blood pressure or uacr as a reflection of kidney function in patients with dme treated with aflibercept , bevacizumab , or ranibizumab .
+
+Claim
+resistance exercise may help to counter some of these side effects by reducing fatigue , elevating mood , building muscle mass , and reducing body fat .
+
+Premise
+men assigned to resistance exercise had less interference from fatigue on activities of daily living ( p = . 002 ) and higher quality of life ( p = . 001 ) than men in the control group .
+
+Premise
+men in the intervention group demonstrated higher levels of upper body ( p = . 009 ) and lower body ( p < . 001 ) muscular fitness than men in the control group .
+
+Claim
+resistance exercise reduces fatigue and improves quality of life and muscular fitness in men with prostate cancer receiving androgen deprivation therapy .
+
+Claim
+this form of exercise can be an important component of supportive care for these patients .
+
+Premise
+the overall response rate was 8 . 4 % ( 95 % confidence interval [ ci ] ) 3 . 2 % to 13 . 7 % for patients treated with pvi 5 - fu alone compared with 17 . 6 % ; 95 % ci 10 . 3 % to 25 . 1 % for pvi 5 - fu plus mmc ( p = . 04 ) .
+
+Premise
+median failure - free survival was 2 . 8 months for pvi 5 - fu and 3 . 8 months for pvi 5 - fu plus mmc ( p = . 14 ) .
+
+Premise
+median survival was 5 . 1 months for pvi 5 - fu and 6 . 5 months for pvi 5 - fu plus mmc ( p = . 34 ) .
+
+Premise
+toxicities in both arms were mild .
+
+Premise
+there was an increased incidence of neutropenia in the 5 - fu plus mmc arm ( p < . 01 ) , although no differences in infection were seen .
+
+Premise
+no patients developed hemolytic uremic syndrome .
+
+Premise
+although there was no statistically significant difference in qol between arms .
+
+Claim
+pvi 5 - fu plus mmc resulted in a superior response rate in comparison with pvi 5 - fu alone in advanced pancreatic cancer ,
+
+Claim
+but this did not translate into a survival advantage .
+
+Claim
+these results emphasize the importance of chemotherapy in this setting and the continuing value of the fluoropyrimidines in pancreatic cancer .
+
+Claim
+fracture risk is increased in individuals with type 2 diabetes ( t2d ) .
+
+Premise
+btms increased from baseline to month 12 and remained higher at month 24 , with ctx and pinp increasing 28 . 5 % and 23 . 0 % ( all : p < 0 . 001 ) , respectively .
+
+Premise
+neither metformin nor rosiglitazone plasma concentrations was associated with btms .
+
+Claim
+the choice of insulin treatment is not influencing btms ,
+
+Claim
+metformin treatment may decrease btms ,
+
+Claim
+improvement of glycaemic control may influence bone resorption activity .
+
+Premise
+the data of the full analysis set showed that hbeag seroconversion rate at week 72 was 27 . 32 % in the trial group and 22 . 70 % in the control group with a rate difference of 4 . 63 % ( 95 % ci - 1 . 54 % to 10 . 80 % , p = 0 . 1493 ) .
+
+Premise
+the data of the per - protocol set showed that hbeag seroconversion rate at week 72 was 30 . 75 % in the trial group and 27 . 14 % in the control group with a rate difference of 3 . 61 % ( 95 % ci - 3 . 87 % to 11 . 09 % , p = 0 . 3436 ) .
+
+Premise
+the two groups had similar incidence rates of adverse events , serious adverse events , and common adverse events .
+
+Claim
+in peg - ifn - α regimen for hbeag - positive chb patients , the new drug peg - ifn - α - 2b ( y shape , 40 kd ) has comparable effect and safety to the control drug peg - ifn - α - 2a .
+
+Claim
+available data indicate that dietary sodium ( as salt ) relates directly to blood pressure ( bp ) .
+
+Premise
+normal weight and obese participants manifested significant positive relations to bp of urinary sodium ; relations were weaker for overweight people .
+
+Claim
+the adverse association of dietary sodium with bp is minimally attenuated by other dietary constituents ;
+
+Claim
+these findings underscore the importance of reducing salt intake for the prevention and control of prehypertension and hypertension .
+
+Claim
+evidence has shown that long - term sodium reduction can not only reduce blood pressure , but also provide cardiovascular benefits .
+
+Premise
+at the end of the study , the mean systolic blood pressure ( sbp ) of the ish lssalt group had significantly decreased by 10 . 18 mm hg ( 95 % confidence interval ( ci ) : 3 . 13 to 17 . 2 , p = . 006 ) compared with that of the ish nsalt group ,
+
+Premise
+the mean sbp only decreased by 5 . 10 mm hg ( 95 % ci : - 2 . 02 to 12 . 2 , p = . 158 ) in the nish lssalt group compared with that of the nish nsalt group .
+
+Premise
+the mean diastolic blood pressure ( dbp ) had no significant differences in the ish and nish groups .
+
+Premise
+no obvious renin angiotensin system activation was found after lssalt intervention .
+
+Premise
+regarding the urinary excretion of electrolytes and blood biochemical assays , the lssalt treatment had the same effects on the ish group as on the nish group .
+
+Claim
+the present study showed that the sbp of ish patients was significantly decreased with the lssalt intervention ,
+
+Premise
+peak oxygen consumption increased by 0 . 24 l / min in the exercise group ,
+
+Premise
+whereas it decreased by 0 . 05 l / min in the control group ( mean difference , 0 . 29 l / min ; 95 % confidence interval [ ci ] , 0 . 18 to 0 . 40 ; p < . 001 ) .
+
+Premise
+overall qol increased by 9 . 1 points in the exercise group compared with 0 . 3 points in the control group ( mean difference , 8 . 8 points ; 95 % ci , 3 . 6 to 14 . 0 ; p = . 001 ) .
+
+Premise
+pearson correlations indicated that change in peak oxygen consumption correlated with change in overall qol ( r = 0 . 45 ; p < . 01 ) .
+
+Claim
+exercise training had beneficial effects on cardiopulmonary function and qol in postmenopausal breast cancer survivors .
+
+Premise
+epoetin alfa , compared with placebo , significantly decreased transfusion requirements ( p = . 0057 ) and increased hemoglobin ( p < . 001 ) .
+
+Premise
+improvement of all primary cancer - and anemia - specific qol domains , including energy level , ability to do daily activities , and fatigue , was significantly ( p < . 01 ) greater for epoetin alfa versus placebo patients .
+
+Premise
+kaplan - meier estimates showed a trend in overall survival favoring epoetin alfa ( p = . 13 , log - rank test ) ,
+
+Premise
+cox regression analysis showed an estimated hazards ratio of 1 . 309 ( p = . 052 ) favoring epoetin alfa .
+
+Premise
+adverse events were comparable between groups .
+
+Claim
+epoetin alfa safely and effectively ameliorates anemia and significantly improves qol in cancer patients receiving nonplatinum chemotherapy .
+
+Claim
+encouraging results regarding increased survival warrant another trial designed to confirm these findings .
+
+Premise
+fewer complications were noted in eyes receiving sclerostomy ( 5 / 29 , 17 . 2 % ) as compared to control group eyes ( 12 / 31 , 38 . 7 % ) , though differences were marginally significant ( p = . 065 ) .
+
+Premise
+four control group , but no sclerostomy group , eyes developed postoperative uveal effusions ( p = . 04 ) .
+
+Premise
+in multivariable models , sclerostomy decreased the odds of an intraoperative or postoperative complication by 80 % ( odds ratio [ or ] = 0 . 2 , 95 % confidence interval [ ci ] = 0 . 04 - 0 . 92 , p = . 039 ) ;
+
+Premise
+sics was associated with a significantly higher risk of complications as compared to phacoemulsification ( or = 5 . 95 , 95 % ci = 1 . 49 - 23 . 73 , p = . 012 ) , while high preoperative intraocular pressure ( or = 4 . 54 , 95 % ci = 0 . 99 - 20 . 9 , p = . 052
+
+Claim
+cataract surgery in eyes with nanophthalmos is associated with a high risk for vision - threatening complications .
+
+Claim
+performing a simultaneous prophylactic sclerostomy with cataract surgery reduces complication rates , particularly uveal effusions .
+
+Claim
+cataract surgery at earlier stages by phacoemulsification may be more beneficial than undergoing manual sics .
+
+Premise
+in 389 eligible patients , the relative dose intensities ( rdis ) of cyclophosphamide ( median , 96 . 3 % v 93 . 9 % ; p = . 01 ) and doxorubicin ( median , 95 . 4 % v 93 . 3 % ; p = . 04 ) were higher in patients treated with chop plus g - csf .
+
+Premise
+the complete response rates were 55 % and 52 % for chop and chop plus g - csf , respectively ( p = . 63 ) .
+
+Premise
+the actuarial overall survival at 5 years was 22 % with chop alone , compared with 24 % with chop plus g - csf ( p = . 76 ) , with a median follow - up of 33 months .
+
+Premise
+patients treated with chop plus g - csf had an identical incidence of infections , with world health organization grade 3 to 4 ( 34 of 1 , 191 cycles v 36 of 1 , 195 cycles ) .
+
+Premise
+only the cumulative days with antibiotics were fewer with chop plus g - csf ( median , 0 v 6 days ; p = . 006 ) than with chop alone .
+
+Premise
+the number of hospital admissions and the number of days in hospital were not different .
+
+Claim
+in elderly patients , g - csf improved the rdi of chop ,
+
+Claim
+g - csf did not prevent serious infections .
+
+Premise
+after completion of chemotherapy , patients treated with trastuzumab and chemotherapy reported significant improvement in fatigue ( p < . 05 ) as compared with their baseline scores .
+
+Premise
+higher proportions of patients receiving the combined therapy achieved improvement in global qol ( p < . 05 ) than did patients treated with chemotherapy alone .
+
+Premise
+higher proportions of the combined therapy group also achieved improvement in physical and role functioning and in fatigue as compared with the chemotherapy group ,
+
+Premise
+but the differences were not statistically significant .
+
+Premise
+there were no differences in the proportions of patients in the two groups that reported worsening .
+
+Premise
+in the primary analysis , none of the 147 infants ( 0 % ; 95 % confidence interval [ ci ] , 0 to 2 ) in the tdf group were infected , as compared with 3 of 147 ( 2 % ; 95 % ci , 0 to 6 ) in the placebo group ( p = 0 . 12 ) .
+
+Premise
+the rate of adverse events did not differ significantly between groups .
+
+Premise
+the incidence of a maternal alanine aminotransferase level of more than 300 iu per liter after discontinuation of the trial regimen was 6 % in the tdf group and 3 % in the placebo group ( p = 0 . 29 ) .
+
+Claim
+in a setting in which the rate of mother - to - child hbv transmission was low with the administration of hepatitis b immune globulin and hepatitis b vaccine in infants born to hbeag - positive mothers , the additional maternal use of tdf did not result in a significantly lower rate of transmission .
+
+Premise
+time with nocturnal hypoglycemia , glucose levels < 70 mg / dl was reduced by 48 % ( 10 . 2 vs . 19 . 6 min each night , p < 0 . 001 ) and glucose levels < 54 mg / dl by 65 % .
+
+Premise
+( 3 . 1 vs . 8 . 9 min , p < 0 . 001 ) .
+
+Premise
+for the corresponding glucose cutoffs , daytime hypoglycemia was reduced by 40 % ( 29 vs . 49 min , p < 0 . 001 ) and 54 % ( 8 vs . 18 min . , p < 0 . 001 ) , respectively .
+
+Premise
+compared with smbg , cgm use improved hypoglycemia - related confidence in social situations ( p = 0 . 016 ) and confidence in more broadly avoiding serious problems due to hypoglycemia ( p = 0 . 0020 ) .
+
+Premise
+persons also reported greater confidence in detecting and responding to decreasing blood glucose levels ( thereby avoiding hypoglycemia ) during cgm use ( p = 0 . 0033 )
+
+Premise
+indicated greater conviction that they could more freely live their lives despite the risk of hypoglycemia ( p = 0 . 022 ) .
+
+Claim
+cgm reduced time in both nocturnal and daytime hypoglycemia in persons with type 1 diabetes treated with mdi and improved hypoglycemia - related confidence , especially in social situations , thus contributing to greater well - being and quality of life .
+
+Premise
+eyes randomized to timolol progressed faster than those randomized to brimonidine ( mean rates of progression , - 0 . 38 0 . 9 vs 0 . 02 0 . 7 db / y , p < . 01 ) .
+
+Premise
+older age ( hazard ratio [ hr ] = 1 . 41 / decade older , 95 % confidence interval [ ci ] = 1 . 05 to 1 . 90 , p = . 022 ) , use of systemic antihypertensives ( hr = 2 . 53 , 95 % ci = 1 . 32 to 4 . 87 , p = . 005 ) , and mean ocular perfusion pressure ( hr = 1 . 21 / mm hg lower , 95 % ci = 1 . 12 to 1 . 31 , p < . 001 ) were associated with progression
+
+Premise
+randomization to brimonidine
+
+Claim
+this suggests that the beneficial effect of randomization to the brimonidine arm was independent of possible differences in ocular perfusion pressures between the 2 treatment arms .
+
+Claim
+the current results and large number of drop - outs in the brimonidine 0 . 2 % arm suggest that more research is necessary before altering clinical practice paradigms .
+
