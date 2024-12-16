@@ -1,14 +1,20 @@
 # Estimating Argumentative Class Prevalence in Textual Data for Automatic Analysis of Scientific Literature
 In this repository you can find the code used for all the experiments conducted in the related report.
 
+---
+
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Folder Structure](#folder-structure)
+
+---
 
 ## Project Description
 Peer review is a cornerstone of research but is resource-intensive. Recent studies have suggested that a research paper's relevance correlates with its argumentative content. However, classification-based approaches to evaluate argumentative content have proven suboptimal. This project addresses these limitations by focusing on quantification, directly estimating class prevalence rather than classifying individual items.
 
 We employ datasets derived from abstracts of randomized controlled trials (RCTs) in the medical domain. By leveraging QuaNet and other state-of-the-art techniques, this work aims to estimate argumentative structures effectively, contributing to more efficient and scalable analysis of scientific literature.
+
+---
 
 ## Folder Structure
 
